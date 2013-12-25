@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Blessing of Fire -->
+  <item id="1">
+    <ingredient id="7907" count="1"/>
+    <production id="7906" count="1"/>
+  </item>
+
+  <!-- Blessing of Water -->
+  <item id="2">
+    <ingredient id="7906" count="1"/>
+    <production id="7907" count="1"/>
+  </item>
+
+  <!-- Blessing of Wind -->
+  <item id="3">
+    <ingredient id="7909" count="1"/>
+    <production id="7908" count="1"/>
+  </item>
+
+  <!-- Blessing of Earth -->
+  <item id="4">
+    <ingredient id="7908" count="1"/>
+    <production id="7909" count="1"/>
+  </item>
+
+  <!-- Blessing of Darkness -->
+  <item id="5">
+    <ingredient id="7911" count="1"/>
+    <production id="7910" count="1"/>
+  </item>
+
+  <!-- Blessing of Sanctity -->
+  <item id="6">
+    <ingredient id="7910" count="1"/>
+    <production id="7911" count="1"/>
+  </item>
+
+
+</list>

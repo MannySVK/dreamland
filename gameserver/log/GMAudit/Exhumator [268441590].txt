@@ -1,0 +1,109 @@
+27/04/2013 15:11:04>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:11>Exhumator [268441590]>gmspeed 4>no-target>
+27/04/2013 15:11:13>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:15>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:17>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:18>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:20>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:21>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:23>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:25>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:28>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:53>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:56>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:11:59>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:12:32>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:12:36>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:12:43>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:12:49>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:13:43>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:13:56>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:13:59>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:14:01>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:14:04>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:14:06>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:14:08>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:14:10>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:14:12>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:14:14>Exhumator [268441590]>kill 5000>Dark Corpse>
+27/04/2013 15:16:37>Exhumator [268441590]>gmspeed 0>Glottis>
+27/04/2013 15:21:07>Exhumator [268441590]>kill 5000>Mandragora Sapling>
+27/04/2013 15:21:13>Exhumator [268441590]>gmspeed 4>Mandragora Sapling>
+27/04/2013 15:21:15>Exhumator [268441590]>kill 5000>Mandragora Sapling>
+27/04/2013 15:21:17>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:21>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:25>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:27>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:29>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:30>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:32>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:36>Exhumator [268441590]>kill 5000>Mandragora Blossom>
+27/04/2013 15:21:41>Exhumator [268441590]>kill 5000>Mandragora Blossom>
+27/04/2013 15:21:45>Exhumator [268441590]>kill 5000>Mandragora Blossom>
+27/04/2013 15:21:49>Exhumator [268441590]>kill 5000>no-target>
+27/04/2013 15:21:54>Exhumator [268441590]>kill 5000>Location ends here>
+27/04/2013 15:22:11>Exhumator [268441590]>kill 5000>Location ends here>
+27/04/2013 15:22:14>Exhumator [268441590]>kill 5000>Location ends here>
+27/04/2013 15:22:41>Exhumator [268441590]>kill 5000>no-target>
+28/04/2013 3:09:43>Exhumator [268441590]>setlevel 80>Exhumator>
+28/04/2013 3:10:26>Exhumator [268441590]>setlevel 80>Exhumator>
+29/04/2013 16:33:10>Exhumator [268441590]>server_restart 1>no-target>
+29/04/2013 16:41:20>Exhumator [268441590]>reload npc>NPC lvl 85>
+29/04/2013 16:41:51>Exhumator [268441590]>spawn_once 43018>no-target>
+29/04/2013 16:53:30>Exhumator [268441590]>admin>no-target>
+29/04/2013 16:53:32>Exhumator [268441590]>admin_show_characters 0>no-target>
+29/04/2013 16:55:53>Exhumator [268441590]>admin>Exhumator>
+29/04/2013 16:55:55>Exhumator [268441590]>admin_create_item>Exhumator>
+29/04/2013 16:56:03>Exhumator [268441590]>admin_create_coin Adena 2000000000>Exhumator>
+29/04/2013 16:56:58>Exhumator [268441590]>admin>Exhumator>
+29/04/2013 16:57:03>Exhumator [268441590]>admin_admin2>Exhumator>
+29/04/2013 16:57:10>Exhumator [268441590]>admin_pledge rep 10000000>Exhumator>
+29/04/2013 17:07:00>Exhumator [268441590]>server_restart 1>Hollint>
+29/04/2013 17:45:14>Exhumator [268441590]>server_restart 1>Hollint>
+29/04/2013 17:46:24>Exhumator [268441590]>admin>Exhumator>
+29/04/2013 17:46:26>Exhumator [268441590]>admin_admin2>Exhumator>
+29/04/2013 17:46:29>Exhumator [268441590]>admin_pledge setlevel 5>Exhumator>
+29/04/2013 17:49:02>Exhumator [268441590]>admin>Exhumator>
+29/04/2013 17:49:03>Exhumator [268441590]>admin_show_characters 0>Exhumator>
+29/04/2013 17:49:17>Exhumator [268441590]>server_restart 2>Exhumator>
+29/04/2013 17:51:04>Exhumator [268441590]>admin>Exhumator>
+29/04/2013 17:51:05>Exhumator [268441590]>admin_admin2>Exhumator>
+29/04/2013 17:51:10>Exhumator [268441590]>admin_pledge setlevel 1>Exhumator>
+29/04/2013 18:17:37>Exhumator [268441590]>kill>Spirit>
+29/04/2013 18:18:04>Exhumator [268441590]>nokarma>Exhumator>
+29/04/2013 18:19:25>Exhumator [268441590]>kill 5000>no-target>
+29/04/2013 18:19:41>Exhumator [268441590]>kill 5000>no-target>
+29/04/2013 18:19:48>Exhumator [268441590]>kill 5000>no-target>
+29/04/2013 18:19:49>Exhumator [268441590]>kill 5000>no-target>
+29/04/2013 18:20:05>Exhumator [268441590]>kill 5000>Spirit>
+29/04/2013 18:21:17>Exhumator [268441590]>admin>no-target>
+29/04/2013 18:21:19>Exhumator [268441590]>admin_show_characters 0>no-target>
+29/04/2013 19:30:03>Exhumator [268441590]>gmspeed 2>Hollint>
+29/04/2013 19:35:55>Exhumator [268441590]>reload htm>Tamil>
+29/04/2013 19:36:40>Exhumator [268441590]>reload htm>Hollint>
+29/04/2013 19:37:58>Exhumator [268441590]>admin>EdgarAllanPoe14>
+29/04/2013 19:38:01>Exhumator [268441590]>admin_show_characters 0>EdgarAllanPoe14>
+29/04/2013 19:38:03>Exhumator [268441590]>admin_character_info EdgarAllanPoe14>EdgarAllanPoe14>
+29/04/2013 19:38:12>Exhumator [268441590]>admin_show_characters 0>EdgarAllanPoe14>
+29/04/2013 19:38:13>Exhumator [268441590]>admin_admin>EdgarAllanPoe14>
+29/04/2013 19:38:14>Exhumator [268441590]>admin_admin2>EdgarAllanPoe14>
+29/04/2013 19:38:22>Exhumator [268441590]>admin_pledge dismiss>EdgarAllanPoe14>
+29/04/2013 19:40:09>Exhumator [268441590]>nokarma>Exhumator>
+29/04/2013 19:41:40>Exhumator [268441590]>server_restart 1>no-target>
+29/04/2013 19:47:03>Exhumator [268441590]>admin>Exhumator>
+29/04/2013 19:47:04>Exhumator [268441590]>admin_admin2>Exhumator>
+29/04/2013 19:47:06>Exhumator [268441590]>admin_pledge setlevel 3>Exhumator>
+29/04/2013 19:47:50>Exhumator [268441590]>admin>Exhumator>
+29/04/2013 19:47:53>Exhumator [268441590]>admin_admin2>Exhumator>
+29/04/2013 19:47:56>Exhumator [268441590]>admin_pledge setlevel 2>Exhumator>
+29/04/2013 20:18:42>Exhumator [268441590]>server_shutdown 3>Clint Eastwood>
+29/04/2013 20:27:59>Exhumator [268441590]>reload config>Clint Eastwood>
+29/04/2013 21:40:44>Exhumator [268441590]>admin>Clint Eastwood>
+29/04/2013 21:40:45>Exhumator [268441590]>admin_show_characters 0>Clint Eastwood>
+02/05/2013 12:39:41>Exhumator [268441590]>admin>Hollint>
+02/05/2013 12:39:42>Exhumator [268441590]>admin_admin2>Hollint>
+02/05/2013 12:39:47>Exhumator [268441590]>admin_pledge setlevel>Exhumator>
+02/05/2013 12:39:52>Exhumator [268441590]>admin_pledge setlevel 5>Exhumator>
+02/05/2013 13:54:00>Exhumator [268441590]>kill>Hasha>
+02/05/2013 14:10:06>Exhumator [268441590]>reload multisell>Glottis>
+02/05/2013 14:12:14>Exhumator [268441590]>reload multisell>Glottis>

@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Sealed Majestic Gauntlets -->
+  <item id="1">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5776" count="1"/>
+    <production id="5318" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Gauntlets -->
+  <item id="2">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5775" count="1"/>
+    <production id="5318" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Gauntlets -->
+  <item id="3">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5774" count="1"/>
+    <production id="5318" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Boots -->
+  <item id="4">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5788" count="1"/>
+    <production id="5319" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Boots -->
+  <item id="5">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5787" count="1"/>
+    <production id="5319" count="1"/>
+  </item>
+
+  <!-- Sealed Majestic Boots -->
+  <item id="6">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5786" count="1"/>
+    <production id="5319" count="1"/>
+  </item>
+
+  <!-- Sealed Dark Crystal Gloves -->
+  <item id="7">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5767" count="1"/>
+    <production id="5290" count="1"/>
+  </item>
+
+  <!-- Sealed Dark Crystal Gloves -->
+  <item id="8">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5766" count="1"/>
+    <production id="5290" count="1"/>
+  </item>
+
+  <!-- Sealed Dark Crystal Gloves -->
+  <item id="9">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5765" count="1"/>
+    <production id="5290" count="1"/>
+  </item>
+
+  <!-- Sealed Dark Crystal Boots -->
+  <item id="10">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5779" count="1"/>
+    <production id="5291" count="1"/>
+  </item>
+
+  <!-- Sealed Dark Crystal Boots -->
+  <item id="11">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5778" count="1"/>
+    <production id="5291" count="1"/>
+  </item>
+
+  <!-- Sealed Dark Crystal Boots -->
+  <item id="12">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5777" count="1"/>
+    <production id="5291" count="1"/>
+  </item>
+
+  <!-- Sealed Gauntlets of Nightmare -->
+  <item id="13">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5773" count="1"/>
+    <production id="5313" count="1"/>
+  </item>
+
+  <!-- Sealed Gauntlets of Nightmare -->
+  <item id="14">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5772" count="1"/>
+    <production id="5313" count="1"/>
+  </item>
+
+  <!-- Sealed Gauntlets of Nightmare -->
+  <item id="15">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5771" count="1"/>
+    <production id="5313" count="1"/>
+  </item>
+
+  <!-- Sealed Boots of Nightmare -->
+  <item id="16">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5785" count="1"/>
+    <production id="5314" count="1"/>
+  </item>
+
+  <!-- Sealed Boots of Nightmare -->
+  <item id="17">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5784" count="1"/>
+    <production id="5314" count="1"/>
+  </item>
+
+  <!-- Sealed Boots of Nightmare -->
+  <item id="18">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5783" count="1"/>
+    <production id="5314" count="1"/>
+  </item>
+
+  <!-- Sealed Tallum Gloves -->
+  <item id="19">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5770" count="1"/>
+    <production id="5295" count="1"/>
+  </item>
+
+  <!-- Sealed Tallum Gloves -->
+  <item id="20">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5769" count="1"/>
+    <production id="5295" count="1"/>
+  </item>
+
+  <!-- Sealed Tallum Gloves -->
+  <item id="21">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5768" count="1"/>
+    <production id="5295" count="1"/>
+  </item>
+
+  <!-- Sealed Tallum Boots -->
+  <item id="22">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5782" count="1"/>
+    <production id="5296" count="1"/>
+  </item>
+
+  <!-- Sealed Tallum Boots -->
+  <item id="23">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5781" count="1"/>
+    <production id="5296" count="1"/>
+  </item>
+
+  <!-- Sealed Tallum Boots -->
+  <item id="24">
+    <ingredient id="57" count="30000"/>
+    <ingredient id="5780" count="1"/>
+    <production id="5296" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Gloves - Light Armor -->
+  <item id="25">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5720" count="1"/>
+    <production id="5719" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Gloves - Heavy Armor -->
+  <item id="26">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5720" count="1"/>
+    <production id="5718" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Gloves - Robe -->
+  <item id="27">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5719" count="1"/>
+    <production id="5720" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Gloves - Heavy Armor -->
+  <item id="28">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5719" count="1"/>
+    <production id="5718" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Gloves - Robe -->
+  <item id="29">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5718" count="1"/>
+    <production id="5720" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Gloves - Light Armor -->
+  <item id="30">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5718" count="1"/>
+    <production id="5719" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Boots - Light Armor -->
+  <item id="31">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5736" count="1"/>
+    <production id="5735" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Boots - Heavy Armor -->
+  <item id="32">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5736" count="1"/>
+    <production id="5734" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Boots - Robe -->
+  <item id="33">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5735" count="1"/>
+    <production id="5736" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Boots - Heavy Armor -->
+  <item id="34">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5735" count="1"/>
+    <production id="5734" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Boots - Robe -->
+  <item id="35">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5734" count="1"/>
+    <production id="5736" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Boots - Light Armor -->
+  <item id="36">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5734" count="1"/>
+    <production id="5735" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Light Armor -->
+  <item id="37">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5724" count="1"/>
+    <production id="5723" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Heavy Armor -->
+  <item id="38">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5724" count="1"/>
+    <production id="5722" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Robe -->
+  <item id="39">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5723" count="1"/>
+    <production id="5724" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Heavy Armor -->
+  <item id="40">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5723" count="1"/>
+    <production id="5722" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Robe -->
+  <item id="41">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5722" count="1"/>
+    <production id="5724" count="1"/>
+  </item>
+
+  <!-- Doom Gloves - Light Armor -->
+  <item id="42">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5722" count="1"/>
+    <production id="5723" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Light Armor -->
+  <item id="43">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5740" count="1"/>
+    <production id="5739" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Heavy Armor -->
+  <item id="44">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5740" count="1"/>
+    <production id="5738" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Robe -->
+  <item id="45">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5739" count="1"/>
+    <production id="5740" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Heavy Armor -->
+  <item id="46">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5739" count="1"/>
+    <production id="5738" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Robe -->
+  <item id="47">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5738" count="1"/>
+    <production id="5740" count="1"/>
+  </item>
+
+  <!-- Doom Boots - Light Armor -->
+  <item id="48">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5738" count="1"/>
+    <production id="5739" count="1"/>
+  </item>
+
+  <!-- Avadon Gloves - Light Armor -->
+  <item id="49">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5716" count="1"/>
+    <production id="5715" count="1"/>
+  </item>
+
+  <!-- Avadon Gloves - Heavy Armor -->
+  <item id="50">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5716" count="1"/>
+    <production id="5714" count="1"/>
+  </item>
+
+  <!-- Avadon Gloves - Robe -->
+  <item id="51">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5715" count="1"/>
+    <production id="5716" count="1"/>
+  </item>
+
+  <!-- Avadon Gloves - Heavy Armor -->
+  <item id="52">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5715" count="1"/>
+    <production id="5714" count="1"/>
+  </item>
+
+  <!-- Avadon Gloves - Robe -->
+  <item id="53">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5714" count="1"/>
+    <production id="5716" count="1"/>
+  </item>
+
+  <!-- Avadon Gloves - Light Armor -->
+  <item id="54">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5714" count="1"/>
+    <production id="5715" count="1"/>
+  </item>
+
+  <!-- Avadon Boots - Light Armor -->
+  <item id="55">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5732" count="1"/>
+    <production id="5731" count="1"/>
+  </item>
+
+  <!-- Avadon Boots - Heavy Armor -->
+  <item id="56">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5732" count="1"/>
+    <production id="5730" count="1"/>
+  </item>
+
+  <!-- Avadon Boots - Robe -->
+  <item id="57">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5731" count="1"/>
+    <production id="5732" count="1"/>
+  </item>
+
+  <!-- Avadon Boots - Heavy Armor -->
+  <item id="58">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5731" count="1"/>
+    <production id="5730" count="1"/>
+  </item>
+
+  <!-- Avadon Boots - Robe -->
+  <item id="59">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5730" count="1"/>
+    <production id="5732" count="1"/>
+  </item>
+
+  <!-- Avadon Boots - Light Armor -->
+  <item id="60">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5730" count="1"/>
+    <production id="5731" count="1"/>
+  </item>
+
+  <!-- Zubei's Gauntlets - Light Armor -->
+  <item id="61">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5712" count="1"/>
+    <production id="5711" count="1"/>
+  </item>
+
+  <!-- Zubei's Gauntlets - Heavy Armor -->
+  <item id="62">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5712" count="1"/>
+    <production id="5710" count="1"/>
+  </item>
+
+  <!-- Zubei's Gauntlets - Robe -->
+  <item id="63">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5711" count="1"/>
+    <production id="5712" count="1"/>
+  </item>
+
+  <!-- Zubei's Gauntlets - Heavy Armor -->
+  <item id="64">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5711" count="1"/>
+    <production id="5710" count="1"/>
+  </item>
+
+  <!-- Zubei's Gauntlets - Robe -->
+  <item id="65">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5710" count="1"/>
+    <production id="5712" count="1"/>
+  </item>
+
+  <!-- Zubei's Gauntlets - Light Armor -->
+  <item id="66">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5710" count="1"/>
+    <production id="5711" count="1"/>
+  </item>
+
+  <!-- Zubei's Boots - Light Armor -->
+  <item id="67">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5728" count="1"/>
+    <production id="5727" count="1"/>
+  </item>
+
+  <!-- Zubei's Boots - Heavy Armor -->
+  <item id="68">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5728" count="1"/>
+    <production id="5726" count="1"/>
+  </item>
+
+  <!-- Zubei's Boots - Robe -->
+  <item id="69">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5727" count="1"/>
+    <production id="5728" count="1"/>
+  </item>
+
+  <!-- Zubei's Boots - Heavy Armor -->
+  <item id="70">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5727" count="1"/>
+    <production id="5726" count="1"/>
+  </item>
+
+  <!-- Zubei's Boots - Robe -->
+  <item id="71">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5726" count="1"/>
+    <production id="5728" count="1"/>
+  </item>
+
+  <!-- Zubei's Boots - Light Armor -->
+  <item id="72">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="5726" count="1"/>
+    <production id="5727" count="1"/>
+  </item>
+
+
+</list>

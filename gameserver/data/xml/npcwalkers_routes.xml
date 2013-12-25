@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<!--
+WALKER ROUTE EXAMPLE
+<walker npcId="41006">
+    <route run="true" id="1" X="-96678" Y="258829" Z="-3626" />
+    <route run="true" id="2" X="-96683" Y="261139" Z="-3626" />
+    <route run="true" id="3" X="-96203" Y="261119" Z="-3626">
+			<chat val="I need a break!" />
+    </route>
+    <route run="true" id="4" X="-96200" Y="261204" Z="-3626" />
+    <route run="true" id="5" X="-95970" Y="261196" Z="-3626">
+			<social val="3" />
+    </route>
+    <route run="true" id="6" X="-95971" Y="261375" Z="-3626" />
+    <route run="true" id="7" X="-96759" Y="261367" Z="-3626">
+      <delay val="45" />
+    </route>
+    <route run="true" id="8" X="-96769" Y="258830" Z="-3626" />
+    <route run="true" id="9" X="-96678" Y="258829" Z="-3626" />
+    <route run="true" id="10" X="-96666" Y="258855" Z="-3626"> 
+			<social val="3" />
+			<chat val="I need a break!" />
+      <delay val="45" />
+    </route>
+  </walker>
+-->
+</list>

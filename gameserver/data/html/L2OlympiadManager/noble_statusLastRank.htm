@@ -1,0 +1,29 @@
+<html>
+<title>Grand Olympiad Manager</title>
+<body>
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+Your status in the previous Grand Olympiad period is:<br>
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+<font color="FF9000">%class%</font>
+<img src="L2UI.SquareWhite" width=140 height=1>
+<table width=140 border=0 bgcolor="000000">
+<tr><td fixwidth=130>Competitions won</td><td fixwidth=30 align=center>%won%</td></tr>
+<tr><td>Competitions drawn</td><td align=center>%drawn%</td></tr>
+<tr><td>Competitions lost</td><td align=center>%lost%</td></tr>
+<tr><td>Competitions done</td><td align=center>%done%</td></tr>
+<tr><td>Gained point(s)</td><td align=center>%points%</td></tr>
+</table>
+<img src="L2UI.SquareWhite" width=140 height=1><br>
+</center>
+You are have reached <font color="LEVEL">%rank% rank</font> in last olympiad period, you are qualified to <font color="LEVEL">exchange olympiad points</font> to nobless passes.
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+<button value="Exchange" action="bypass -h npc_%objectId%_OlyCalcPasses" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal">
+<button value="Return" action="bypass -h npc_%objectId%_Chat noble_points" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal">
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+</body>
+</html>

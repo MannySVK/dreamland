@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Arrows + Shots -->
+<list>
+
+	<!-- Arrows -->
+	<item id="1">
+		<production id="17" count="1"/>
+		<ingredient id="57" count="4"/>
+	</item>
+
+	<!---->
+	<item id="2">
+		<production id="1341" count="1"/>
+		<ingredient id="57" count="7"/>
+	</item>
+
+	<!---->
+	<item id="3">
+		<production id="1342" count="1"/>
+		<ingredient id="57" count="12"/>
+	</item>
+
+	<!---->
+	<item id="4">
+		<production id="1343" count="1"/>
+		<ingredient id="57" count="20"/>
+	</item>
+
+	<!---->
+	<item id="5">
+		<production id="1344" count="1"/>
+		<ingredient id="57" count="28"/>
+	</item>
+
+	<!---->
+	<item id="6">
+		<production id="1345" count="1"/>
+		<ingredient id="57" count="40"/>
+	</item>
+
+	<!-- Soulshots -->
+	<item id="7">
+		<production id="1835" count="1"/>
+		<ingredient id="57" count="7"/>
+	</item>
+
+	<!---->
+	<item id="8">
+		<production id="1463" count="1"/>
+		<ingredient id="57" count="12"/>
+	</item>
+
+	<!---->
+	<item id="9">
+		<production id="1464" count="1"/>
+		<ingredient id="57" count="20"/>
+	</item>
+
+	<!---->
+	<item id="10">
+		<production id="1465" count="1"/>
+		<ingredient id="57" count="50"/>
+	</item>
+
+	<!---->
+	<item id="11">
+		<production id="1466" count="1"/>
+		<ingredient id="57" count="100"/>
+	</item>
+
+	<!---->
+	<item id="12">
+		<production id="1467" count="1"/>
+		<ingredient id="57" count="200"/>
+	</item>
+
+	<!-- Blessed Spiritshots -->
+	<item id="13">
+		<production id="3947" count="1"/>
+		<ingredient id="57" count="35"/>
+	</item>
+
+	<!---->
+	<item id="14">
+		<production id="3948" count="1"/>
+		<ingredient id="57" count="48"/>
+	</item>
+
+	<!---->
+	<item id="15">
+		<production id="3949" count="1"/>
+		<ingredient id="57" count="72"/>
+	</item>
+
+	<!---->
+	<item id="16">
+		<production id="3950" count="1"/>
+		<ingredient id="57" count="200"/>
+	</item>
+
+	<!---->
+	<item id="17">
+		<production id="3951" count="1"/>
+		<ingredient id="57" count="250"/>
+	</item>
+
+	<!---->
+	<item id="18">
+		<production id="3952" count="1"/>
+		<ingredient id="57" count="400"/>
+	</item>
+
+	<!-- Spiritshots -->
+	<item id="19">
+		<production id="2509" count="1"/>
+		<ingredient id="57" count="15"/>
+	</item>
+
+	<!---->
+	<item id="20">
+		<production id="2510" count="1"/>
+		<ingredient id="57" count="20"/>
+	</item>
+
+	<!---->
+	<item id="21">
+		<production id="2511" count="1"/>
+		<ingredient id="57" count="40"/>
+	</item>
+
+	<!---->
+	<item id="22">
+		<production id="2512" count="1"/>
+		<ingredient id="57" count="80"/>
+	</item>
+
+	<!---->
+	<item id="23">
+		<production id="2513" count="1"/>
+		<ingredient id="57" count="100"/>
+	</item>
+
+	<!---->
+	<item id="24">
+		<production id="2514" count="1"/>
+		<ingredient id="57" count="300"/>
+	</item>
+
+
+
+</list>

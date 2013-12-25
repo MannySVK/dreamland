@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- PVP Zones -->
+	<!-- MoS -->
+	<!--<zone type="PvpZone" shape="NPoly" minZ="-3600" maxZ="200">
+		<node X="103300" Y="-90000" />
+		<node X="127700" Y="-90000" />
+		<node X="127700" Y="-74000" />
+		<node X="120000" Y="-70000" />
+		<node X="103300" Y="-70000" />
+	</zone>-->
+	<!-- Cementary -->
+	<zone type="PvpZone" shape="NPoly" minZ="-4000" maxZ="4000">
+		<node X="161044" Y="32059" /> 	<!-- LD -->
+		<node X="160956" Y="6324" />  	<!-- LH -->
+		<node X="190030" Y="10335" /> 	<!-- PH1 -->
+		<node X="195868" Y="16648" />	<!-- PH2 -->
+		<node X="195611" Y="23777" />	<!-- PH3 vrchol FBG -->
+		<node X="189047" Y="32521" />	<!-- PD -->
+		
+		<!-- old, by Hasha probably
+		<node X="167050" Y="25800" />
+		<node X="167050" Y="14900" />
+		<node X="183000" Y="14900" />
+		<node X="183800" Y="12300" />
+		<node X="192400" Y="14700" />
+		<node X="196100" Y="25400" />
+		<node X="190500" Y="25900" />
+		<node X="183000" Y="25800" /> 
+		-->
+		
+	</zone>
+	<!-- Abandoned Camp -->
+	<zone type="PvpZone" shape="NPoly" minZ="-3600" maxZ="3600">
+		<node X="-79037" Y="144975" />
+		<node X="-42805" Y="153235" />
+		<node X="-37516" Y="124859" />
+		<node X="-68856" Y="120697" />
+	</zone>
+	<!-- Pavel Ruins -->
+	<zone type="PvpZone" shape="NPoly" minZ="-5000" maxZ="0">
+		<node X="81800" Y="-114200" /> <!-- LD -->
+		<node X="81800" Y="-133200" /> <!-- LH -->
+		<node X="100000" Y="-133200" /> <!-- PH -->
+		<node X="100000" Y="-114200" /> <!-- PD -->
+	</zone>
+
+	<!-- Gludin Siege -->
+	<zone type="PvpZone" shape="NPoly" minZ="-5000" maxZ="5000">
+		<node X="-69778" Y="176809" />
+		<node X="-58419" Y="164659" />
+		<node X="-50729" Y="149853" />
+		<node X="-68588" Y="146030" />
+		<node X="-73431" Y="131489" />
+		<node X="-94075" Y="127238" />
+		<node X="-119314" Y="151957" />
+	</zone>
+	<!-- Gludio Siege -->
+	<zone type="PvpZone" shape="NPoly" minZ="-5000" maxZ="5000">
+	<node X="6158" Y="140405" />
+	<node X="11849" Y="124256" />
+	<node X="2839" Y="12182" />
+	<node X="-5947" Y="98763" />
+	<node X="-42521" Y="12877" />
+	<node X="-16236" Y="137126" />
+	</zone>
+	
+	<!-- Talkin Villige Siege -->
+	<zone type="PvpZone" shape="Cylinder" minZ="-5000" maxZ="5000" rad="25000">
+		<node X="-84653" Y="242423" />
+	</zone>
+	
+	<!-- Giran Siege -->
+	<zone type="PvpZone" shape="Cylinder" minZ="-5000" maxZ="5000" rad="28000">
+		<node X="82171" Y="148595" />
+	</zone>
+	
+	<!-- Aden Siege -->
+	<zone type="PvpZone" shape="Cylinder" minZ="-5000" maxZ="5000" rad="28000">
+		<node X="147459" Y="27478" />
+	</zone>
+	
+	<!-- Oren Siege -->
+	<zone type="PvpZone" shape="Cylinder" minZ="-5000" maxZ="5000" rad="28000">
+		<node X="81595" Y="54957" />
+	</zone>
+	
+	<!-- Dion Siege -->
+	<zone type="PvpZone" shape="Cylinder" minZ="-5000" maxZ="5000" rad="28000">
+		<node X="18707" Y="145502" />
+	</zone>
+</list>

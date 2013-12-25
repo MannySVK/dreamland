@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!---->
+<list>
+
+	<!-- Damascus*Tallum Blade -->
+	<item id="1">
+		<production id="8938" count="1"/>
+		<ingredient id="57" count="25000000"/>
+	</item>
+
+	<!-- Damascus*Damascus -->
+	<item id="2">
+		<production id="5706" count="1"/>
+		<ingredient id="57" count="25000000"/>
+	</item>
+
+	<!-- Keshanberk*Damascus -->
+	<item id="3">
+		<production id="5705" count="1"/>
+		<ingredient id="57" count="25000000"/>
+	</item>
+
+	<!-- Keshanberk*Keshanberk -->
+	<item id="4">
+		<production id="5233" count="1"/>
+		<ingredient id="57" count="25000000"/>
+	</item>
+
+	<!---->
+	<item id="5">
+		<production id="2626" count="1"/>
+		<ingredient id="57" count="17000000"/>
+	</item>
+
+	<!---->
+	<item id="6">
+		<production id="2582" count="1"/>
+		<ingredient id="57" count="8500000"/>
+	</item>
+
+
+</list>

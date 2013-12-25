@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list>
+
+  <!-- Forgotten Blade -->
+  <item id="1">
+    <production id="6364" count="1"/>
+  </item>
+
+  <!-- Heaven's Divider -->
+  <item id="2">
+    <production id="6372" count="1"/>
+  </item>
+
+  <!-- Basalt Battlehammer -->
+  <item id="3">
+    <production id="6365" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe -->
+  <item id="4">
+    <production id="6369" count="1"/>
+  </item>
+
+  <!-- Arcana Mace -->
+  <item id="5">
+    <production id="6579" count="1"/>
+  </item>
+
+  <!-- Imperial Staff -->
+  <item id="6">
+    <production id="6366" count="1"/>
+  </item>
+
+  <!-- Angel Slayer -->
+  <item id="7">
+    <production id="6367" count="1"/>
+  </item>
+
+  <!-- Shining Bow -->
+  <item id="8">
+    <production id="6368" count="1"/>
+  </item>
+
+  <!-- Draconic Bow -->
+  <item id="9">
+    <production id="7575" count="1"/>
+  </item>
+
+  <!-- Saint Spear -->
+  <item id="10">
+    <production id="6370" count="1"/>
+  </item>
+
+  <!-- Demon Splinter -->
+  <item id="11">
+    <production id="6371" count="1"/>
+  </item>
+
+  <!-- Tallum Blade*Dark Legion's Edge -->
+  <item id="12">
+    <ingredient id="5574" count="300"/>
+    <ingredient id="57" count="75000000"/>
+    <ingredient id="4042" count="5"/>
+    <production id="6580" count="1"/>
+  </item>
+
+
+</list>

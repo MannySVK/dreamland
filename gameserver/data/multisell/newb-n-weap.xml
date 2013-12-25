@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Falchion -->
+  <item id="1">
+    <ingredient id="8869" count="1"/>
+    <production id="68" count="1"/>
+    <production id="1835" count="4000"/>
+    <production id="3947" count="2000"/>
+  </item>
+
+  <!-- Zweihander -->
+  <item id="2">
+    <ingredient id="8869" count="1"/>
+    <production id="5284" count="1"/>
+    <production id="1835" count="4000"/>
+    <production id="3947" count="2000"/>
+  </item>
+
+  <!-- Iron Hammer -->
+  <item id="3">
+    <ingredient id="8869" count="1"/>
+    <production id="87" count="1"/>
+    <production id="3947" count="2000"/>
+    <production id="1835" count="4000"/>
+  </item>
+
+  <!-- Voodoo Doll -->
+  <item id="4">
+    <ingredient id="8869" count="1"/>
+    <production id="100" count="1"/>
+    <production id="3947" count="4000"/>
+    <production id="1835" count="2000"/>
+  </item>
+
+  <!-- Mage Staff -->
+  <item id="5">
+    <ingredient id="8869" count="1"/>
+    <production id="177" count="1"/>
+    <production id="1835" count="2000"/>
+    <production id="3947" count="4000"/>
+  </item>
+
+  <!-- Sword Breaker -->
+  <item id="6">
+    <ingredient id="8869" count="1"/>
+    <production id="219" count="1"/>
+    <production id="3947" count="4000"/>
+    <production id="1835" count="4000"/>
+  </item>
+
+  <!-- Composite Bow -->
+  <item id="7">
+    <ingredient id="8869" count="1"/>
+    <production id="273" count="1"/>
+    <production id="17" count="2000"/>
+    <production id="1835" count="14000"/>
+    <production id="3947" count="2000"/>
+  </item>
+
+  <!-- Short Spear -->
+  <item id="8">
+    <ingredient id="8869" count="1"/>
+    <production id="15" count="1"/>
+    <production id="1835" count="4000"/>
+    <production id="3947" count="2000"/>
+  </item>
+
+  <!-- Viper Fang -->
+  <item id="9">
+    <ingredient id="8869" count="1"/>
+    <production id="257" count="1"/>
+    <production id="1835" count="4000"/>
+    <production id="3947" count="2000"/>
+  </item>
+
+
+</list>

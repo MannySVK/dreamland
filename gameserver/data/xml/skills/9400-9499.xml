@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="9400" levels="15" name="Mental Resist/Weakness - Sleep" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="sleepRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9401" levels="15" name="Mental Resist/Weakness - Hold" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="rootRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9402" levels="15" name="Mental Resist/Weakness - Shock" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="stunRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9403" levels="15" name="Mental Resist/Weakness - Paralysis" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="stunRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9404" levels="15" name="Mental Resist/Weakness - Bleed" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="bleedRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9405" levels="15" name="Mental Resist/Weakness - Poison" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="poisonRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9406" levels="15" name="Mental Resist/Weakness - Derangement" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mentalRes" val="#val"/>
+		</for>
+	</skill>
+
+
+
+
+
+	<skill id="9410" levels="15" name="Weapon Resist/Weakness - Sword" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="swordsRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9411" levels="15" name="Weapon Resist/Weakness - Blunt" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="bluntsRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9412" levels="15" name="Weapon Resist/Weakness - Dagger" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="daggersRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9413" levels="15" name="Weapon Resist/Weakness - Bow" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="bowsRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9414" levels="15" name="Weapon Resist/Weakness - Two-handed" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="twohandedRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9415" levels="15" name="Weapon Resist/Weakness - Dual-Sword" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="dualsRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9416" levels="15" name="Weapon Resist/Weakness - Hand-to-hand" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="dualfistsRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9417" levels="15" name="Weapon Resist/Weakness - Spear" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="polesRes" val="#val"/>
+		</for>
+	</skill>
+
+
+
+	<skill id="9420" levels="15" name="Elemental Resist/Weakness - Fire" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="fireRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9421" levels="15" name="Elemental Resist/Weakness - Water" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="waterRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9422" levels="15" name="Elemental Resist/Weakness - Wind" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="windRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9423" levels="15" name="Elemental Resist/Weakness - Earth" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="earthRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9424" levels="15" name="Elemental Resist/Weakness - Dark" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="darkRes" val="#val"/>
+		</for>
+	</skill>
+	<skill id="9425" levels="15" name="Elemental Resist/Weakness - Holy" >
+		<table name="#val"> -50 -40 -30 -20 -10 10 20 30 40 50 60 70 80 90 100 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="holyRes" val="#val"/>
+		</for>
+	</skill>
+</list>

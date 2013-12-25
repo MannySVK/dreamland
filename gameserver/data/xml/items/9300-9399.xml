@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<item id="9300" type="Armor" name="Talisman of Might 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9100-1" />
+	</item>
+	<item id="9301" type="Armor" name="Talisman of Might 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9100-2" />
+	</item>
+	<item id="9302" type="Armor" name="Talisman of Might 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9100-3" />
+	</item>
+	<item id="9303" type="Armor" name="Talisman of Might 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9101-1" />
+	</item>
+	<item id="9304" type="Armor" name="Talisman of Might 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9101-2" />
+	</item>
+	<item id="9305" type="Armor" name="Talisman of Might 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9101-3" />
+	</item>
+	<item id="9306" type="Armor" name="Talisman of Shield 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9102-1" />
+	</item>
+	<item id="9307" type="Armor" name="Talisman of Shield 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9102-2" />
+	</item>
+	<item id="9308" type="Armor" name="Talisman of Shield 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9102-3" />
+	</item>
+	<item id="9309" type="Armor" name="Talisman of Shield 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9103-1" />
+	</item>
+	<item id="9310" type="Armor" name="Talisman of Shield 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9103-2" />
+	</item>
+	<item id="9311" type="Armor" name="Talisman of Shield 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9103-3" />
+	</item>
+	<item id="9312" type="Armor" name="Talisman of Haste 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9104-1" />
+	</item>
+	<item id="9313" type="Armor" name="Talisman of Haste 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9104-2" />
+	</item>
+	<item id="9314" type="Armor" name="Talisman of Haste 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9104-3" />
+	</item>
+	<item id="9315" type="Armor" name="Talisman of Haste 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9105-1" />
+	</item>
+	<item id="9316" type="Armor" name="Talisman of Haste 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9105-2" />
+	</item>
+	<item id="9317" type="Armor" name="Talisman of Haste 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9105-3" />
+	</item>
+	<item id="9318" type="Armor" name="Talisman of Empower 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9106-1" />
+	</item>
+	<item id="9319" type="Armor" name="Talisman of Empower 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9106-2" />
+	</item>
+	<item id="9320" type="Armor" name="Talisman of Empower 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9106-3" />
+	</item>
+	<item id="9321" type="Armor" name="Talisman of Empower 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9107-1" />
+	</item>
+	<item id="9322" type="Armor" name="Talisman of Empower 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9107-2" />
+	</item>
+	<item id="9323" type="Armor" name="Talisman of Empower 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9107-3" />
+	</item>
+	<item id="9324" type="Armor" name="Talisman of Barrier 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9108-1" />
+	</item>
+	<item id="9325" type="Armor" name="Talisman of Barrier 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9108-2" />
+	</item>
+	<item id="9326" type="Armor" name="Talisman of Barrier 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9108-3" />
+	</item>
+	<item id="9327" type="Armor" name="Talisman of Barrier 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9109-1" />
+	</item>
+	<item id="9328" type="Armor" name="Talisman of Barrier 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9109-2" />
+	</item>
+	<item id="9329" type="Armor" name="Talisman of Barrier 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9109-3" />
+	</item>
+	<item id="9330" type="Armor" name="Talisman of Acumen 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9110-1" />
+	</item>
+	<item id="9331" type="Armor" name="Talisman of Acumen 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9110-2" />
+	</item>
+	<item id="9332" type="Armor" name="Talisman of Acumen 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9110-3" />
+	</item>
+	<item id="9333" type="Armor" name="Talisman of Acumen 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9111-1" />
+	</item>
+	<item id="9334" type="Armor" name="Talisman of Acumen 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9111-2" />
+	</item>
+	<item id="9335" type="Armor" name="Talisman of Acumen 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9111-3" />
+	</item>
+	<item id="9336" type="Armor" name="Talisman of Guidance 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9112-1" />
+	</item>
+	<item id="9337" type="Armor" name="Talisman of Guidance 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9112-2" />
+	</item>
+	<item id="9338" type="Armor" name="Talisman of Guidance 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9112-3" />
+	</item>
+	<item id="9339" type="Armor" name="Talisman of Guidance 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9113-1" />
+	</item>
+	<item id="9340" type="Armor" name="Talisman of Guidance 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9113-2" />
+	</item>
+	<item id="9341" type="Armor" name="Talisman of Guidance 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9113-3" />
+	</item>
+	<item id="9342" type="Armor" name="Talisman of Agility 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9114-1" />
+	</item>
+	<item id="9343" type="Armor" name="Talisman of Agility 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9114-2" />
+	</item>
+	<item id="9344" type="Armor" name="Talisman of Agility 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9114-3" />
+	</item>
+	<item id="9345" type="Armor" name="Talisman of Agility 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9115-1" />
+	</item>
+	<item id="9346" type="Armor" name="Talisman of Agility 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9115-2" />
+	</item>
+	<item id="9347" type="Armor" name="Talisman of Agility 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9115-3" />
+	</item>
+	<item id="9348" type="Armor" name="Talisman of Windwalk 1a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9116-1" />
+	</item>
+	<item id="9349" type="Armor" name="Talisman of Windwalk 1b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9116-2" />
+	</item>
+	<item id="9350" type="Armor" name="Talisman of Windwalk 1c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9116-3" />
+	</item>
+	<item id="9351" type="Armor" name="Talisman of Windwalk 2a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9117-1" />
+	</item>
+	<item id="9352" type="Armor" name="Talisman of Windwalk 2b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9117-2" />
+	</item>
+	<item id="9353" type="Armor" name="Talisman of Windwalk 2c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9117-3" />
+	</item>
+	<item id="9354" type="Armor" name="Talisman of Body a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9118-1" />
+	</item>
+	<item id="9355" type="Armor" name="Talisman of Body b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9118-2" />
+	</item>
+	<item id="9356" type="Armor" name="Talisman of Body c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9118-3" />
+	</item>
+	<item id="9357" type="Armor" name="Talisman of Soul a">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9119-1" />
+	</item>
+	<item id="9358" type="Armor" name="Talisman of Soul b">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9119-2" />
+	</item>
+	<item id="9359" type="Armor" name="Talisman of Soul c">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="none" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="dyestuff" />
+		<set name="weight" val="1000" />
+
+		<set name="item_skill" val="9119-3" />
+	</item>
+</list>

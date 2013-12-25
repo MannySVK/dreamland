@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="9900" levels="3" name="Advanced Block">
+		<table name="#mpInitialConsume"> 11 13 14 </table>
+		<table name="#mpConsume"> 43 49 53 </table>
+		<table name="#sDef"> 1.6 1.8 2 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 549 611 646 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="shield_defence_up">
+				<mul order="0x30" stat="sDef" val="#sDef"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9901" levels="3" name="Acumen">
+		<table name="#mpInitialConsume"> 4 6 9 </table>
+		<table name="#mpConsume"> 16 24 35 </table>
+		<table name="#mAtkSpd"> 1.15 1.23 1.3 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 204 331 457 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="casting_time_down">
+				<mul order="0x30" stat="mAtkSpd" val="#mAtkSpd"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9902" levels="2" name="Berserker Spirit">
+		<table name="#mAtk"> 1.1 1.16 </table>
+		<table name="#pAtk"> 1.05 1.08 </table>
+		<table name="#mDef"> 0.9 0.84 </table>
+		<table name="#pDef"> 0.95 0.92 </table>
+		<table name="#mAtkSpd"> 1.05 1.08 </table>
+		<table name="#pAtkSpd"> 1.05 1.08 </table>
+		<table name="#runSpd"> 5 8 </table>
+		<table name="#rEvas"> 2 4 </table>
+		<table name="#mpInitialConsume"> 6 10 </table>
+		<table name="#mpConsume"> 24 38 </table>
+		<table name="#aggro"> 331 495 </table>
+		<table name="#stackOrder"> 1 2 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_PARTY_MEMBER"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="berserker">
+				<mul order="0x30" stat="mAtk" val="#mAtk"/>
+				<mul order="0x30" stat="pAtk" val="#pAtk"/>
+				<mul order="0x30" stat="mDef" val="#mDef"/>
+				<mul order="0x30" stat="pDef" val="#pDef"/>
+				<mul order="0x30" stat="mAtkSpd" val="#mAtkSpd"/>
+				<mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+				<add order="0x40" stat="runSpd" val="#runSpd"/>
+				<sub order="0x40" stat="rEvas" val="#rEvas"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9903" levels="6" name="Bless Shield">
+		<table name="#rShld"> 1.3 1.4 1.5 1.6 1.7 1.8 </table>
+		<table name="#mpInitialConsume"> 7 9 11 12 13 13 </table>
+		<table name="#mpConsume"> 28 35 41 46 49 52 </table>
+		<table name="#stackOrder"> 1 2 3 4 5 6 </table>
+		<table name="#aggro"> 379 457 532 582 611 635 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="shield_prob_up">
+				<mul order="0x30" stat="rShld" val="#rShld"/>
+				<mul order="0x30" stat="sDef" val="2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9904" levels="6" name="Blessed Body">
+		<table name="#mpInitialConsume"> 8 9 10 11 12 14 </table>
+		<table name="#mpConsume"> 31 35 38 41 48 53 </table>
+		<table name="#maxHp"> 1.1 1.15 1.2 1.25 1.3 1.35 </table>
+		<table name="#stackOrder"> 1 2 3 4 5 6 </table>
+		<table name="#aggro"> 418 457 495 532 597 646 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="max_hp_up">
+				<mul order="0x30" stat="maxHp" val="#maxHp"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9905" levels="6" name="Blessed Soul">
+		<table name="#mpInitialConsume"> 8 9 10 11 12 13 </table>
+		<table name="#mpConsume"> 31 35 38 41 46 52 </table>
+		<table name="#maxMp"> 1.1 1.15 1.2 1.25 1.3 1.35 </table>
+		<table name="#mpConsume"> 39 44 48 52 62 70 </table>
+		<table name="#stackOrder"> 1 2 3 4 5 6 </table>
+		<table name="#aggro"> 418 457 495 532 582 635 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="max_mp_up">
+				<mul order="0x30" stat="maxMp" val="#maxMp"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9906" levels="6" name="Concentration">
+		<table name="#mpInitialConsume"> 4 6 8 10 11 13 </table>
+		<table name="#mpConsume"> 16 21 31 38 44 51 </table>
+		<table name="#cancel"> 18 25 36 42 48 53 </table>
+		<table name="#stackOrder"> 1 2 3 4 5 6 </table>
+		<table name="#aggro"> 204 285 418 495 566 624 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="cancel_prob_down">
+				<add order="0x40" stat="interruptCastRes" val="#cancel"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9907" levels="3" name="Death Whisper">
+		<table name="#cAtk"> 1.3 1.325 1.35 </table>
+		<table name="#mpInitialConsume"> 7 9 11 </table>
+		<table name="#mpConsume"> 28 35 41 </table>
+
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 379 457 532 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="critical_dmg_up">
+				<mul order="0x30" stat="cAtk" val="#cAtk"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9908" levels="3" name="Greater Empower">
+		<table name="#mpInitialConsume"> 5 8 10 </table>
+		<table name="#mpConsume"> 18 31 38 </table>
+		<table name="#mAtk"> 1.55 1.65 1.75 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 243 418 495 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="ma_up">
+				<mul order="0x30" stat="mAtk" val="#mAtk"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9909" levels="3" name="Focus">
+		<table name="#mpInitialConsume"> 5 8 10 </table>
+		<table name="#mpConsume"> 18 31 38 </table>
+		<table name="#rCrit"> 0.2 0.25 0.3 </table>
+		<table name="#aggro"> 243 418 495 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="critical_prob_up">
+				<basemul order="0x30" stat="rCrit" val="#rCrit" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9910" levels="3" name="Guidance">
+		<table name="#mpInitialConsume"> 7 9 11 </table>
+		<table name="#mpConsume"> 28 35 41 </table>
+		<table name="#accCombat"> 2 3 4 </table>
+
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 379 457 532 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="hit_up">
+				<add order="0x40" stat="accCombat" val="#accCombat"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9911" levels="2" name="Haste">
+		<table name="#mpInitialConsume"> 8 10 </table>
+		<table name="#mpConsume"> 31 38 </table>
+		<table name="#pAtkSpd"> 1.15 1.33 </table>
+		<table name="#stackOrder"> 1 2 </table>
+		<table name="#aggro"> 418 495 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="attack_time_down">
+				<mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9912" levels="2" name="Magic Barrier">
+		<table name="#mpInitialConsume"> 8 10 </table>
+		<table name="#mpConsume"> 31 38 </table>
+		<table name="#mDef"> 1.23 1.3 </table>
+		<table name="#stackOrder"> 2 3 </table>
+		<table name="#aggro"> 418 495 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="md_up">
+				<mul order="0x30" stat="mDef" val="#mDef"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9913" levels="4" name="Mental Shield">
+		<table name="#mpInitialConsume"> 5 7 9 11 </table>
+		<table name="#mpConsume"> 18 28 35 41 </table>
+		<table name="#stackOrder"> 1 2 3 4 </table>
+		<table name="#res"> 20 30 40 50 </table>
+		<table name="#aggro"> 243 379 457 532 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="resist_derangement">
+				<add order="0x40" stat="rootRes" val="#res" />
+				<add order="0x40" stat="sleepRes" val="#res" />
+				<add order="0x40" stat="mentalRes" val="#res" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9914" levels="3" name="Might">
+		<table name="#mpInitialConsume"> 2 4 7 </table>
+		<table name="#mpConsume"> 8 16 28 </table>
+		<table name="#rate"> 1.08 1.12 1.15 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 121 204 379 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="pa_up">
+				<mul order="0x30" stat="pAtk" val="#rate"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9915" levels="4" name="Resist Shock">
+		<table name="#mpInitialConsume"> 7 10 12 13 </table>
+		<table name="#mpConsume"> 28 38 46 52 </table>
+		<table name="#res"> 15 20 30 40 </table>
+		<table name="#stackOrder"> 1 2 3 4 </table>
+		<table name="#aggro"> 379 495 597 646 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="resist_shock">
+				<add order="0x40" stat="stunRes" val="#res" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9916" levels="3" name="Shield">
+		<table name="#mpInitialConsume"> 2 5 8 </table>
+		<table name="#mpConsume"> 8 18 31 </table>
+		<table name="#rate"> 1.08 1.12 1.15 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 121 243 418 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="pd_up">
+				<mul order="0x30" stat="pDef" val="#rate"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9917" levels="4" name="Vampiric Rage">
+		<table name="#mpInitialConsume"> 6 8 11 14 </table>
+		<table name="#mpConsume"> 21 31 43 53 </table>
+		<table name="#absorbDam"> 6 7 8 9 </table>
+
+		<table name="#stackOrder"> 1 2 3 4 </table>
+		<table name="#aggro"> 285 418 549 646 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="vampiric_attack">
+				<add order="0x40" stat="absorbDam" val="#absorbDam"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9918" levels="3" name="Greater Might">
+		<table name="#pAtk"> 1.04 1.07 1.10 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#mpConsume"> 54 62 69 </table>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="pa_pd_up">
+				<mul order="0x30" stat="pAtk" val="#pAtk"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9919" levels="3" name="Greater Shield">
+		<table name="#rate"> 1.05 1.1 1.15 </table>
+		<table name="#mpConsume"> 54 62 69 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="pa_pd_up">
+				<mul order="0x30" stat="pDef" val="#rate"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9920" levels="2" name="Wild Magic">
+		<table name="#mpInitialConsume"> 12 13 </table>
+		<table name="#mpConsume"> 46 52 </table>
+		<table name="#mCrit"> 3 4 </table>
+		<table name="#stackOrder"> 1 2 </table>
+		<table name="#aggro"> 582 635 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="magic_critical_up">
+				<mul order="0x30" stat="mCritRate" val="#mCrit"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9921" levels="2" name="Wind Walk">
+		<table name="#mpInitialConsume"> 4 6 </table>
+		<table name="#mpConsume"> 16 21 </table>
+
+		<table name="#stackOrder"> 1 2 </table>
+		<table name="#runSpd"> 20 33 </table>
+		<table name="#aggro"> 204 285 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="speed_up">
+				<add order="0x40" stat="runSpd" val="#runSpd"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9922" levels="3" name="Agility">
+		<table name="#mpInitialConsume"> 5 8 10 </table>
+		<table name="#mpConsume"> 18 31 38 </table>
+		<table name="#rEvas"> 2 3 4 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<table name="#aggro"> 243 418 495 </table>
+		<set name="mpInitialConsume" val="#mpInitialConsume"/>
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="#aggro"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="avoid_up">
+				<add order="0x40" stat="rEvas" val="#rEvas"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9940" levels="1" name="Dance of Aqua Guard">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="635"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_aqua_guard">
+				<add order="0x40" stat="waterRes" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9941" levels="1" name="Dance of Concentration">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="495"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_concentration">
+				<mul order="0x30" stat="mAtkSpd" val="1.3"/>
+				<add order="0x40" stat="interruptCastRes" val="30"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9942" levels="1" name="Dance of Earth Guard">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="582"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_earth_guard">
+				<add order="0x40" stat="earthRes" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9943" levels="1" name="Dance of Fire">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="379"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_fire">
+				<mul order="0x30" stat="cAtk" val="1.35"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9944" levels="1" name="Dance of Fury">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="549"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_fury">
+				<mul order="0x30" stat="pAtkSpd" val="1.15"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9945" levels="1" name="Dance of Inspiration">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="438"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_inspiration">
+				<add order="0x40" stat="accCombat" val="4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9946" levels="1" name="Dance of Light">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="900"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="408"/>
+		<set name="element" val="4" /> <!-- Holy -->
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_light">
+				<add order="0x40" stat="holyPower" val="20" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9947" levels="1" name="Dance of the Mystic">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="467"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_mystic">
+				<mul order="0x30" stat="mAtk" val="1.2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9948" levels="1" name="Dance of Protection">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="611"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_protection">
+				<sub order="0x40" stat="damageZoneVuln" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9949" levels="1" name="Siren's Dance">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="669"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_siren">
+				<mul order="0x30" stat="mCritRate" val="3"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9950" levels="1" name="Dance of the Vampire">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="655"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_vampire">
+				<add stat="absorbDam" val="8" order="0x40"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9951" levels="1" name="Dance of the Warrior">
+		<set name="weaponsAllowed" val="Dual Sword" /> <!-- Dual Sword -->
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="523"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="dance_of_warrior">
+				<mul order="0x30" stat="pAtk" val="1.12"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9960" levels="1" name="Song of Champion">
+		<set name="magicLvl" val="78" />
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="669"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_champion">
+				<mul order="0x30" stat="pReuse" val="0.7" />
+				<mul order="0x30" stat="PhysicalMpConsumeRate" val="0.8" />
+				<mul order="0x30" stat="DanceMpConsumeRate" val="0.8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9961" levels="1" name="Song of Earth">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="523"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_earth" >
+				<mul order="0x30" stat="pDef" val="1.25"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9962" levels="1" name="Song of Flame Guard">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="582"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_flame_guard">
+				<add order="0x40" stat="fireRes" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9963" levels="1" name="Song of Hunter">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="467"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_hunter" >
+				<basemul order="0x30" stat="rCrit" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9964" levels="1" name="Song of Invocation">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="408"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_invocation">
+				<add order="0x40" stat="darkRes" val="20" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9965" levels="1" name="Song of Life">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="495"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_life">
+				<mul order="0x30" stat="regHp" val="1.2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9966" levels="1" name="Song of Meditation">
+		<set name="magicLvl" val="77" />
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="666"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_meditation">
+				<mul order="0x30" stat="regMp" val="1.2"/>
+				<mul order="0x30" stat="MagicalMpConsumeRate" val="0.90"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9967" levels="1" name="Song of Renewal">
+		<set name="magicLvl" val="77" />
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="666"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_renewal">
+				<mul order="0x30" stat="mReuse" val="0.8" />
+				<mul order="0x30" stat="pReuse" val="0.8" />
+				<mul order="0x30" stat="MagicalMpConsumeRate" val="0.9" />
+				<mul order="0x30" stat="PhysicalMpConsumeRate" val="0.9" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9968" levels="1" name="Song of Storm Guard">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="635"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_storm_guard">
+				<add order="0x40" stat="windRes" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9969" levels="1" name="Song of Vengeance">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="655"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_vengeance">
+				<add order="0x40" stat="reflectDam" val="20"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9970" levels="1" name="Song of Vitality">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="611"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_vitality">
+				<mul order="0x30" stat="maxHp" val="1.3"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9971" levels="1" name="Song of Warding">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="379"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_warding">
+				<mul order="0x30" stat="mDef" val="1.3"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9972" levels="1" name="Song of Water">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="549"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_water">
+				<add order="0x40" stat="rEvas" val="3"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9973" levels="1" name="Song of Wind">
+		<set name="mpConsume" val="60"/>
+		<set name="nextDanceCost" val="30"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isDance" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="438"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="song_of_wind">
+				<add order="0x40" stat="runSpd" val="20"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9980" levels="1" name="Chant of Victory">
+		<set name="magicLvl" val="78" />
+		<set name="mpInitialConsume" val="57"/>
+		<set name="mpConsume" val="227" />
+		<set name="power" val="20"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="1200000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="HEAL_HP_PERCENT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="aggroPoints" val="669"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="multi_buff">
+				<mul order="0x30" stat="pAtk" val="1.1"/>
+				<mul order="0x30" stat="pDef" val="1.2"/>
+				<basemul order="0x30" stat="rCrit" val="0.2"/>
+				<add order="0x40" stat="accCombat" val="4"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.2"/>
+				<mul order="0x30" stat="mAtkSpd" val="1.2"/>
+				<mul order="0x30" stat="cAtk" val="1.2"/>
+				<mul order="0x30" stat="mAtk" val="1.2"/>
+				<mul order="0x30" stat="mDef" val="1.2"/>
+				<mul order="0x30" stat="runSpd" val="0.8"/>
+				<mul order="0x30" stat="maxHp" val="1.2"/>
+				<add order="0x40" stat="debuffRes" val="20"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9981" levels="1" name="Prophecy of Water">
+		<set name="mpInitialConsume" val="15"/>
+		<set name="mpConsume" val="57"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="hitTime" val="4000"/>
+		<set name="reuseDelay" val="120000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="669"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="multi_buff">
+				<mul order="0x30" stat="mAtk" val="1.2"/>
+				<mul order="0x30" stat="mDef" val="1.2"/>
+				<mul order="0x30" stat="mAtkSpd" val="1.2"/>
+				<mul order="0x30" stat="mCritRate" val="2"/>
+				<mul order="0x30" stat="regMp" val="1.2"/>
+				<mul order="0x30" stat="runSpd" val="0.8"/>
+				<add order="0x40" stat="debuffRes" val="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9982" levels="1" name="Prophecy of Fire">
+		<set name="mpInitialConsume" val="15"/>
+		<set name="mpConsume" val="57"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="hitTime" val="4000"/>
+		<set name="reuseDelay" val="120000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="669"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="multi_buff">
+				<mul order="0x30" stat="pAtk" val="1.10"/>
+				<mul order="0x30" stat="pDef" val="1.20"/>
+				<add order="0x40" stat="accCombat" val="4"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.20"/>
+				<mul order="0x30" stat="runSpd" val="0.90"/>
+				<mul order="0x30" stat="maxHp" val="1.20"/>
+				<mul order="0x30" stat="regHp" val="1.20"/>
+				<add order="0x40" stat="debuffRes" val="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9983" levels="1" name="Prophecy of Wind">
+		<set name="mpInitialConsume" val="15"/>
+		<set name="mpConsume" val="57"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="hitTime" val="4000"/>
+		<set name="reuseDelay" val="120000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="669"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="multi_buff">
+				<add order="0x40" stat="absorbDam" val="5"/>
+				<add order="0x40" stat="accCombat" val="4"/>
+				<add order="0x40" stat="rEvas" val="4"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.20"/>
+				<mul order="0x30" stat="cAtk" val="1.2">
+					<player behind="True"/>
+				</mul>
+				<mul order="0x30" stat="rCrit" val="1.2">
+					<player behind="True"/>
+				</mul>
+				<add order="0x40" stat="debuffRes" val="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9984" levels="1" name="Magnus' Chant">
+		<set name="mpInitialConsume" val="57" />
+		<set name="mpConsume" val="230" />
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="1200000"/>
+		<set name="hitTime" val="2500"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="multi_buff">
+				<add order="0x40" stat="regMp" val="1.5">
+					<using kind="Heavy,Light" />
+				</add>
+				<add order="0x40" stat="regMp" val="4">
+					<using kind="Magic" />
+				</add>
+				<mul order="0x30" stat="mAtkSpd" val="1.2"/>
+				<mul order="0x30" stat="mDef" val="1.3"/>
+				<mul order="0x30" stat="mAtk" val="1.3"/>
+				<mul order="0x30" stat="maxMp" val="1.2"/>
+				<mul order="0x30" stat="MagicalMpConsumeRate" val="0.8"/>
+				<mul order="0x30" stat="mCritRate" val="1.2"/> <!-- Guessing -->
+			</effect>
+		</for>
+	</skill>
+	<skill id="9985" levels="1" name="Elemental Protection">
+		<set name="mpInitialConsume" val="14"/>
+		<set name="mpConsume" val="56"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="662"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="3" stackType="md_up_attr">
+				<add order="0x40" stat="waterRes" val="20" />
+				<add order="0x40" stat="fireRes" val="20" />
+				<add order="0x40" stat="windRes" val="20" />
+				<add order="0x40" stat="earthRes" val="20" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9986" levels="1" name="Divine Protection">
+		<set name="mpInitialConsume" val="14"/>
+		<set name="mpConsume" val="56"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="666"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="3" stackType="resist_holy_unholy">
+				<add order="0x40" stat="darkRes" val="30" />
+				<add order="0x40" stat="holyRes" val="30" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9987" levels="1" name="Arcane Protection">
+		<set name="mpInitialConsume" val="14"/>
+		<set name="mpConsume" val="70"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="662"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="3" stackType="resist_debuff_dispel">
+				<add order="0x40" stat="cancelRes" val="30" />
+				<add order="0x40" stat="debuffRes" val="20" />
+			</effect>
+		</for>
+	</skill>
+	
+	<skill id="9990" levels="1" name="Defense Blessing">
+		<set name="mpConsume" val="1"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="3000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="900"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="0"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="2" stackType="multibuff_defensive">
+				<add order="0x40" stat="runSpd" val="33"/> <!-- Wind Walk -->
+				<add order="0x40" stat="runSpd" val="20"/> <!-- Song of Wind -->
+				<mul order="0x30" stat="pDef" val="1.15"/> <!-- Shield -->
+				<mul order="0x30" stat="pDef" val="1.25"/> <!-- Song of Earth -->
+				<mul order="0x30" stat="mDef" val="1.3"/> <!-- Magic Barrier -->
+				<mul order="0x30" stat="mDef" val="1.3"/> <!-- Song of Warding -->
+				<mul order="0x30" stat="maxHp" val="1.35"/> <!-- Blessed Body -->
+				<mul order="0x30" stat="maxHp" val="1.3"/> <!-- Song of Vitality -->
+				<mul order="0x30" stat="sDef" val="2"/> <!-- Advanced Block -->
+				<mul order="0x30" stat="rShld" val="1.8"/> <!-- Bless Shield -->
+				<mul order="0x30" stat="maxMp" val="1.35"/> <!-- Blessed Soul -->
+				<add order="0x40" stat="rEvas" val="4"/> <!-- Agility -->
+			</effect>
+		</for>
+	</skill>
+	<skill id="9991" levels="1" name="Mage Blessing">
+		<set name="mpConsume" val="1"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="3000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="900"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="0"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="multibuff_mage">
+				<mul order="0x30" stat="mAtkSpd" val="1.3"/> <!-- Acumen -->
+				<mul order="0x30" stat="mAtkSpd" val="1.3"/> <!-- Dance of Concentration -->
+				<mul order="0x30" stat="mAtk" val="1.75"/> <!-- Empower -->
+				<mul order="0x30" stat="mAtk" val="1.2"/> <!-- Dance of the Mystic -->
+				<mul order="0x30" stat="mCritRate" val="1.2"/> <!-- Wild Magic -->
+				<add order="0x40" stat="interruptCastRes" val="53"/> <!-- Concentration -->
+				<add order="0x40" stat="interruptCastRes" val="40"/> <!-- Dance of Concentration -->
+			</effect>
+		</for>
+	</skill>	
+	<skill id="9992" levels="1" name="Fighter Blessing">
+		<set name="mpConsume" val="1"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="reuseDelay" val="3000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="900"/>
+		<set name="effectRange" val="900"/>
+		<set name="aggroPoints" val="0"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="1" stackType="multibuff_fighter">
+				<mul order="0x30" stat="pAtk" val="1.15"/> <!-- Might -->
+				<mul order="0x30" stat="pAtk" val="1.12"/> <!-- Dance of the Warrior -->
+				<mul order="0x30" stat="pAtkSpd" val="1.33"/> <!-- Haste -->
+				<mul order="0x30" stat="pAtkSpd" val="1.15"/> <!-- Dance of Fury -->
+				<basemul order="0x30" stat="rCrit" val="0.3" /> <!-- Focus -->
+				<basemul order="0x30" stat="rCrit" val="1" /> <!-- Song of Hunter -->
+				<mul order="0x30" stat="cAtk" val="1.25"/> <!-- Death Whisper -->
+				<add order="0x40" stat="accCombat" val="4"/> <!-- Guidance -->
+			</effect>
+		</for>
+	</skill>
+	<skill id="9993" levels="3" name="Clarity">
+		<table name="#magicLvl"> 58 66 74 </table>
+		<table name="#mpConsume"> 54 62 69 </table>
+		<table name="#MpConsumeRate"> 0.96 0.93 0.9 </table>
+		<table name="#stackOrder"> 1 2 3 </table>
+		<set name="magicLvl" val="#magicLvl" />
+		<set name="mpConsume" val="#mpConsume"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="4000"/>
+		<set name="target" val="TARGET_ONE"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="cheap_magic">
+				<mul order="0x30" stat="MagicalMpConsumeRate" val="#MpConsumeRate" />
+				<mul order="0x30" stat="PhysicalMpConsumeRate" val="#MpConsumeRate" />
+				<mul order="0x30" stat="DanceMpConsumeRate" val="#MpConsumeRate" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9994" levels="13" name="Blessing of Queen">
+		<table name="#mpConsume"> 122 157 194 202 207 212 215 220 224 229 233 237 242 </table>
+		<table name="#power"> 541 611 659 666 669 673 676 679 681 684 687 689 692 </table>
+		<table name="#magicLvl"> 57 66 75 77 78 79 80 81 82 83 84 85 86 </table>
+		<table name="#rCrit"> 0.25 0.27 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 0.3 </table>
+		<table name="#cAtk"> 1.2 1.22 1.25 1.25 1.25 1.25 1.25 1.25 1.25 1.25 1.25 1.25 1.25 </table>
+		<table name="#stackOrder"> 1 2 3 3 3 3 3 3 3 3 3 3 3 </table>
+		<set name="magicLvl" val="#magicLvl" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillType" val="BUFF" />
+		<set name="skillRadius" val="1000" />
+		<set name="hitTime" val="4000" />
+		<set name="reuseDelay" val="8000" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isMagic" val="true" />
+		<set name="aggroPoints" val="#power" />
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="buff_queen_of_cat">
+				<basemul order="0x30" stat="rCrit" val="#rCrit" />
+				<mul order="0x30" stat="cAtk" val="#cAtk" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="9995" levels="13" name="Gift of Seraphim">
+		<table name="#magicLvl"> 57 66 75 77 78 79 80 81 82 83 84 85 86 </table>
+		<table name="#mpConsume"> 122 157 194 202 207 212 215 220 224 229 233 237 242 </table>
+		<table name="#mReuse"> 0.7 0.68 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 </table>
+		<table name="#power"> 541 611 659 666 669 673 676 679 681 684 687 689 692 </table>
+		<table name="#stackOrder"> 1 2 3 3 3 3 3 3 3 3 3 3 3 </table>
+		<set name="mpConsume" val="#mpConsume" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillRadius" val="1000" />
+		<set name="skillType" val="BUFF" />
+		<set name="hitTime" val="4000" />
+		<set name="reuseDelay" val="8000" />
+		<set name="magicLvl" val="#magicLvl" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isMagic" val="true" />
+		<set name="aggroPoints" val="#power" />
+		<for>
+			<effect name="Buff" time="5400" val="0" stackOrder="#stackOrder" stackType="buff_unicorn_seraphim">
+				<mul order="0x30" stat="mReuse" val="#mReuse" />
+			</effect>
+		</for>
+	</skill>	
+	<skill id="9999" levels="1" name="Force Attack">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="CONT"/>
+		<set name="operateType" val="OP_TOGGLE"/>
+		<for>
+      <effect count="0x7fffffff" name="ForceAttack" time="5" val="0" />
+		</for>
+	</skill>
+</list>

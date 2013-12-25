@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<item id="9501" type="EtcItem" name="Dagger Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9502" type="EtcItem" name="Sword Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9503" type="EtcItem" name="Two-Handed Sword Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9504" type="EtcItem" name="Dual Swords Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9505" type="EtcItem" name="Bow Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9506" type="EtcItem" name="Fist Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9507" type="EtcItem" name="Blunt Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9508" type="EtcItem" name="Polearm Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9509" type="EtcItem" name="Two-Handed Blunt Fragment">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />
+	</item>
+	
+	<item id="9511" type="EtcItem" name="Helmet Part">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9512" type="EtcItem" name="Gloves Part">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9513" type="EtcItem" name="Boots Part">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9514" type="EtcItem" name="Body Part">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9515" type="EtcItem" name="Gaiters Part">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9516" type="EtcItem" name="Shield Part">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9521" type="EtcItem" name="Ring Element">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9522" type="EtcItem" name="Earring Element">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9523" type="EtcItem" name="Necklace Element">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9524" type="EtcItem" name="Crystal of Weapon">
+		<set name="material" val="paper" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />
+	</item>	
+	<item id="9525" type="EtcItem" name="Crystal of Armor">
+		<set name="material" val="paper" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />
+	</item>		
+	<item id="9526" type="EtcItem" name="Crystal of Jewelry">
+		<set name="material" val="paper" />
+		<set name="price" val="1000" />
+		<set name="is_stackable" val="true" />
+	</item>			
+	
+	<item id="9531" type="EtcItem" name="Scroll of Weapon">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9532" type="EtcItem" name="Scroll of Armor">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+
+		<set name="is_stackable" val="true" />	
+	</item>
+	<item id="9533" type="EtcItem" name="Scroll of Jewelry">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="10" />
+
+		<set name="is_stackable" val="true" />	
+	</item>
+	
+	<item id="9550" type="EtcItem" name="Clan Egg of Empower">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9551" type="EtcItem" name="Clan Egg of Acumen">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9552" type="EtcItem" name="Clan Egg of Magic Barrier">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9553" type="EtcItem" name="Clan Egg of Might">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9554" type="EtcItem" name="Clan Egg of Haste">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9555" type="EtcItem" name="Clan Egg of Shield">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9556" type="EtcItem" name="Clan Egg of Body">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9557" type="EtcItem" name="Clan Egg of Soul">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9558" type="EtcItem" name="Clan Egg of Ritual">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9559" type="EtcItem" name="Clan Egg of Berserker Spirit">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>	
+	<item id="9560" type="EtcItem" name="Clan Egg of Shield Defense">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9561" type="EtcItem" name="Clan Egg of Wind Walk">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9562" type="EtcItem" name="Clan Egg of Agility">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9563" type="EtcItem" name="Clan Egg of Guidance">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9564" type="EtcItem" name="Clan Egg of Wild Magic">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9565" type="EtcItem" name="Clan Egg of Focus">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9566" type="EtcItem" name="Clan Egg of Blessed Return">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>	
+	<item id="9567" type="EtcItem" name="Empty Clan Egg">
+		<set name="material" val="paper" />
+
+		<set name="is_stackable" val="true" />
+	</item>
+</list>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Majestic Necklace -->
+  <item id="1">
+    <production id="924" count="1"/>
+
+    <ingredient id="9523" count="100"/>
+
+  </item>
+
+  <!-- Majestic Earring -->
+  <item id="2">
+    <production id="862" count="1"/>
+
+    <ingredient id="9522" count="100"/>
+
+  </item>
+
+  <!-- Majestic Ring -->
+  <item id="3">
+    <production id="893" count="1"/>
+
+    <ingredient id="9521" count="100"/>
+
+  </item>
+
+
+</list>

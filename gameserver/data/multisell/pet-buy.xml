@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Baby Cougar Chime -->
+  <item id="1">
+    <ingredient id="57" count="1000000"/>
+    <production id="6649" count="1"/>
+    <production id="7582" count="100"/>
+  </item>
+
+  <!-- Baby Buffalo Panpipe -->
+  <item id="2">
+    <ingredient id="57" count="1000000"/>
+    <production id="6648" count="1"/>
+    <production id="7582" count="100"/>
+  </item>
+
+  <!-- Baby Kookaburra Ocarina -->
+  <item id="3">
+    <ingredient id="57" count="1000000"/>
+    <production id="6650" count="1"/>
+    <production id="7582" count="100"/>
+  </item>
+
+  <!-- Wolf Collar -->
+  <item id="4">
+    <ingredient id="57" count="1000000"/>
+    <production id="2375" count="1"/>
+    <production id="2515" count="100"/>
+  </item>
+
+  <!-- Dragonflute of Wind -->
+  <item id="5">
+    <ingredient id="57" count="5000000"/>
+    <production id="3500" count="1"/>
+    <production id="4038" count="100"/>
+  </item>
+
+  <!-- Dragonflute of Star -->
+  <item id="6">
+    <ingredient id="57" count="5000000"/>
+    <production id="3501" count="1"/>
+    <production id="4038" count="100"/>
+  </item>
+
+  <!-- Dragonflute of Twilight -->
+  <item id="7">
+    <ingredient id="57" count="5000000"/>
+    <production id="3502" count="1"/>
+    <production id="4038" count="100"/>
+  </item>
+
+
+</list>

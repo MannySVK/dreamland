@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Sealed Major Arcana Robe -->
+  <item id="1">
+    <production id="6684" count="1"/>
+  </item>
+
+  <!-- Sealed Major Arcana Circlet -->
+  <item id="2">
+    <production id="6687" count="1"/>
+  </item>
+
+  <!-- Sealed Major Arcana Glove -->
+  <item id="3">
+    <production id="6685" count="1"/>
+  </item>
+
+  <!-- Sealed Major Arcana Boots -->
+  <item id="4">
+    <production id="6686" count="1"/>
+  </item>
+
+  <!-- Sealed Draconic Leather Armor -->
+  <item id="5">
+    <production id="6680" count="1"/>
+  </item>
+
+  <!-- Sealed Draconic Leather Helmet -->
+  <item id="6">
+    <production id="6683" count="1"/>
+  </item>
+
+  <!-- Sealed Draconic Leather Glove -->
+  <item id="7">
+    <production id="6681" count="1"/>
+  </item>
+
+  <!-- Sealed Draconic Leather Boots -->
+  <item id="8">
+    <production id="6682" count="1"/>
+  </item>
+
+  <!-- Sealed Imperial Crusader Breastplate -->
+  <item id="9">
+    <production id="6674" count="1"/>
+  </item>
+
+  <!-- Sealed Imperial Crusader Gaiters -->
+  <item id="10">
+    <production id="6675" count="1"/>
+  </item>
+
+  <!-- Sealed Imperial Crusader Helmet -->
+  <item id="11">
+    <production id="6679" count="1"/>
+  </item>
+
+  <!-- Sealed Imperial Crusader Gauntlet -->
+  <item id="12">
+    <production id="6676" count="1"/>
+  </item>
+
+  <!-- Sealed Imperial Crusader Boots -->
+  <item id="13">
+    <production id="6677" count="1"/>
+  </item>
+
+  <!-- Sealed Imperial Crusader Shield -->
+  <item id="14">
+    <production id="6678" count="1"/>
+  </item>
+
+
+</list>

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list>
+
+  <!-- Recipe: Sealed Majestic Robe(100%) -->
+  <item id="1">
+    <ingredient id="57" count="100000"/>
+    <production id="5353" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Majestic Leather Armor(100%) -->
+  <item id="2">
+    <ingredient id="57" count="100000"/>
+    <production id="5339" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Majestic Plate Armor(100%) -->
+  <item id="3">
+    <ingredient id="57" count="100000"/>
+    <production id="5423" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Majestic Circlet(100%) -->
+  <item id="4">
+    <ingredient id="57" count="40000"/>
+    <production id="5433" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Majestic Gauntlets(100%) -->
+  <item id="5">
+    <ingredient id="57" count="30000"/>
+    <production id="5407" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Majestic Boots(100%) -->
+  <item id="6">
+    <ingredient id="57" count="30000"/>
+    <production id="5383" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Nightmare Robe(100%) -->
+  <item id="7">
+    <ingredient id="57" count="100000"/>
+    <production id="5351" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Leather Armor of Nightmare(100%) -->
+  <item id="8">
+    <ingredient id="57" count="100000"/>
+    <production id="5337" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Armor of Nightmare(100%) -->
+  <item id="9">
+    <ingredient id="57" count="100000"/>
+    <production id="5421" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Helm of Nightmare(100%) -->
+  <item id="10">
+    <ingredient id="57" count="40000"/>
+    <production id="5431" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Gauntlets of Nightmare(100%) -->
+  <item id="11">
+    <ingredient id="57" count="30000"/>
+    <production id="5405" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Boots of Nightmare(100%) -->
+  <item id="12">
+    <ingredient id="57" count="30000"/>
+    <production id="5381" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Robe(100%) -->
+  <item id="13">
+    <ingredient id="57" count="100000"/>
+    <production id="5349" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Leather Armor(100%) -->
+  <item id="14">
+    <ingredient id="57" count="60000"/>
+    <production id="5333" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Leggings(100%) -->
+  <item id="15">
+    <ingredient id="57" count="40000"/>
+    <production id="5341" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Breastplate(100%) -->
+  <item id="16">
+    <ingredient id="57" count="60000"/>
+    <production id="5417" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Gaiters(100%) -->
+  <item id="17">
+    <ingredient id="57" count="40000"/>
+    <production id="5425" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Helmet(100%) -->
+  <item id="18">
+    <ingredient id="57" count="40000"/>
+    <production id="5427" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Gloves(100%) -->
+  <item id="19">
+    <ingredient id="57" count="30000"/>
+    <production id="5393" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Boots(100%) -->
+  <item id="20">
+    <ingredient id="57" count="30000"/>
+    <production id="5369" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Tallum Tunic(100%) -->
+  <item id="21">
+    <ingredient id="57" count="60000"/>
+    <production id="5347" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Tallum Stockings(100%) -->
+  <item id="22">
+    <ingredient id="57" count="40000"/>
+    <production id="5355" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Tallum Leather Armor(100%) -->
+  <item id="23">
+    <ingredient id="57" count="100000"/>
+    <production id="5335" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Tallum Plate Armor(100%) -->
+  <item id="24">
+    <ingredient id="57" count="100000"/>
+    <production id="5419" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Tallum Helmet(100%) -->
+  <item id="25">
+    <ingredient id="57" count="40000"/>
+    <production id="5429" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Tallum Gloves(100%) -->
+  <item id="26">
+    <ingredient id="57" count="30000"/>
+    <production id="5395" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Tallum Boots(100%) -->
+  <item id="27">
+    <ingredient id="57" count="30000"/>
+    <production id="5371" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Shield of Nightmare(100%) -->
+  <item id="28">
+    <ingredient id="57" count="60000"/>
+    <production id="5367" count="1"/>
+  </item>
+
+  <!-- Recipe: Sealed Dark Crystal Shield(100%) -->
+  <item id="29">
+    <ingredient id="57" count="60000"/>
+    <production id="5365" count="1"/>
+  </item>
+
+</list>

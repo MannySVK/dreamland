@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list>
+
+  <!-- Rukal's Musical Score -->
+  <item id="1">
+    <production id="7628" count="1"/>
+  </item>
+
+  <!-- Imperial Arrowhead -->
+  <item id="2">
+    <production id="3721" count="1"/>
+  </item>
+
+  <!-- Gold Dragon -->
+  <item id="3">
+    <production id="3481" count="1"/>
+  </item>
+
+  <!-- Beleth's Gold Dragon -->
+  <item id="4">
+    <production id="3487" count="1"/>
+  </item>
+
+  <!-- Stakatos Fluids -->
+  <item id="5">
+    <production id="2751" count="1"/>
+  </item>
+
+  <!-- Grizzly Blood -->
+  <item id="6">
+    <production id="1625" count="1"/>
+  </item>
+
+  <!-- Green Blood -->
+  <item id="7">
+    <production id="1578" count="1"/>
+  </item>
+
+  <!-- Royal Jelly -->
+  <item id="8">
+    <production id="1428" count="1"/>
+  </item>
+
+  <!-- Royal Jelly -->
+  <item id="9">
+    <production id="1428" count="1"/>
+  </item>
+
+  <!-- Nectar -->
+  <item id="10">
+    <production id="1427" count="1"/>
+  </item>
+
+  <!-- Nectar -->
+  <item id="11">
+    <production id="1427" count="1"/>
+  </item>
+
+  <!-- Baulro's Potion -->
+  <item id="12">
+    <production id="1080" count="1"/>
+  </item>
+
+  <!-- Lesser Healing Potion -->
+  <item id="13">
+    <production id="1060" count="1"/>
+  </item>
+
+  <!-- Cobendell's Medicine -->
+  <item id="14">
+    <production id="1130" count="1"/>
+  </item>
+
+  <!-- Medusa's Blood -->
+  <item id="15">
+    <production id="2717" count="1"/>
+  </item>
+
+  <!-- Tear of Holy Spirit -->
+  <item id="16">
+    <production id="1682" count="1"/>
+  </item>
+
+  <!-- Greater Swift Attack Potion -->
+  <item id="17">
+    <production id="1375" count="1"/>
+  </item>
+
+  <!-- Mimir's Elixir -->
+  <item id="18">
+    <production id="6319" count="1"/>
+  </item>
+
+  <!-- Zimenf's Potion -->
+  <item id="19">
+    <production id="1649" count="1"/>
+  </item>
+
+  <!-- Red Mandragora Sap -->
+  <item id="20">
+    <production id="1424" count="1"/>
+  </item>
+
+  <!-- Medusa Venom -->
+  <item id="21">
+    <production id="1453" count="1"/>
+  </item>
+
+  <!-- Healing Potion -->
+  <item id="22">
+    <production id="1061" count="1"/>
+  </item>
+
+  <!-- Preserving Oil -->
+  <item id="23">
+    <production id="972" count="1"/>
+  </item>
+
+  <!-- Necroplasm -->
+  <item id="24">
+    <production id="6024" count="1"/>
+  </item>
+
+  <!-- Honey -->
+  <item id="25">
+    <production id="1429" count="1"/>
+  </item>
+
+  <!-- Abyss Oil -->
+  <item id="26">
+    <production id="6032" count="1"/>
+  </item>
+
+  <!-- Fire Essence -->
+  <item id="27">
+    <production id="6028" count="1"/>
+  </item>
+
+  <!-- Dracoplasm -->
+  <item id="28">
+    <production id="6021" count="1"/>
+  </item>
+
+  <!-- Fairy Breath -->
+  <item id="29">
+    <production id="8286" count="1"/>
+  </item>
+
+  <!-- Fairy Breath -->
+  <item id="30">
+    <production id="8286" count="1"/>
+  </item>
+
+  <!-- Succubus Perfume -->
+  <item id="31">
+    <production id="4372" count="1"/>
+  </item>
+
+  <!-- Golden Honey -->
+  <item id="32">
+    <production id="1430" count="1"/>
+  </item>
+
+
+</list>

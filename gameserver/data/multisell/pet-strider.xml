@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Dragon Bugle of Wind -->
+  <item id="1">
+    <ingredient id="3500" count="1"/>
+    <ingredient id="7908" count="100"/>
+    <ingredient id="57" count="1000000"/>
+    <production id="4422" count="1"/>
+    <production id="5168" count="100"/>
+  </item>
+
+  <!-- Dragon Bugle of Star -->
+  <item id="2">
+    <ingredient id="3501" count="1"/>
+    <ingredient id="7906" count="100"/>
+    <ingredient id="57" count="100000"/>
+    <production id="4423" count="1"/>
+    <production id="5168" count="100"/>
+  </item>
+
+  <!-- Dragon Bugle of Dusk -->
+  <item id="3">
+    <ingredient id="3502" count="1"/>
+    <ingredient id="7910" count="100"/>
+    <ingredient id="57" count="100000"/>
+    <production id="4424" count="1"/>
+    <production id="5168" count="100"/>
+  </item>
+
+
+</list>

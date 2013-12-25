@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Leather -->
+  <item id="1">
+    <ingredient id="57" count="1000"/>
+    <ingredient id="1867" count="3"/>
+    <ingredient id="1868" count="5"/>
+    <production id="1882" count="1"/>
+  </item>
+
+  <!-- High Grade Suede -->
+  <item id="2">
+    <ingredient id="57" count="900"/>
+    <ingredient id="1872" count="5"/>
+    <ingredient id="1867" count="2"/>
+    <production id="1885" count="1"/>
+  </item>
+
+  <!-- Cord -->
+  <item id="3">
+    <ingredient id="57" count="800"/>
+    <ingredient id="1867" count="1"/>
+    <ingredient id="1868" count="5"/>
+    <production id="1884" count="1"/>
+  </item>
+
+  <!-- Cokes -->
+  <item id="4">
+    <ingredient id="57" count="600"/>
+    <ingredient id="1870" count="1"/>
+    <ingredient id="1871" count="2"/>
+    <production id="1879" count="1"/>
+  </item>
+  
+  <!-- Wooden Stick -->
+  <item id="5">
+    <ingredient id="57" count="900"/>
+    <ingredient id="1864" count="5"/>
+    <ingredient id="1868" count="2"/>
+    <production id="1878" count="1"/>
+  </item>  
+
+  <!-- Steel -->
+  <item id="6">
+    <ingredient id="57" count="3000"/>
+    <ingredient id="1869" count="10"/>
+    <ingredient id="1879" count="1"/>
+    <production id="1880" count="1"/>
+  </item>
+
+  <!-- Mithril Alloy -->
+  <item id="7">
+    <ingredient id="57" count="4000"/>
+    <ingredient id="1876" count="5"/>
+    <ingredient id="1879" count="1"/>
+    <production id="1890" count="1"/>
+  </item>
+
+  <!-- Silver Mold -->
+  <item id="8">
+    <ingredient id="57" count="4000"/>
+    <ingredient id="1873" count="5"/>
+    <ingredient id="1879" count="1"/>
+    <production id="1886" count="1"/>
+  </item>
+
+  <!-- Adena -->
+  <item id="9">
+    <ingredient id="57" count="10000"/>
+    <ingredient id="4045" count="1"/>
+    <ingredient id="1879" count="1"/>
+    <production id="57" count="75000"/>
+  </item>
+
+
+</list>

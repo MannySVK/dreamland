@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+	<!-- Tallum Blade -->
+	<item id="1">
+		<production id="80" count="1"/>
+
+		<ingredient id="9502" count="500"/>
+
+	</item>
+
+	<!-- Dark Legion's Edge -->
+	<item id="2">
+		<production id="2500" count="1" />
+
+		<ingredient id="9502" count="500"/>
+
+	</item>
+
+	<!-- Infernal Master -->
+	<item id="3">
+		<production id="7884" count="1" />
+
+		<ingredient id="9503" count="500"/>
+
+	</item>
+
+	<!-- Dragon Slayer -->
+	<item id="4">
+		<production id="81" count="1" />
+
+		<ingredient id="9503" count="500"/>
+	</item>
+
+	<!-- Meteor Shower -->
+	<item id="5">
+		<production id="2504" count="1" />
+
+		<ingredient id="9507" count="500"/>
+	</item>
+
+	<!-- Elysian -->
+	<item id="6">
+		<production id="164" count="1" />
+
+		<ingredient id="9507" count="500"/>
+
+	</item>
+
+	<!-- Destroyer Hammer -->
+	<item id="7">
+		<production id="7899" count="1" />
+
+		<ingredient id="9509" count="500"/>
+
+	</item>
+
+	<!-- Doom Crusher -->
+	<item id="8">
+		<production id="7902" count="1" />
+
+		<ingredient id="9509" count="500"/>
+
+	</item>
+
+	<!-- Elemental Sword -->
+	<item id="9">
+		<production id="150" count="1" />
+
+		<ingredient id="9502" count="500"/>
+
+		<ingredient id="57" count="100000"/>
+	</item>
+
+	<!-- Sword of Miracles -->
+	<item id="10">
+		<production id="151" count="1" />
+
+		<ingredient id="9502" count="500"/>
+
+	</item>
+
+	<!-- Spiritual Eye -->
+	<item id="11">
+		<production id="7894" count="1" />
+		
+		<ingredient id="9507" count="500"/>
+
+	</item>
+
+	<!-- Flaming Dragon Skull -->
+	<item id="12">
+		<production id="7895" count="1" />
+
+		<ingredient id="9507" count="500"/>
+
+	</item>
+
+	<!-- Dasparion's Staff -->
+	<item id="13">
+		<production id="212" count="1" />
+
+		<ingredient id="9509" count="500"/>
+
+	</item>
+
+	<!-- Branch of The Mother Tree -->
+	<item id="14">
+		<production id="213" count="1" />
+
+		<ingredient id="9509" count="500"/>
+		
+	</item>
+
+	<!-- Bloody Orchid -->
+	<item id="15">
+		<production id="235" count="1" />
+	
+		<ingredient id="9501" count="500"/>
+
+	</item>
+
+	<!-- Soul Separator -->
+	<item id="16">
+		<production id="236" count="1" />
+
+		<ingredient id="9501" count="500"/>
+
+	</item>
+
+	<!-- Carnage Bow -->
+	<item id="17">
+		<production id="288" count="1" />
+
+		<ingredient id="9505" count="500"/>
+ </item>
+
+	<!-- Soul Bow -->
+	<item id="18">
+		<production id="289" count="1" />
+
+		<ingredient id="9505" count="500"/>
+
+	</item>
+
+	<!-- Halberd -->
+	<item id="19">
+		<production id="98" count="1" />
+
+		<ingredient id="9508" count="500"/>
+
+	</item>
+
+	<!-- Tallum Glaive -->
+	<item id="20">
+		<production id="305" count="1" />
+
+		<ingredient id="9508" count="500"/>
+
+ </item>
+
+	<!-- Blood Tornado -->
+	<item id="21">
+		<production id="269" count="1" />
+
+		<ingredient id="9506" count="500"/>
+
+	</item>
+
+	<!-- Dragon Grinder -->
+	<item id="22">
+		<production id="270" count="1" />
+
+		<ingredient id="9506" count="500"/>
+
+	</item>
+
+	<!-- Keshanberk*Keshanberk -->
+	<item id="23">
+		<production id="5233" count="1" />
+
+		<ingredient id="9504" count="500"/>
+
+	</item>
+
+	<!-- Keshanberk*Damascus -->
+	<item id="24">
+		<production id="5705" count="1" />
+
+		<ingredient id="9504" count="500"/>
+
+	</item>
+
+	<!-- Damascus*Damascus -->
+	<item id="25">
+		<production id="5706" count="1" />
+
+		<ingredient id="9504" count="500"/>
+
+	</item>
+
+</list>

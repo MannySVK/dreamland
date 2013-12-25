@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Defensive Blessing -->
+	<buff skill_id="9990" skill_level="1" lower_level="1" upper_level="75" is_magic_class="false"/>
+	<!-- Fighter Blessing -->
+	<buff skill_id="9992" skill_level="1" lower_level="1" upper_level="75" is_magic_class="false"/>
+	<!-- Berserker Spirit -->
+	<buff skill_id="9902" skill_level="2" lower_level="1" upper_level="75" is_magic_class="false"/>
+	<!-- Greater Might -->
+	<buff skill_id="9918" skill_level="3" lower_level="1" upper_level="75" is_magic_class="false"/>
+	<!-- Vampiric Rage -->
+	<buff skill_id="9917" skill_level="4" lower_level="1" upper_level="75" is_magic_class="false"/>
+
+	<!-- Defensive Blessing -->
+	<buff skill_id="9990" skill_level="1" lower_level="1" upper_level="75" is_magic_class="true"/>
+	<!-- Mage Blessing -->
+	<buff skill_id="9991" skill_level="1" lower_level="1" upper_level="75" is_magic_class="true"/>
+	<!-- Berserker Spirit -->
+	<buff skill_id="9902" skill_level="2" lower_level="1" upper_level="75" is_magic_class="true"/>
+	<!-- Greater Shield -->
+	<buff skill_id="9919" skill_level="3" lower_level="1" upper_level="75" is_magic_class="true"/>
+</list>

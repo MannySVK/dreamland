@@ -1,0 +1,22 @@
+<html>
+<title>Grand Boss Manager</title>
+<body>
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+LIST REGISTROVANYCH KLANU PRO %bossName%, koukni se a opravdu zvaz, zda se chces zaregistrovat 
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+<table><tr>
+<td><button value="Register" action="bypass -h npc_%objectId%_register %bossId%" width=94 height=21  fore="L2UI_ch3.BigButton" back="L2UI_ch3.BigButton_down"></td>
+<td><button value="Back" action="bypass -h npc_%objectId%_Main" width=94 height=21  fore="L2UI_ch3.BigButton" back="L2UI_ch3.BigButton_down"></td>
+</tr></table>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+<table>
+<tr><td width=150 align="center">Clan Name</td></tr>
+%LIST%
+</table>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+</body>
+</html>

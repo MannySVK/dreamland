@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list>
+
+  <!-- Soulshot: No Grade -->
+  <item id="1">
+    <production id="1835" count="100"/>
+  </item>
+
+  <!-- Soulshot: D-grade -->
+  <item id="2">
+    <production id="1463" count="100"/>
+  </item>
+
+  <!-- Soulshot: C-grade -->
+  <item id="3">
+    <production id="1464" count="100"/>
+  </item>
+
+  <!-- Soulshot: B-grade -->
+  <item id="4">
+    <production id="1465" count="100"/>
+  </item>
+
+  <!-- Soulshot: A-grade -->
+  <item id="5">
+    <ingredient id="57" count="10000"/>
+    <production id="1466" count="100"/>
+  </item>
+
+  <!-- Soulshot: S-grade -->
+  <item id="6">
+    <ingredient id="57" count="25000"/>
+    <production id="1467" count="100"/>
+  </item>
+
+  <!-- Spiritshot: No Grade -->
+  <item id="7">
+    <production id="2509" count="100"/>
+  </item>
+
+  <!-- Spiritshot: D-grade -->
+  <item id="8">
+    <production id="2510" count="100"/>
+  </item>
+
+  <!-- Spiritshot: C-grade -->
+  <item id="9">
+    <production id="2511" count="100"/>
+  </item>
+
+  <!-- Spiritshot: B-grade -->
+  <item id="10">
+    <production id="2512" count="100"/>
+  </item>
+
+  <!-- Spiritshot: A-grade -->
+  <item id="11">
+    <ingredient id="57" count="10000"/>
+    <production id="2513" count="100"/>
+  </item>
+
+  <!-- Spiritshot: S-grade -->
+  <item id="12">
+    <ingredient id="57" count="25000"/>
+    <production id="2514" count="100"/>
+  </item>
+
+  <!-- Blessed Spiritshot: No Grade -->
+  <item id="13">
+    <production id="3947" count="100"/>
+  </item>
+
+  <!-- Blessed Spiritshot: D-Grade -->
+  <item id="14">
+    <production id="3948" count="100"/>
+  </item>
+
+  <!-- Blessed Spiritshot: C-Grade -->
+  <item id="15">
+    <production id="3949" count="100"/>
+  </item>
+
+  <!-- Blessed Spiritshot: B-Grade -->
+  <item id="16">
+    <production id="3950" count="100"/>
+  </item>
+
+  <!-- Blessed Spiritshot: A-Grade -->
+  <item id="17">
+    <ingredient id="57" count="10000"/>
+    <production id="3951" count="100"/>
+  </item>
+
+  <!-- Blessed Spiritshot: S Grade -->
+  <item id="18">
+    <ingredient id="57" count="25000"/>
+    <production id="3952" count="100"/>
+  </item>
+
+  <!-- Wooden Arrow -->
+  <item id="19">
+    <production id="17" count="100"/>
+  </item>
+
+  <!-- Bone Arrow -->
+  <item id="20">
+    <production id="1341" count="100"/>
+  </item>
+
+  <!-- Fine Steel Arrow -->
+  <item id="21">
+    <production id="1342" count="100"/>
+  </item>
+
+  <!-- Silver Arrow -->
+  <item id="22">
+    <production id="1343" count="100"/>
+  </item>
+
+  <!-- Mithril Arrow -->
+  <item id="23">
+    <ingredient id="57" count="10000"/>
+    <production id="1344" count="100"/>
+  </item>
+
+  <!-- Shining Arrow -->
+  <item id="24">
+    <ingredient id="57" count="25000"/>
+    <production id="1345" count="100"/>
+  </item>
+
+  <!-- Beast Soulshot -->
+  <item id="25">
+    <production id="6645" count="100"/>
+  </item>
+
+  <!-- Beast Spiritshot -->
+  <item id="26">
+    <production id="6646" count="100"/>
+  </item>
+
+  <!-- Blessed Beast Spiritshot -->
+  <item id="27">
+    <production id="6647" count="100"/>
+  </item>
+
+  <!-- Dice (Heart) -->
+  <item id="28">
+    <ingredient id="57" count="10000"/>
+    <production id="4625" count="1"/>
+  </item>
+
+  <!-- Dice (Spade) -->
+  <item id="29">
+    <ingredient id="57" count="10000"/>
+    <production id="4626" count="1"/>
+  </item>
+
+  <!-- Dice (Diamond) -->
+  <item id="30">
+    <ingredient id="57" count="10000"/>
+    <production id="4628" count="1"/>
+  </item>
+
+  <!-- Dice (Clover) -->
+  <item id="31">
+    <ingredient id="57" count="10000"/>
+    <production id="4627" count="1"/>
+  </item>
+
+  <!-- Calculator -->
+  <item id="32">
+    <ingredient id="57" count="10000"/>
+    <production id="4393" count="1"/>
+  </item>
+  
+  <!-- Healing Potions -->
+  <item id="33">
+    <ingredient id="57" count="5000"/>
+    <production id="1061" count="10"/>
+  </item>
+
+  <!-- Greater Healing Potions -->
+  <item id="34">
+    <ingredient id="57" count="10000"/>
+    <production id="1539" count="10"/>
+  </item>
+</list>

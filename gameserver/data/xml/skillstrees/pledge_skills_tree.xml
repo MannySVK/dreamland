@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<clan lvl='1'>
+		<skill id="391" lvl="1" repCost="0" />      <!-- Clan Imperium -->	
+		
+		<skill id="9320" lvl="1" repCost="0" itemId="9550" /> <!-- Clan Empower -->
+		<skill id="9321" lvl="1" repCost="0" itemId="9551" /> <!-- Clan Acumen -->
+		<skill id="9322" lvl="1" repCost="0" itemId="9552" /> <!-- Clan Magic Barrier -->
+		<skill id="9323" lvl="1" repCost="0" itemId="9553" /> <!-- Clan Might -->
+		<skill id="9324" lvl="1" repCost="0" itemId="9554" /> <!-- Clan Haste -->
+		<skill id="9325" lvl="1" repCost="0" itemId="9555" /> <!-- Clan Shield -->
+		<skill id="9326" lvl="1" repCost="0" itemId="9556" /> <!-- Clan Body -->
+		<skill id="9327" lvl="1" repCost="0" itemId="9557" /> <!-- Clan Soul -->
+		<skill id="9328" lvl="1" repCost="0" itemId="9558" /> <!-- Clan Ritual -->
+		<skill id="9329" lvl="1" repCost="0" itemId="9559" /> <!-- Clan Berserker Spirit -->
+		<skill id="9330" lvl="1" repCost="0" itemId="9560" /> <!-- Clan Shield Defense -->
+		<skill id="9331" lvl="1" repCost="0" itemId="9561" /> <!-- Clan Wind Walk -->
+		<skill id="9332" lvl="1" repCost="0" itemId="9562" /> <!-- Clan Agility -->
+		<skill id="9333" lvl="1" repCost="0" itemId="9563" /> <!-- Clan Guidance -->
+		<skill id="9334" lvl="1" repCost="0" itemId="9564" /> <!-- Clan Wild Magic -->
+		<skill id="9335" lvl="1" repCost="0" itemId="9565" /> <!-- Clan Focus -->
+		<skill id="9336" lvl="1" repCost="0" itemId="9566" /> <!-- Clan Blessed Return -->
+	</clan>
+	
+	<clan lvl='2'>
+		<skill id="9320" lvl="2" repCost="0" itemId="9550" /> <!-- Clan Empower -->
+		<skill id="9321" lvl="2" repCost="0" itemId="9551" /> <!-- Clan Acumen -->
+		<skill id="9322" lvl="2" repCost="0" itemId="9552" /> <!-- Clan Magic Barrier -->
+		<skill id="9323" lvl="2" repCost="0" itemId="9553" /> <!-- Clan Might -->
+		<skill id="9324" lvl="2" repCost="0" itemId="9554" /> <!-- Clan Haste -->
+		<skill id="9325" lvl="2" repCost="0" itemId="9555" /> <!-- Clan Shield -->
+		<skill id="9326" lvl="2" repCost="0" itemId="9556" /> <!-- Clan Body -->
+		<skill id="9327" lvl="2" repCost="0" itemId="9557" /> <!-- Clan Soul -->
+		<skill id="9328" lvl="2" repCost="0" itemId="9558" /> <!-- Clan Ritual -->
+		<skill id="9329" lvl="2" repCost="0" itemId="9559" /> <!-- Clan Berserker Spirit -->
+		<skill id="9330" lvl="2" repCost="0" itemId="9560" /> <!-- Clan Shield Defense -->
+		<skill id="9331" lvl="2" repCost="0" itemId="9561" /> <!-- Clan Wind Walk -->
+		<skill id="9332" lvl="2" repCost="0" itemId="9562" /> <!-- Clan Agility -->
+		<skill id="9333" lvl="2" repCost="0" itemId="9563" /> <!-- Clan Guidance -->
+		<skill id="9334" lvl="2" repCost="0" itemId="9564" /> <!-- Clan Wild Magic -->
+		<skill id="9335" lvl="2" repCost="0" itemId="9565" /> <!-- Clan Focus -->
+		<skill id="9336" lvl="2" repCost="0" itemId="9566" /> <!-- Clan Blessed Return -->
+	</clan>
+	
+	<clan lvl='3'>
+		<skill id="9320" lvl="3" repCost="0" itemId="9550" /> <!-- Clan Empower -->
+		<skill id="9321" lvl="3" repCost="0" itemId="9551" /> <!-- Clan Acumen -->
+		<skill id="9322" lvl="3" repCost="0" itemId="9552" /> <!-- Clan Magic Barrier -->
+		<skill id="9323" lvl="3" repCost="0" itemId="9553" /> <!-- Clan Might -->
+		<skill id="9324" lvl="3" repCost="0" itemId="9554" /> <!-- Clan Haste -->
+		<skill id="9325" lvl="3" repCost="0" itemId="9555" /> <!-- Clan Shield -->
+		<skill id="9326" lvl="3" repCost="0" itemId="9556" /> <!-- Clan Body -->
+		<skill id="9327" lvl="3" repCost="0" itemId="9557" /> <!-- Clan Soul -->
+		<skill id="9328" lvl="3" repCost="0" itemId="9558" /> <!-- Clan Ritual -->
+		<skill id="9329" lvl="3" repCost="0" itemId="9559" /> <!-- Clan Berserker Spirit -->
+		<skill id="9330" lvl="3" repCost="0" itemId="9560" /> <!-- Clan Shield Defense -->
+		<skill id="9331" lvl="3" repCost="0" itemId="9561" /> <!-- Clan Wind Walk -->
+		<skill id="9332" lvl="3" repCost="0" itemId="9562" /> <!-- Clan Agility -->
+		<skill id="9333" lvl="3" repCost="0" itemId="9563" /> <!-- Clan Guidance -->
+		<skill id="9334" lvl="3" repCost="0" itemId="9564" /> <!-- Clan Wild Magic -->
+		<skill id="9335" lvl="3" repCost="0" itemId="9565" /> <!-- Clan Focus -->
+		<skill id="9336" lvl="3" repCost="0" itemId="9566" /> <!-- Clan Blessed Return -->
+	</clan>
+
+	<clan lvl='4'>
+		<skill id="9320" lvl="4" repCost="0" itemId="9550" /> <!-- Clan Empower -->
+		<skill id="9321" lvl="4" repCost="0" itemId="9551" /> <!-- Clan Acumen -->
+		<skill id="9322" lvl="4" repCost="0" itemId="9552" /> <!-- Clan Magic Barrier -->
+		<skill id="9323" lvl="4" repCost="0" itemId="9553" /> <!-- Clan Might -->
+		<skill id="9324" lvl="4" repCost="0" itemId="9554" /> <!-- Clan Haste -->
+		<skill id="9325" lvl="4" repCost="0" itemId="9555" /> <!-- Clan Shield -->
+		<skill id="9326" lvl="4" repCost="0" itemId="9556" /> <!-- Clan Body -->
+		<skill id="9327" lvl="4" repCost="0" itemId="9557" /> <!-- Clan Soul -->
+		<skill id="9328" lvl="4" repCost="0" itemId="9558" /> <!-- Clan Ritual -->
+		<skill id="9329" lvl="4" repCost="0" itemId="9559" /> <!-- Clan Berserker Spirit -->
+		<skill id="9330" lvl="4" repCost="0" itemId="9560" /> <!-- Clan Shield Defense -->
+		<skill id="9331" lvl="4" repCost="0" itemId="9561" /> <!-- Clan Wind Walk -->
+		<skill id="9332" lvl="4" repCost="0" itemId="9562" /> <!-- Clan Agility -->
+		<skill id="9333" lvl="4" repCost="0" itemId="9563" /> <!-- Clan Guidance -->
+		<skill id="9334" lvl="4" repCost="0" itemId="9564" /> <!-- Clan Wild Magic -->
+		<skill id="9335" lvl="4" repCost="0" itemId="9565" /> <!-- Clan Focus -->
+		<skill id="9336" lvl="4" repCost="0" itemId="9566" /> <!-- Clan Blessed Return -->
+	</clan>
+
+	<clan lvl='5'>
+		<skill id="9320" lvl="5" repCost="0" itemId="9550" /> <!-- Clan Empower -->
+		<skill id="9321" lvl="5" repCost="0" itemId="9551" /> <!-- Clan Acumen -->
+		<skill id="9322" lvl="5" repCost="0" itemId="9552" /> <!-- Clan Magic Barrier -->
+		<skill id="9323" lvl="5" repCost="0" itemId="9553" /> <!-- Clan Might -->
+		<skill id="9324" lvl="5" repCost="0" itemId="9554" /> <!-- Clan Haste -->
+		<skill id="9325" lvl="5" repCost="0" itemId="9555" /> <!-- Clan Shield -->
+		<skill id="9326" lvl="5" repCost="0" itemId="9556" /> <!-- Clan Body -->
+		<skill id="9327" lvl="5" repCost="0" itemId="9557" /> <!-- Clan Soul -->
+		<skill id="9328" lvl="5" repCost="0" itemId="9558" /> <!-- Clan Ritual -->
+		<skill id="9329" lvl="5" repCost="0" itemId="9559" /> <!-- Clan Berserker Spirit -->
+		<skill id="9330" lvl="5" repCost="0" itemId="9560" /> <!-- Clan Shield Defense -->
+		<skill id="9331" lvl="5" repCost="0" itemId="9561" /> <!-- Clan Wind Walk -->
+		<skill id="9332" lvl="5" repCost="0" itemId="9562" /> <!-- Clan Agility -->
+		<skill id="9333" lvl="5" repCost="0" itemId="9563" /> <!-- Clan Guidance -->
+		<skill id="9334" lvl="5" repCost="0" itemId="9564" /> <!-- Clan Wild Magic -->
+		<skill id="9335" lvl="5" repCost="0" itemId="9565" /> <!-- Clan Focus -->
+		<skill id="9336" lvl="5" repCost="0" itemId="9566" /> <!-- Clan Blessed Return -->
+	</clan>	
+</list>

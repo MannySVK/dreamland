@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<!--
+TELEPORTER TRACE EXAMPLE
+  <teleporter npcId="41006">
+    <trace id="1" delay="50" x="-96678" y="258829" z="-3626" />
+    <trace id="2" delay="50" x="-96683" y="261139" z="-3626" />
+    <trace id="3" delay="50" x="-96203" y="261119" z="-3626">
+			<enter type="0" msg="Hello, I just entered new location." />
+    </trace>
+    <trace id="4" delay="50" x="-96200" y="261204" z="-3626" />
+    <trace id="5" delay="50" x="-95970" y="261196" z="-3626" />
+			<leave type="1" msg="Bye, I am leaving this locaion." />
+    </trace>
+    <trace id="6" delay="50" x="-95971" y="261375" z="-3626" />
+    <trace id="7" delay="50" x="-96759" y="261367" z="-3626">
+			<enter type="0" msg="Hello, I just entered new location." />
+			<leave type="1" msg="Bye, I am leaving this locaion." />
+    </trace>
+  </teleporter>
+-->
+</list>

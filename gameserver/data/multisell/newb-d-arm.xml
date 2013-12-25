@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Tunic of Knowledge -->
+  <item id="1">
+    <ingredient id="8870" count="1"/>
+    <production id="436" count="1"/>
+    <production id="469" count="1"/>
+    <production id="2447" count="1"/>
+    <production id="2423" count="1"/>
+    <production id="2412" count="1"/>
+    <production id="629" count="1"/>
+  </item>
+
+  <!-- Mithril Tunic -->
+  <item id="2">
+    <ingredient id="8870" count="1"/>
+    <production id="437" count="1"/>
+    <production id="470" count="1"/>
+    <production id="2450" count="1"/>
+    <production id="2426" count="1"/>
+    <production id="2412" count="1"/>
+    <production id="629" count="1"/>
+  </item>
+
+  <!-- Manticore Skin Shirt -->
+  <item id="3">
+    <ingredient id="8870" count="1"/>
+    <production id="395" count="1"/>
+    <production id="417" count="1"/>
+    <production id="2448" count="1"/>
+    <production id="2424" count="1"/>
+    <production id="2412" count="1"/>
+  </item>
+
+  <!-- Brigandine Tunic -->
+  <item id="4">
+    <ingredient id="8870" count="1"/>
+    <production id="352" count="1"/>
+    <production id="2378" count="1"/>
+    <production id="2411" count="1"/>
+    <production id="2425" count="1"/>
+    <production id="2449" count="1"/>
+    <production id="2493" count="1"/>
+  </item>
+
+
+</list>

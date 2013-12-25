@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Majestic Gauntlets - Robe -->
+  <item id="1">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5318" count="1"/>
+    <production id="5776" count="1"/>
+  </item>
+
+  <!-- Majestic Gauntlets - Light Armor -->
+  <item id="2">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5318" count="1"/>
+    <production id="5775" count="1"/>
+  </item>
+
+  <!-- Majestic Gauntlets - Heavy Armor -->
+  <item id="3">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5318" count="1"/>
+    <production id="5774" count="1"/>
+  </item>
+
+  <!-- Majestic Boots - Robe -->
+  <item id="4">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5319" count="1"/>
+    <production id="5788" count="1"/>
+  </item>
+
+  <!-- Majestic Boots - Light Armor -->
+  <item id="5">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5319" count="1"/>
+    <production id="5787" count="1"/>
+  </item>
+
+  <!-- Majestic Boots - Heavy Armor -->
+  <item id="6">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5319" count="1"/>
+    <production id="5786" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Gloves - Robe -->
+  <item id="7">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5290" count="1"/>
+    <production id="5767" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Gloves - Light Armor -->
+  <item id="8">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5290" count="1"/>
+    <production id="5766" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Gloves - Heavy Armor -->
+  <item id="9">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5290" count="1"/>
+    <production id="5765" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Boots - Robe -->
+  <item id="10">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5291" count="1"/>
+    <production id="5779" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Boots - Light Armor -->
+  <item id="11">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5291" count="1"/>
+    <production id="5778" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Boots - Heavy Armor -->
+  <item id="12">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5291" count="1"/>
+    <production id="5777" count="1"/>
+  </item>
+
+  <!-- Gauntlets of Nightmare - Robe -->
+  <item id="13">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5313" count="1"/>
+    <production id="5773" count="1"/>
+  </item>
+
+  <!-- Gauntlets of Nightmare - Light Armor -->
+  <item id="14">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5313" count="1"/>
+    <production id="5772" count="1"/>
+  </item>
+
+  <!-- Gauntlets of Nightmare - Heavy Armor -->
+  <item id="15">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5313" count="1"/>
+    <production id="5771" count="1"/>
+  </item>
+
+  <!-- Boots of Nightmare - Robe -->
+  <item id="16">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5314" count="1"/>
+    <production id="5785" count="1"/>
+  </item>
+
+  <!-- Boots of Nightmare - Light Armor -->
+  <item id="17">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5314" count="1"/>
+    <production id="5784" count="1"/>
+  </item>
+
+  <!-- Boots of Nightmare - Heavy Armor -->
+  <item id="18">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5314" count="1"/>
+    <production id="5783" count="1"/>
+  </item>
+
+  <!-- Tallum Gloves - Robe -->
+  <item id="19">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5295" count="1"/>
+    <production id="5770" count="1"/>
+  </item>
+
+  <!-- Tallum Gloves - Light Armor -->
+  <item id="20">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5295" count="1"/>
+    <production id="5769" count="1"/>
+  </item>
+
+  <!-- Tallum Gloves - Heavy Armor -->
+  <item id="21">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5295" count="1"/>
+    <production id="5768" count="1"/>
+  </item>
+
+  <!-- Tallum Boots - Robe -->
+  <item id="22">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5296" count="1"/>
+    <production id="5782" count="1"/>
+  </item>
+
+  <!-- Tallum Boots - Light Armor -->
+  <item id="23">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5296" count="1"/>
+    <production id="5781" count="1"/>
+  </item>
+
+  <!-- Tallum Boots - Heavy Armor -->
+  <item id="24">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="5296" count="1"/>
+    <production id="5780" count="1"/>
+  </item>
+
+  <!-- Major Arcana Robe -->
+  <item id="25">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6684" count="1"/>
+    <production id="6383" count="1"/>
+  </item>
+
+  <!-- Major Arcana Circlet -->
+  <item id="26">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6687" count="1"/>
+    <production id="6386" count="1"/>
+  </item>
+
+  <!-- Major Arcana Gloves -->
+  <item id="27">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6685" count="1"/>
+    <production id="6384" count="1"/>
+  </item>
+
+  <!-- Major Arcana Boots -->
+  <item id="28">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6686" count="1"/>
+    <production id="6385" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Armor -->
+  <item id="29">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6680" count="1"/>
+    <production id="6379" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Helmet -->
+  <item id="30">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6683" count="1"/>
+    <production id="6382" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Gloves -->
+  <item id="31">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6681" count="1"/>
+    <production id="6380" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Boots -->
+  <item id="32">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6682" count="1"/>
+    <production id="6381" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Breastplate -->
+  <item id="33">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6674" count="1"/>
+    <production id="6373" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Gaiters -->
+  <item id="34">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6675" count="1"/>
+    <production id="6374" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Helmet -->
+  <item id="35">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6679" count="1"/>
+    <production id="6378" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Gauntlets -->
+  <item id="36">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6676" count="1"/>
+    <production id="6375" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Boots -->
+  <item id="37">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6677" count="1"/>
+    <production id="6376" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Shield -->
+  <item id="38">
+    <ingredient id="57" count="7000000"/>
+    <ingredient id="6678" count="1"/>
+    <production id="6377" count="1"/>
+  </item>
+
+  <!-- Tateossian Necklace -->
+  <item id="39">
+    <ingredient id="6726" count="1"/>
+    <ingredient id="57" count="700000"/>
+    <production id="920" count="1"/>
+  </item>
+
+  <!-- Tateossian Earring -->
+  <item id="40">
+    <ingredient id="6724" count="1"/>
+    <ingredient id="57" count="700000"/>
+    <production id="858" count="1"/>
+  </item>
+
+  <!-- Tateossian Ring -->
+  <item id="41">
+    <ingredient id="6725" count="1"/>
+    <ingredient id="57" count="700000"/>
+    <production id="889" count="1"/>
+  </item>
+
+
+</list>

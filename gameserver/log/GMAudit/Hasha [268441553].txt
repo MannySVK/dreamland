@@ -1,0 +1,1793 @@
+04/03/2013 21:37:21>Hasha [268441553]>admin_show_skilllist 40107>Mandragora>
+04/03/2013 21:37:24>Hasha [268441553]>admin_show_droplist 40107>Mandragora>
+04/03/2013 21:37:39>Hasha [268441553]>admin>Mandragora>
+04/03/2013 21:37:44>Hasha [268441553]>admin_find_character>Mandragora>
+04/03/2013 21:41:25>Hasha [268441553]>admin>Alpen Buffalo>
+04/03/2013 21:41:27>Hasha [268441553]>admin_show_characters 0>Alpen Buffalo>
+04/03/2013 21:44:25>Hasha [268441553]>reload config>no-target>
+04/03/2013 21:48:21>Hasha [268441553]>admin>Deinonychus>
+04/03/2013 21:48:22>Hasha [268441553]>admin_show_characters 0>Deinonychus>
+04/03/2013 22:01:53>Hasha [268441553]>nokarma>Hasha>
+04/03/2013 22:18:43>Hasha [268441553]>admin_show_droplist 40209>Temple Guard>
+04/03/2013 22:26:29>Hasha [268441553]>spawn 50003>Hasha>
+04/03/2013 22:26:38>Hasha [268441553]>spawn 50002>Hasha>
+04/03/2013 22:26:41>Hasha [268441553]>delete>Taurin>
+04/03/2013 22:26:45>Hasha [268441553]>spawn 50004>no-target>
+04/03/2013 22:26:48>Hasha [268441553]>delete>Ivan>
+04/03/2013 22:26:52>Hasha [268441553]>spawn 50005>no-target>
+04/03/2013 22:26:55>Hasha [268441553]>delete>Hollint>
+04/03/2013 22:26:58>Hasha [268441553]>spawn 50001>no-target>
+04/03/2013 22:27:01>Hasha [268441553]>delete>Amalka>
+04/03/2013 22:27:07>Hasha [268441553]>spawn 50006>no-target>
+04/03/2013 22:27:12>Hasha [268441553]>delete>Hollint>
+04/03/2013 22:27:16>Hasha [268441553]>delete>Glottis>
+04/03/2013 22:27:35>Hasha [268441553]>spawn 50002>no-target>
+04/03/2013 22:32:08>Hasha [268441553]>admin>Old Aristocrat''s Soldier>
+04/03/2013 22:32:16>Hasha [268441553]>admin_find_character>Temple Guard>
+04/03/2013 22:43:52>Hasha [268441553]>delete>Taurin>
+09/03/2013 16:46:46>Hasha [268441553]>hide>NPC lvl 85>
+09/03/2013 16:48:28>Hasha [268441553]>admin>no-target>
+09/03/2013 16:48:29>Hasha [268441553]>admin_gmshop>no-target>
+09/03/2013 16:48:31>Hasha [268441553]>admin_help gmshop/Weapons.htm>no-target>
+09/03/2013 16:48:32>Hasha [268441553]>admin_help gmshop/cgradew.htm>no-target>
+09/03/2013 16:48:33>Hasha [268441553]>admin_buy 9018>no-target>
+09/03/2013 16:50:56>Hasha [268441553]>admin>no-target>
+09/03/2013 16:50:58>Hasha [268441553]>admin_show_characters 0>no-target>
+09/03/2013 16:51:00>Hasha [268441553]>admin_character_info Hasha>no-target>
+09/03/2013 16:51:07>Hasha [268441553]>admin_setclass>Hasha>
+09/03/2013 16:51:21>Hasha [268441553]>admin_setclass 100>Hasha>
+09/03/2013 16:51:26>Hasha [268441553]>admin>Hasha>
+09/03/2013 16:51:32>Hasha [268441553]>setlevel 81>Hasha>
+09/03/2013 16:59:38>Hasha [268441553]>admin>Hasha>
+09/03/2013 16:59:40>Hasha [268441553]>admin_show_characters 0>Hasha>
+09/03/2013 16:59:42>Hasha [268441553]>admin_admin>Hasha>
+09/03/2013 17:00:07>Hasha [268441553]>admin_show_characters 0>Hasha>
+09/03/2013 17:00:09>Hasha [268441553]>admin_admin>Hasha>
+09/03/2013 17:00:10>Hasha [268441553]>admin_create_item>Hasha>
+09/03/2013 17:00:19>Hasha [268441553]>admin_create_coin Adena 1222333444>Hasha>
+09/03/2013 17:11:18>Hasha [268441553]>kill Manny>no-target>
+09/03/2013 17:11:43>Hasha [268441553]>goto manny>null>
+10/03/2013 9:57:39>Hasha [268441553]>admin>no-target>
+10/03/2013 9:57:41>Hasha [268441553]>admin_show_characters 0>no-target>
+10/03/2013 9:57:55>Hasha [268441553]>hide>no-target>
+10/03/2013 9:58:59>Hasha [268441553]>hide>Boxer the Unicorn>
+10/03/2013 10:00:32>Hasha [268441553]>admin>no-target>
+10/03/2013 10:00:34>Hasha [268441553]>admin_show_characters 0>no-target>
+10/03/2013 10:00:35>Hasha [268441553]>admin_character_info Hasha>no-target>
+10/03/2013 10:00:36>Hasha [268441553]>admin_setclass>Hasha>
+10/03/2013 10:00:39>Hasha [268441553]>admin_setclass 21>Hasha>
+10/03/2013 10:00:47>Hasha [268441553]>admin>Hasha>
+10/03/2013 10:00:48>Hasha [268441553]>admin_show_characters 0>Hasha>
+10/03/2013 10:00:49>Hasha [268441553]>admin_character_info Hasha>Hasha>
+10/03/2013 10:00:51>Hasha [268441553]>admin_setclass>Hasha>
+10/03/2013 10:00:56>Hasha [268441553]>admin_setclass 34>Hasha>
+29/03/2013 14:21:49>Hasha [268441553]>remove_all_skills>Hasha>
+29/03/2013 14:21:53>Hasha [268441553]>give_all_skills>Hasha>
+29/03/2013 14:23:42>Hasha [268441553]>heal>Hasha>
+29/03/2013 14:55:34>Hasha [268441553]>kill>Hasha>
+29/03/2013 14:55:37>Hasha [268441553]>res>no-target>
+29/03/2013 14:55:49>Hasha [268441553]>gmspeed 4>Hasha>
+29/03/2013 14:57:22>Hasha [268441553]>gmspeed 0>Amalka>
+29/03/2013 15:03:04>Hasha [268441553]>admin>Amalka>
+29/03/2013 15:03:06>Hasha [268441553]>admin_show_characters 0>Amalka>
+29/03/2013 15:03:09>Hasha [268441553]>admin_character_info Hasha>Amalka>
+29/03/2013 15:06:32>Hasha [268441553]>setnoble>Hasha>
+29/03/2013 15:12:18>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:13:22>Hasha [268441553]>res>no-target>
+29/03/2013 15:14:23>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:15:38>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:17:23>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:18:18>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:19:36>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:20:51>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:21:34>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:21:45>Hasha [268441553]>admin>Hasha>
+29/03/2013 15:21:47>Hasha [268441553]>admin_show_characters 0>Hasha>
+29/03/2013 15:21:50>Hasha [268441553]>admin_character_info Hasha>Hasha>
+29/03/2013 15:21:51>Hasha [268441553]>admin_setclass>Hasha>
+29/03/2013 15:21:56>Hasha [268441553]>admin_setclass 92>Hasha>
+29/03/2013 15:22:11>Hasha [268441553]>remove_all_skills>Hasha>
+29/03/2013 15:22:27>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:24:40>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:26:19>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:27:43>Hasha [268441553]>recall>Manny>
+29/03/2013 15:28:35>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:30:57>Hasha [268441553]>heal>Hasha>
+29/03/2013 15:34:57>Hasha [268441553]>heal>Manny>
+29/03/2013 15:35:39>Hasha [268441553]>gmspeed 3>Hasha>
+29/03/2013 20:52:41>Hasha [268441553]>admin>Amalka>
+29/03/2013 20:52:43>Hasha [268441553]>admin_show_characters 0>Amalka>
+01/04/2013 18:08:20>Hasha [268441553]>spawnday>no-target>
+01/04/2013 18:08:46>Hasha [268441553]>admin>no-target>
+01/04/2013 18:08:48>Hasha [268441553]>admin_admin4>no-target>
+01/04/2013 18:10:31>Hasha [268441553]>spawn 31688>no-target>
+01/04/2013 18:10:51>Hasha [268441553]>spawn 31690>no-target>
+01/04/2013 18:11:05>Hasha [268441553]>recall>Grand Olympiad Manager>
+01/04/2013 18:11:10>Hasha [268441553]>delete>Grand Olympiad Manager>
+01/04/2013 18:11:15>Hasha [268441553]>spawn 31688>no-target>
+01/04/2013 18:11:31>Hasha [268441553]>server_restart 1>Monument of Heroes >
+01/04/2013 18:13:50>Hasha [268441553]>sethero>Hasha>
+01/04/2013 18:20:38>Hasha [268441553]>reload multisell>Taurin>
+01/04/2013 18:41:01>Hasha [268441553]>admin>Glottis>
+01/04/2013 18:41:02>Hasha [268441553]>admin_show_characters 0>Glottis>
+01/04/2013 18:41:07>Hasha [268441553]>server_restart 3>Glottis>
+01/04/2013 18:42:54>Hasha [268441553]>admin>Hasha>
+01/04/2013 18:43:00>Hasha [268441553]>admin_create_item 4285>Hasha>
+01/04/2013 18:43:17>Hasha [268441553]>admin_create_item 4393>Hasha>
+01/04/2013 18:45:04>Hasha [268441553]>reload multisell>Hasha>
+01/04/2013 18:59:42>Hasha [268441553]>reload htm>Glottis>
+01/04/2013 19:02:03>Hasha [268441553]>reload htm>Glottis>
+01/04/2013 19:04:09>Hasha [268441553]>admin>Glottis>
+01/04/2013 19:04:11>Hasha [268441553]>admin_show_characters 0>Glottis>
+02/05/2013 13:30:40>Hasha [268441553]>admin>no-target>
+02/05/2013 13:30:44>Hasha [268441553]>admin_admin2>Hasha>
+02/05/2013 13:33:04>Hasha [268441553]>admin>Hasha>
+02/05/2013 13:33:07>Hasha [268441553]>admin_admin2>Hasha>
+02/05/2013 13:33:13>Hasha [268441553]>admin_pledge setlevel 2>Hasha>
+02/05/2013 13:33:30>Hasha [268441553]>admin_pledge setlevel 3>Hasha>
+02/05/2013 13:33:46>Hasha [268441553]>admin_pledge info>Hasha>
+02/05/2013 13:33:52>Hasha [268441553]>admin_pledge setlevel 5>Hasha>
+02/05/2013 13:34:04>Hasha [268441553]>admin_pledge info>Exhumator>
+02/05/2013 13:36:35>Hasha [268441553]>reload config>Exhumator>
+02/05/2013 13:39:07>Hasha [268441553]>kill>Exhumator>
+02/05/2013 15:25:55>Hasha [268441553]>admin>Stargate>
+02/05/2013 15:25:57>Hasha [268441553]>admin_show_characters 0>Stargate>
+02/05/2013 18:39:38>Hasha [268441553]>reload htm>Hollint>
+02/05/2013 18:42:21>Hasha [268441553]>admin>Hasha>
+02/05/2013 18:42:23>Hasha [268441553]>admin_show_characters 0>Hasha>
+02/05/2013 18:42:24>Hasha [268441553]>admin_character_info Hasha>Hasha>
+02/05/2013 18:42:25>Hasha [268441553]>admin_setclass>Hasha>
+02/05/2013 18:42:31>Hasha [268441553]>admin_setclass 10>Hasha>
+02/05/2013 18:42:40>Hasha [268441553]>setlevel 10>Hasha>
+02/05/2013 18:42:49>Hasha [268441553]>remove_all_skills>Hasha>
+02/05/2013 18:42:53>Hasha [268441553]>setlevel 11>Hasha>
+02/05/2013 18:43:05>Hasha [268441553]>setlevel 22>Hasha>
+02/05/2013 18:48:21>Hasha [268441553]>hide>NPC lvl 25>
+02/05/2013 18:48:25>Hasha [268441553]>hide>no-target>
+02/05/2013 19:34:28>Hasha [268441553]>admin>NPC lvl 25>
+02/05/2013 19:34:29>Hasha [268441553]>admin_show_characters 0>NPC lvl 25>
+02/05/2013 19:49:31>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:52:34>Hasha [268441553]>reload htm>no-target>
+02/05/2013 19:53:46>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:54:24>Hasha [268441553]>reload htm>no-target>
+02/05/2013 19:55:05>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:55:37>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:56:41>Hasha [268441553]>reload htm>no-target>
+02/05/2013 19:57:12>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:57:31>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:58:19>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:58:29>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:58:43>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 19:58:51>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 20:02:40>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 20:02:49>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 20:03:09>Hasha [268441553]>reload htm>Stargate>
+02/05/2013 20:23:13>Hasha [268441553]>reload htm>Stargate>
+04/05/2013 17:05:06>Hasha [268441553]>setlevel 10>Hasha>
+04/05/2013 17:05:11>Hasha [268441553]>remove_all_skills>Hasha>
+04/05/2013 17:05:21>Hasha [268441553]>setlevel 11>Hasha>
+04/05/2013 17:05:47>Hasha [268441553]>admin>Tantan>
+04/05/2013 17:05:50>Hasha [268441553]>admin_create_item 8869>Tantan>
+04/05/2013 17:07:47>Hasha [268441553]>admin>Tantan>
+04/05/2013 17:07:51>Hasha [268441553]>admin_create_item>Tantan>
+04/05/2013 17:07:55>Hasha [268441553]>admin_create_item 8869 100>Tantan>
+04/05/2013 17:09:43>Hasha [268441553]>reload skills>Tantan>
+04/05/2013 18:19:54>Hasha [268441553]>recall>Tantan>
+04/05/2013 18:20:02>Hasha [268441553]>spawn Tantan>Hasha>
+04/05/2013 18:20:07>Hasha [268441553]>delete>Tantan>
+04/05/2013 18:20:31>Hasha [268441553]>recall_npc>Tantan>
+04/05/2013 23:25:25>Hasha [268441553]>setlevel 20>Hasha>
+04/05/2013 23:27:25>Hasha [268441553]>admin>Hasha>
+04/05/2013 23:27:27>Hasha [268441553]>admin_gmshop>Hasha>
+04/05/2013 23:27:29>Hasha [268441553]>admin_help gmshop/Weapons.htm>Hasha>
+04/05/2013 23:27:30>Hasha [268441553]>admin_help gmshop/sgradew.htm>Hasha>
+04/05/2013 23:27:37>Hasha [268441553]>admin_buy 9052>Hasha>
+04/05/2013 23:30:45>Hasha [268441553]>reload skills>Hasha>
+04/05/2013 23:32:34>Hasha [268441553]>reload skills>Amalka>
+04/05/2013 23:36:50>Hasha [268441553]>delete>Clint Eastwood>
+15/05/2013 19:19:41>Hasha [268441553]>heal>Hasha>
+15/05/2013 19:20:20>Hasha [268441553]>admin>no-target>
+15/05/2013 19:20:28>Hasha [268441553]>admin_show_characters 0>no-target>
+15/05/2013 19:20:29>Hasha [268441553]>admin_character_info Hasha>no-target>
+15/05/2013 19:20:30>Hasha [268441553]>admin_setclass>Hasha>
+15/05/2013 19:20:34>Hasha [268441553]>admin_setclass 90>Hasha>
+15/05/2013 19:20:37>Hasha [268441553]>heal>Hasha>
+15/05/2013 19:20:45>Hasha [268441553]>setlevel 81>Hasha>
+15/05/2013 20:58:58>Hasha [268441553]>admin>Stargate>
+15/05/2013 20:59:00>Hasha [268441553]>admin_show_characters 0>Stargate>
+15/05/2013 21:55:53>Hasha [268441553]>admin>no-target>
+15/05/2013 21:55:55>Hasha [268441553]>admin_show_characters 0>no-target>
+15/05/2013 21:56:03>Hasha [268441553]>admin_admin>no-target>
+15/05/2013 21:56:04>Hasha [268441553]>admin_show_characters 0>no-target>
+15/05/2013 21:56:05>Hasha [268441553]>admin_character_info DreamLand>no-target>
+15/05/2013 21:56:07>Hasha [268441553]>admin_goto DreamLand>DreamLand>
+15/05/2013 21:57:23>Hasha [268441553]>hide>no-target>
+15/05/2013 21:58:06>Hasha [268441553]>admin>DreamLand>
+15/05/2013 21:58:08>Hasha [268441553]>admin_show_characters 0>DreamLand>
+15/05/2013 21:58:09>Hasha [268441553]>admin_character_info DreamLand>DreamLand>
+15/05/2013 21:58:35>Hasha [268441553]>admin>DreamLand>
+15/05/2013 21:58:36>Hasha [268441553]>admin_show_characters 0>DreamLand>
+15/05/2013 21:58:37>Hasha [268441553]>admin_character_info DreamLand>DreamLand>
+15/05/2013 21:58:41>Hasha [268441553]>admin_getbuffs DreamLand>DreamLand>
+15/05/2013 21:58:41>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 21:58:43>Hasha [268441553]>admin_stopbuff 268442139 9990>DreamLand>
+15/05/2013 21:58:43>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 21:58:43>Hasha [268441553]>stopbuff>DreamLand (268442139)>9990
+15/05/2013 21:58:44>Hasha [268441553]>admin_stopallbuffs 268442139>DreamLand>
+15/05/2013 21:58:44>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 21:58:44>Hasha [268441553]>stopallbuffs>DreamLand (268442139)>
+15/05/2013 21:59:30>Hasha [268441553]>admin_stopallbuffs 268442139>DreamLand>
+15/05/2013 21:59:30>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 21:59:30>Hasha [268441553]>stopallbuffs>DreamLand (268442139)>
+15/05/2013 22:00:06>Hasha [268441553]>admin_stopallbuffs 268442139>DreamLand>
+15/05/2013 22:00:06>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 22:00:06>Hasha [268441553]>stopallbuffs>DreamLand (268442139)>
+15/05/2013 22:02:23>Hasha [268441553]>admin>DreamLand>
+15/05/2013 22:02:33>Hasha [268441553]>admin_show_characters 0>DreamLand>
+15/05/2013 22:02:34>Hasha [268441553]>admin_character_info DreamLand>DreamLand>
+15/05/2013 22:02:39>Hasha [268441553]>admin_getbuffs DreamLand>DreamLand>
+15/05/2013 22:02:39>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 22:02:40>Hasha [268441553]>admin_stopallbuffs 268442139>DreamLand>
+15/05/2013 22:02:40>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 22:02:40>Hasha [268441553]>stopallbuffs>DreamLand (268442139)>
+15/05/2013 22:03:21>Hasha [268441553]>admin_stopallbuffs 268442139>DreamLand>
+15/05/2013 22:03:21>Hasha [268441553]>getbuffs>DreamLand (268442139)>
+15/05/2013 22:03:21>Hasha [268441553]>stopallbuffs>DreamLand (268442139)>
+15/05/2013 22:08:54>Hasha [268441553]>setlevel 7>DreamLand>
+15/05/2013 22:09:57>Hasha [268441553]>gmspeed 4>DreamLand>
+15/05/2013 22:10:59>Hasha [268441553]>admin>no-target>
+15/05/2013 22:11:00>Hasha [268441553]>admin_show_characters 0>no-target>
+15/05/2013 22:11:01>Hasha [268441553]>admin_character_info DreamLand>no-target>
+15/05/2013 22:11:05>Hasha [268441553]>admin_goto DreamLand>DreamLand>
+15/05/2013 22:11:25>Hasha [268441553]>spawn 40100>Fox>
+15/05/2013 22:11:38>Hasha [268441553]>recall_npc>Fox>
+15/05/2013 22:11:48>Hasha [268441553]>spawn 40100>Hasha>
+15/05/2013 22:11:56>Hasha [268441553]>spawn 40100>Hasha>
+15/05/2013 22:12:03>Hasha [268441553]>spawn 40101>Hasha>
+15/05/2013 22:12:10>Hasha [268441553]>spawn 40101>Hasha>
+15/05/2013 22:12:20>Hasha [268441553]>spawn 40101>Hasha>
+15/05/2013 22:15:34>Hasha [268441553]>setlevel 25>DreamLand>
+15/05/2013 22:16:08>Hasha [268441553]>recall dreamland>no-target>
+15/05/2013 22:17:33>Hasha [268441553]>goto dreamland>no-target>
+15/05/2013 22:17:36>Hasha [268441553]>admin>no-target>
+15/05/2013 22:17:38>Hasha [268441553]>admin_show_characters 0>no-target>
+15/05/2013 22:17:39>Hasha [268441553]>admin_character_info DreamLand>no-target>
+15/05/2013 22:17:40>Hasha [268441553]>admin_setclass>DreamLand>
+15/05/2013 22:17:41>Hasha [268441553]>admin_setclass 10>DreamLand>
+15/05/2013 22:18:00>Hasha [268441553]>recall_npc>Hollint>
+15/05/2013 22:18:11>Hasha [268441553]>recall>Melian>
+15/05/2013 22:18:23>Hasha [268441553]>recall melian>Melian>
+15/05/2013 22:18:28>Hasha [268441553]>hide>no-target>
+15/05/2013 22:18:38>Hasha [268441553]>recall spirit>Spirit>
+15/05/2013 22:21:37>Hasha [268441553]>setlevel 55>DreamLand>
+15/05/2013 22:28:48>Hasha [268441553]>admin>DreamLand>
+15/05/2013 22:28:52>Hasha [268441553]>admin_create_item>DreamLand>
+15/05/2013 22:28:57>Hasha [268441553]>admin_create_coin Adena 123545>DreamLand>
+15/05/2013 22:29:37>Hasha [268441553]>recall dreamland>no-target>
+15/05/2013 22:29:56>Hasha [268441553]>admin>no-target>
+15/05/2013 22:29:58>Hasha [268441553]>admin_create_item>no-target>
+15/05/2013 22:30:06>Hasha [268441553]>admin_create_coin Adena 3567889>no-target>
+15/05/2013 22:30:15>Hasha [268441553]>admin>DreamLand>
+15/05/2013 22:30:16>Hasha [268441553]>admin_show_characters 0>DreamLand>
+15/05/2013 22:30:19>Hasha [268441553]>admin_admin>DreamLand>
+15/05/2013 22:30:20>Hasha [268441553]>admin_create_item>DreamLand>
+15/05/2013 22:30:25>Hasha [268441553]>admin_create_coin Adena 12335452>DreamLand>
+15/05/2013 22:31:23>Hasha [268441553]>admin>DreamLand>
+15/05/2013 22:31:24>Hasha [268441553]>admin_enchant>DreamLand>
+15/05/2013 22:31:27>Hasha [268441553]>admin_setew 6>DreamLand>
+15/05/2013 22:31:33>Hasha [268441553]>admin_setew 5>DreamLand>
+15/05/2013 22:31:36>Hasha [268441553]>admin_setew 0>DreamLand>
+15/05/2013 22:37:44>Hasha [268441553]>recall dreamland>no-target>
+15/05/2013 22:39:01>Hasha [268441553]>admin>no-target>
+15/05/2013 22:39:03>Hasha [268441553]>admin_show_characters 0>no-target>
+15/05/2013 22:39:06>Hasha [268441553]>admin_character_info DreamLand>no-target>
+15/05/2013 22:39:07>Hasha [268441553]>admin_add_exp_sp_to_character>DreamLand>
+15/05/2013 22:39:14>Hasha [268441553]>admin_add_exp_sp 123454 0>no-target>
+15/05/2013 22:39:25>Hasha [268441553]>goto dreamland>no-target>
+15/05/2013 22:39:40>Hasha [268441553]>hide>no-target>
+15/05/2013 22:39:50>Hasha [268441553]>admin>DreamLand>
+15/05/2013 22:39:52>Hasha [268441553]>admin_enchant>DreamLand>
+15/05/2013 22:39:55>Hasha [268441553]>admin_setec 65000>DreamLand>
+15/05/2013 22:40:28>Hasha [268441553]>admin_setew 0>DreamLand>
+15/05/2013 22:57:47>Hasha [268441553]>goto dreamland>no-target>
+31/05/2013 18:14:48>Hasha [268441553]>invul>Hasha>
+31/05/2013 18:14:58>Hasha [268441553]>gmspeed 4>Hasha>
+31/05/2013 19:36:12>Hasha [268441553]>gmspeed 4>NPC lvl 1>
+31/05/2013 20:22:48>Hasha [268441553]>admin>no-target>
+31/05/2013 20:22:49>Hasha [268441553]>admin_create_item>no-target>
+31/05/2013 20:22:52>Hasha [268441553]>admin_admin>no-target>
+31/05/2013 20:22:53>Hasha [268441553]>admin_gmshop>no-target>
+31/05/2013 20:22:54>Hasha [268441553]>admin_buy 3001>no-target>
+01/06/2013 17:21:47>Hasha [268441553]>server_restart 15>no-target>
+01/06/2013 20:28:47>Hasha [268441553]>admin_show_skilllist 43004>NPC lvl 15>
+01/06/2013 20:29:04>Hasha [268441553]>hide>NPC lvl 15>
+01/06/2013 20:29:10>Hasha [268441553]>admin>no-target>
+01/06/2013 20:29:13>Hasha [268441553]>admin_admin4>no-target>
+01/06/2013 20:29:18>Hasha [268441553]>admin_admin2>no-target>
+01/06/2013 20:29:20>Hasha [268441553]>admin_admin2>no-target>
+01/06/2013 20:29:25>Hasha [268441553]>admin_admin>no-target>
+01/06/2013 20:29:26>Hasha [268441553]>admin_show_characters 0>no-target>
+01/06/2013 20:29:27>Hasha [268441553]>admin_character_info Hasha>no-target>
+01/06/2013 20:29:28>Hasha [268441553]>admin_setclass>Hasha>
+01/06/2013 20:29:29>Hasha [268441553]>admin_setclass 0>Hasha>
+01/06/2013 20:29:39>Hasha [268441553]>setlevel 10>Hasha>
+01/06/2013 20:29:52>Hasha [268441553]>admin>Hasha>
+01/06/2013 20:29:54>Hasha [268441553]>admin_create_item>Hasha>
+01/06/2013 20:30:01>Hasha [268441553]>admin_create_item 8870 2>Hasha>
+01/06/2013 20:30:20>Hasha [268441553]>admin>Hasha>
+01/06/2013 20:30:24>Hasha [268441553]>admin_create_item 8869>Hasha>
+01/06/2013 20:30:35>Hasha [268441553]>admin_create_item 8870 2>Tantan>
+01/06/2013 20:30:59>Hasha [268441553]>admin_show_skilllist 43002>NPC lvl 5>
+01/06/2013 20:36:33>Hasha [268441553]>hide>NPC lvl 5>
+01/06/2013 20:37:43>Hasha [268441553]>remove_all_skills>Hasha>
+01/06/2013 20:37:51>Hasha [268441553]>setlevel>Hasha>
+01/06/2013 20:38:01>Hasha [268441553]>heal>Hasha>
+01/06/2013 20:38:16>Hasha [268441553]>hide>NPC lvl 5>
+01/06/2013 20:38:18>Hasha [268441553]>hide>NPC lvl 5>
+01/06/2013 20:43:59>Hasha [268441553]>hide>NPC lvl 5>
+01/06/2013 20:45:07>Hasha [268441553]>admin>Manny>
+01/06/2013 20:45:09>Hasha [268441553]>admin_show_characters 0>Manny>
+01/06/2013 20:45:10>Hasha [268441553]>admin_character_info Manny>Manny>
+01/06/2013 20:47:28>Hasha [268441553]>setlevel 15>Hasha>
+01/06/2013 20:47:32>Hasha [268441553]>admin_show_skilllist 43004>NPC lvl 15>
+01/06/2013 20:47:43>Hasha [268441553]>hide>NPC lvl 15>
+01/06/2013 20:49:34>Hasha [268441553]>setlevel 25>Hasha>
+01/06/2013 20:50:13>Hasha [268441553]>hide>Hasha>
+01/06/2013 20:52:17>Hasha [268441553]>setlevel 35>Hasha>
+01/06/2013 20:52:39>Hasha [268441553]>hide>Hasha>
+01/06/2013 20:53:44>Hasha [268441553]>setlevel 45>Hasha>
+01/06/2013 20:55:20>Hasha [268441553]>setlevel 55>Hasha>
+01/06/2013 20:56:53>Hasha [268441553]>setlevel 65>Hasha>
+01/06/2013 20:57:08>Hasha [268441553]>admin>Hasha>
+01/06/2013 20:57:17>Hasha [268441553]>admin_gmshop>Hasha>
+01/06/2013 20:57:18>Hasha [268441553]>admin_help gmshop/Jewels.htm>Hasha>
+01/06/2013 20:57:19>Hasha [268441553]>admin_buy 9126>Hasha>
+01/06/2013 20:58:00>Hasha [268441553]>setlevel 75>Hasha>
+01/06/2013 20:58:40>Hasha [268441553]>setlevel 80>Hasha>
+01/06/2013 20:59:06>Hasha [268441553]>admin>Hasha>
+01/06/2013 20:59:09>Hasha [268441553]>admin_gmshop>Hasha>
+01/06/2013 20:59:15>Hasha [268441553]>admin_help gmshop/Jewels.htm>Hasha>
+01/06/2013 20:59:16>Hasha [268441553]>admin_buy 9127>Hasha>
+01/06/2013 21:00:37>Hasha [268441553]>setlevel 75>Hasha>
+01/06/2013 21:01:00>Hasha [268441553]>setlevel 65>Hasha>
+01/06/2013 21:01:45>Hasha [268441553]>setlevel 55>Hasha>
+01/06/2013 21:26:17>Hasha [268441553]>invul>Manny>
+01/06/2013 21:26:21>Hasha [268441553]>invul>Manny>
+01/06/2013 21:26:24>Hasha [268441553]>gmspeed 4>Manny>
+01/06/2013 21:30:37>Hasha [268441553]>settitle sdf>Hasha>
+01/06/2013 21:31:30>Hasha [268441553]>settitle [|||||||---------]>Hasha>
+01/06/2013 21:31:54>Hasha [268441553]>settitle [56%]>Hasha>
+04/06/2013 17:13:48>Hasha [268441553]>admin>no-target>
+04/06/2013 17:13:52>Hasha [268441553]>admin_show_characters 0>no-target>
+05/06/2013 16:10:34>Hasha [268441553]>server_shutdown>no-target>
+05/06/2013 16:10:38>Hasha [268441553]>admin_server_shutdown 5>no-target>
+05/06/2013 16:30:41>Hasha [268441553]>server_shutdown>Hasha>
+05/06/2013 16:30:50>Hasha [268441553]>admin_server_shutdown 15>Hasha>
+05/06/2013 16:30:53>Hasha [268441553]>admin>Hasha>
+05/06/2013 16:30:56>Hasha [268441553]>admin_admin4>Hasha>
+05/06/2013 18:06:24>Hasha [268441553]>reload config>no-target>
+05/06/2013 18:11:50>Hasha [268441553]>admin>no-target>
+05/06/2013 18:11:51>Hasha [268441553]>admin_enchant>no-target>
+05/06/2013 18:11:53>Hasha [268441553]>admin_admin>no-target>
+05/06/2013 18:11:53>Hasha [268441553]>admin_move_to>no-target>
+05/06/2013 18:11:54>Hasha [268441553]>admin_help tele/towns_castles.htm>no-target>
+05/06/2013 18:11:55>Hasha [268441553]>admin_move_to 82698 148638 -3473>no-target>
+05/06/2013 18:12:34>Hasha [268441553]>gmspeed 2>no-target>
+05/06/2013 18:14:04>Hasha [268441553]>geo_pos>no-target>
+05/06/2013 18:15:29>Hasha [268441553]>gmspeed 0>no-target>
+05/06/2013 18:17:22>Hasha [268441553]>reload config>no-target>
+05/06/2013 19:29:31>Hasha [268441553]>goto exhumator>no-target>
+05/06/2013 19:29:34>Hasha [268441553]>goto manny>no-target>
+05/06/2013 19:30:04>Hasha [268441553]>invul>Manny>
+05/06/2013 19:33:13>Hasha [268441553]>invul>Manny>
+05/06/2013 19:38:04>Hasha [268441553]>kill>Manny>
+05/06/2013 19:38:31>Hasha [268441553]>kill>Manny>
+05/06/2013 19:38:38>Hasha [268441553]>invul>no-target>
+05/06/2013 19:40:36>Hasha [268441553]>kill>Manny>
+05/06/2013 19:40:46>Hasha [268441553]>kill>Manny>
+05/06/2013 19:40:54>Hasha [268441553]>kill>Manny>
+05/06/2013 19:41:02>Hasha [268441553]>kill>Manny>
+05/06/2013 19:41:13>Hasha [268441553]>invul>no-target>
+09/06/2013 18:04:34>Hasha [268441553]>goto manny>no-target>
+09/06/2013 18:04:47>Hasha [268441553]>setlevel 80>Hasha>
+09/06/2013 18:06:14>Hasha [268441553]>admin>Necromancer of Destruction>
+09/06/2013 18:06:15>Hasha [268441553]>admin_show_characters 0>Necromancer of Destruction>
+09/06/2013 18:06:22>Hasha [268441553]>admin_admin>Necromancer of Destruction>
+09/06/2013 18:06:23>Hasha [268441553]>admin_gmshop>Necromancer of Destruction>
+09/06/2013 18:06:24>Hasha [268441553]>admin_help gmshop/Weapons.htm>Necromancer of Destruction>
+09/06/2013 18:06:25>Hasha [268441553]>admin_help gmshop/sgradew.htm>Necromancer of Destruction>
+09/06/2013 18:06:27>Hasha [268441553]>admin_buy 9049>Necromancer of Destruction>
+09/06/2013 18:09:36>Hasha [268441553]>admin_getbuffs>Life Keeper>
+09/06/2013 18:09:36>Hasha [268441553]>getbuffs>Life Keeper (268442979)>
+09/06/2013 18:12:53>Hasha [268441553]>gmspeed 4>no-target>
+09/06/2013 18:15:44>Hasha [268441553]>gmspeed 2>no-target>
+10/06/2013 20:34:24>Hasha [268441553]>gmspeed 2>no-target>
+10/06/2013 20:35:55>Hasha [268441553]>invul>Dark Corpse>
+10/06/2013 20:35:57>Hasha [268441553]>hide>Dark Corpse>
+10/06/2013 20:36:00>Hasha [268441553]>hide>no-target>
+10/06/2013 20:36:20>Hasha [268441553]>gmspeed 2>Zombie Warrior>
+10/06/2013 21:05:16>Hasha [268441553]>gmspeed 2>no-target>
+10/06/2013 21:39:29>Hasha [268441553]>goto manny>no-target>
+10/06/2013 21:53:37>Hasha [268441553]>goto manny>no-target>
+10/06/2013 22:05:04>Hasha [268441553]>delete>Hot Springs Yeti>
+10/06/2013 22:05:20>Hasha [268441553]>spawn 40570>no-target>
+10/06/2013 22:10:38>Hasha [268441553]>spawn 41470>Hasha>
+10/06/2013 22:11:01>Hasha [268441553]>recall_npc>Tepra Scarab>
+10/06/2013 22:11:08>Hasha [268441553]>recall_npc>Tepra Scarab>
+10/06/2013 22:18:23>Hasha [268441553]>reload npc>Ragna Orc Mage>
+10/06/2013 22:18:26>Hasha [268441553]>spawn 41070>Ragna Orc Mage>
+10/06/2013 22:18:35>Hasha [268441553]>recall_npc>Crystal>
+11/06/2013 19:43:19>Hasha [268441553]>server_shutdown 5>no-target>
+11/06/2013 19:48:21>Hasha [268441553]>server_shutdown 5>no-target>
+11/06/2013 19:53:15>Hasha [268441553]>setlevel 70>Hasha>
+11/06/2013 19:59:02>Hasha [268441553]>spawn 30095>Stargate>
+11/06/2013 19:59:11>Hasha [268441553]>recall_npc>Randolf>
+11/06/2013 20:05:09>Hasha [268441553]>server_shutdown 5>Hollint>
+11/06/2013 20:20:49>Hasha [268441553]>invul>Hasha>
+11/06/2013 20:21:00>Hasha [268441553]>setlevel 70>Hasha>
+11/06/2013 20:21:35>Hasha [268441553]>hide>NPC lvl 80>
+11/06/2013 20:21:37>Hasha [268441553]>hide>no-target>
+12/06/2013 18:23:55>Hasha [268441553]>gmspeed 2>Ivan>
+12/06/2013 18:25:45>Hasha [268441553]>setlevel 76>Hasha>
+12/06/2013 18:26:26>Hasha [268441553]>kill>Crystal>
+12/06/2013 18:53:10>Hasha [268441553]>settitle MASTER>Hasha>
+12/06/2013 18:54:19>Hasha [268441553]>admin>Hasha>
+12/06/2013 18:54:22>Hasha [268441553]>admin_admin3>Hasha>
+12/06/2013 18:54:23>Hasha [268441553]>admin_admin2>Hasha>
+12/06/2013 18:54:26>Hasha [268441553]>admin_pledge setlevel 2>Hasha>
+12/06/2013 18:54:32>Hasha [268441553]>admin_pledge setlevel 3>Hasha>
+12/06/2013 18:56:04>Hasha [268441553]>admin>Grand Olympiad Manager>
+12/06/2013 18:56:07>Hasha [268441553]>admin_move_to>Grand Olympiad Manager>
+12/06/2013 18:56:09>Hasha [268441553]>admin_help tele/other.htm>Grand Olympiad Manager>
+12/06/2013 18:56:11>Hasha [268441553]>admin_help tele/others/arenas.htm>Grand Olympiad Manager>
+12/06/2013 18:56:13>Hasha [268441553]>admin_move_to 147451 46728 -3410>Grand Olympiad Manager>
+12/06/2013 18:57:20>Hasha [268441553]>goto manny>no-target>
+12/06/2013 18:57:35>Hasha [268441553]>admin>no-target>
+12/06/2013 18:57:36>Hasha [268441553]>admin_move_to>no-target>
+12/06/2013 18:57:37>Hasha [268441553]>admin_help tele/other.htm>no-target>
+12/06/2013 18:57:40>Hasha [268441553]>admin_help tele/others/arenas.htm>no-target>
+12/06/2013 18:57:42>Hasha [268441553]>admin_move_to 147451 46728 -3410>no-target>
+12/06/2013 18:58:32>Hasha [268441553]>spawn taurin>Hasha>
+12/06/2013 19:08:50>Hasha [268441553]>delete>Taurin>
+12/06/2013 19:08:55>Hasha [268441553]>spawn taurin>no-target>
+12/06/2013 19:11:22>Hasha [268441553]>delete>Taurin>
+12/06/2013 19:11:31>Hasha [268441553]>spawn taurin>Hasha>
+12/06/2013 19:34:14>Hasha [268441553]>delete>Taurin>
+12/06/2013 19:34:22>Hasha [268441553]>spawn taurin>no-target>
+12/06/2013 19:46:54>Hasha [268441553]>admin>Hasha>
+12/06/2013 19:46:56>Hasha [268441553]>admin_admin3>Hasha>
+12/06/2013 19:46:58>Hasha [268441553]>admin_polymorph_menu>Hasha>
+12/06/2013 19:47:03>Hasha [268441553]>admin_polymorph_menu Fox>Hasha>
+12/06/2013 19:47:19>Hasha [268441553]>admin>Taurin>
+12/06/2013 19:47:21>Hasha [268441553]>admin_admin3>Taurin>
+12/06/2013 19:47:24>Hasha [268441553]>admin_polymorph_menu Manny>Taurin>
+12/06/2013 19:47:29>Hasha [268441553]>admin_polymorph_menu Manny>Hasha>
+12/06/2013 19:47:32>Hasha [268441553]>admin_polymorph_menu fox>Hasha>
+12/06/2013 19:47:36>Hasha [268441553]>admin_polymorph_menu Fox>Hasha>
+12/06/2013 19:47:39>Hasha [268441553]>admin_polymorph_menu 50004>Hasha>
+12/06/2013 19:48:17>Hasha [268441553]>admin_unpolymorph_menu>no-target>
+12/06/2013 19:48:34>Hasha [268441553]>admin_polymorph_menu 50004>Manny>
+12/06/2013 19:49:18>Hasha [268441553]>admin_unpolymorph_menu>Manny>
+12/06/2013 19:49:32>Hasha [268441553]>admin_polymorph_menu 50004>no-target>
+12/06/2013 19:49:38>Hasha [268441553]>admin_polymorph_menu 50004>Manny>
+12/06/2013 19:49:42>Hasha [268441553]>admin_unpolymorph_menu>Manny>
+12/06/2013 19:49:44>Hasha [268441553]>admin_unpolymorph_menu>Hasha>
+12/06/2013 21:28:37>Hasha [268441553]>delete>Taurin>
+12/06/2013 21:28:40>Hasha [268441553]>goto manny>no-target>
+12/06/2013 21:31:33>Hasha [268441553]>reload thm>Stargate>
+12/06/2013 21:31:43>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:32:29>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:34:29>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:34:35>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:34:59>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:35:39>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:36:52>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:37:03>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:37:04>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:37:17>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:37:20>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:37:35>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:38:31>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:38:33>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:38:45>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:40:01>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:41:44>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:41:50>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:42:20>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:42:30>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:42:48>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:42:58>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:43:17>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:43:38>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:43:43>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:43:59>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:44:03>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:46:19>Hasha [268441553]>goto manny>no-target>
+12/06/2013 21:47:40>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:48:55>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:49:31>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:50:16>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:51:07>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:51:31>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:51:59>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:52:17>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:52:30>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:53:35>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:54:25>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:54:29>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:55:24>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:55:48>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:56:12>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 21:56:32>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 22:00:23>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 22:02:07>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 22:02:48>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 22:03:27>Hasha [268441553]>reload htm>Stargate>
+12/06/2013 22:03:36>Hasha [268441553]>reload htm>Stargate>
+13/06/2013 17:19:54>Hasha [268441553]>admin>no-target>
+13/06/2013 17:19:55>Hasha [268441553]>admin_move_to>no-target>
+13/06/2013 17:19:58>Hasha [268441553]>admin_help tele/other.htm>no-target>
+13/06/2013 17:20:19>Hasha [268441553]>goto manny>no-target>
+13/06/2013 17:20:33>Hasha [268441553]>goto manny>no-target>
+13/06/2013 17:21:00>Hasha [268441553]>zone_check>no-target>
+13/06/2013 17:21:03>Hasha [268441553]>admin_zone_visual_clear>no-target>
+13/06/2013 17:21:05>Hasha [268441553]>admin_zone_visual all>no-target>
+13/06/2013 17:21:21>Hasha [268441553]>admin_zone_visual_clear>no-target>
+13/06/2013 17:21:22>Hasha [268441553]>admin_zone_visual_clear>no-target>
+13/06/2013 17:21:22>Hasha [268441553]>admin_zone_visual all>no-target>
+13/06/2013 17:21:40>Hasha [268441553]>admin_zone_visual_clear>no-target>
+13/06/2013 17:22:07>Hasha [268441553]>gmspeed 2>Manny>
+13/06/2013 17:22:32>Hasha [268441553]>admin_zone_check>Manny>
+13/06/2013 17:23:44>Hasha [268441553]>admin_zone_check>no-target>
+13/06/2013 17:23:53>Hasha [268441553]>admin_zone_check>no-target>
+13/06/2013 17:26:06>Hasha [268441553]>server_shutdown 5>no-target>
+13/06/2013 17:33:16>Hasha [268441553]>admin>no-target>
+13/06/2013 17:33:17>Hasha [268441553]>admin_move_to>no-target>
+13/06/2013 17:33:18>Hasha [268441553]>admin_help tele/other.htm>no-target>
+13/06/2013 17:33:32>Hasha [268441553]>admin_help teleports.htm>no-target>
+13/06/2013 17:33:33>Hasha [268441553]>admin_help tele/towns_castles.htm>no-target>
+13/06/2013 17:33:34>Hasha [268441553]>admin_move_to 87358 -141982 -1341>no-target>
+13/06/2013 17:35:27>Hasha [268441553]>reload htm>Stargate>
+13/06/2013 17:36:38>Hasha [268441553]>server_restart 5>Stargate>
+15/06/2013 13:21:04>Hasha [268441553]>admin>Cliff>
+15/06/2013 13:21:07>Hasha [268441553]>admin_gmshop>Cliff>
+15/06/2013 13:21:09>Hasha [268441553]>admin_help gmshop/Armors.htm>Cliff>
+15/06/2013 13:21:10>Hasha [268441553]>admin_help gmshop/nogradea.htm>Cliff>
+15/06/2013 13:21:12>Hasha [268441553]>admin_buy 9105>Cliff>
+15/06/2013 13:21:43>Hasha [268441553]>admin>Cliff>
+15/06/2013 13:21:44>Hasha [268441553]>admin_show_characters 0>Cliff>
+15/06/2013 13:21:52>Hasha [268441553]>admin>Cliff>
+15/06/2013 13:21:55>Hasha [268441553]>admin_gmshop>Cliff>
+15/06/2013 13:21:56>Hasha [268441553]>admin_help gmshop/Armors.htm>Cliff>
+15/06/2013 13:21:57>Hasha [268441553]>admin_help gmshop/dgradea.htm>Cliff>
+15/06/2013 13:21:59>Hasha [268441553]>admin_buy 9096>Cliff>
+15/06/2013 13:22:23>Hasha [268441553]>admin>Cliff>
+15/06/2013 13:22:25>Hasha [268441553]>admin_gmshop>Cliff>
+15/06/2013 13:22:29>Hasha [268441553]>admin_help gmshop/Armors.htm>Cliff>
+15/06/2013 13:22:30>Hasha [268441553]>admin_help gmshop/cgradea.htm>Cliff>
+15/06/2013 13:22:32>Hasha [268441553]>admin_buy 9087>Cliff>
+15/06/2013 13:23:33>Hasha [268441553]>admin>Manny>
+15/06/2013 13:23:35>Hasha [268441553]>admin_gmshop>Manny>
+15/06/2013 13:23:36>Hasha [268441553]>admin_help gmshop/Armors.htm>Manny>
+15/06/2013 13:23:37>Hasha [268441553]>admin_help gmshop/nogradea.htm>Manny>
+15/06/2013 13:23:39>Hasha [268441553]>admin_buy 9103>Manny>
+15/06/2013 13:25:15>Hasha [268441553]>admin>Manny>
+15/06/2013 13:25:17>Hasha [268441553]>admin_gmshop>Manny>
+15/06/2013 13:26:20>Hasha [268441553]>admin_buy 1006>Manny>
+15/06/2013 13:26:33>Hasha [268441553]>admin>Manny>
+15/06/2013 13:26:58>Hasha [268441553]>admin_gmshop>Manny>
+15/06/2013 13:27:15>Hasha [268441553]>admin_help gmshop/materials.htm>Manny>
+15/06/2013 13:27:19>Hasha [268441553]>admin_buy 30050>Manny>
+15/06/2013 13:28:02>Hasha [268441553]>admin>Manny>
+15/06/2013 13:28:07>Hasha [268441553]>admin_create_item STeel>Manny>
+15/06/2013 13:29:09>Hasha [268441553]>admin_create_item 1880>Manny>
+15/06/2013 13:29:15>Hasha [268441553]>admin_create_item 1880>Hasha>
+20/06/2013 18:18:23>Hasha [268441553]>admin>Cliff>
+20/06/2013 18:18:25>Hasha [268441553]>admin_gmshop>Cliff>
+20/06/2013 18:18:33>Hasha [268441553]>admin_buy 3002>Cliff>
+20/06/2013 18:20:49>Hasha [268441553]>admin>no-target>
+20/06/2013 18:20:51>Hasha [268441553]>admin_gmshop>no-target>
+20/06/2013 18:20:52>Hasha [268441553]>admin_buy 3002>no-target>
+20/06/2013 18:21:11>Hasha [268441553]>admin>no-target>
+20/06/2013 18:21:13>Hasha [268441553]>admin_gmshop>no-target>
+20/06/2013 18:21:14>Hasha [268441553]>admin_buy 3002>no-target>
+20/06/2013 18:22:22>Hasha [268441553]>admin>no-target>
+20/06/2013 18:22:24>Hasha [268441553]>admin_gmshop>no-target>
+20/06/2013 18:22:26>Hasha [268441553]>admin_buy 3002>no-target>
+20/06/2013 18:27:27>Hasha [268441553]>admin>Hasha>
+20/06/2013 18:27:35>Hasha [268441553]>admin>Hasha>
+20/06/2013 18:27:37>Hasha [268441553]>admin_show_characters 0>Hasha>
+20/06/2013 18:27:38>Hasha [268441553]>admin_character_info Hasha>Hasha>
+20/06/2013 18:27:38>Hasha [268441553]>admin_setclass>Hasha>
+20/06/2013 18:27:44>Hasha [268441553]>admin_setclass 112>Hasha>
+20/06/2013 18:28:01>Hasha [268441553]>setlevel 80>Hasha>
+20/06/2013 18:28:05>Hasha [268441553]>setlevel 81>Hasha>
+20/06/2013 18:29:06>Hasha [268441553]>admin>no-target>
+20/06/2013 18:29:20>Hasha [268441553]>setlevel  81>EE>
+20/06/2013 18:29:25>Hasha [268441553]>setlevel 81>PP>
+20/06/2013 18:29:38>Hasha [268441553]>admin_gmshop>PP>
+20/06/2013 18:29:40>Hasha [268441553]>admin_help gmshop/sets.htm>PP>
+20/06/2013 18:29:42>Hasha [268441553]>admin_buy 9119>PP>
+20/06/2013 18:30:51>Hasha [268441553]>setlevel 81>WC>
+20/06/2013 18:33:10>Hasha [268441553]>reload htm>Tantan>
+20/06/2013 18:33:34>Hasha [268441553]>remove_all_skills>Hasha>
+20/06/2013 18:33:34>Hasha [268441553]>give_all_skills>Hasha>
+20/06/2013 18:33:57>Hasha [268441553]>setlevel 81>Bishop>
+20/06/2013 18:56:02>Hasha [268441553]>server_restart 5>EE>
+20/06/2013 19:00:18>Hasha [268441553]>remove_all_skills>Hasha>
+20/06/2013 19:00:18>Hasha [268441553]>give_all_skills>Hasha>
+20/06/2013 19:00:23>Hasha [268441553]>remove_all_skills>PP>
+20/06/2013 19:00:23>Hasha [268441553]>give_all_skills>PP>
+20/06/2013 19:00:27>Hasha [268441553]>remove_all_skills>EE>
+20/06/2013 19:00:28>Hasha [268441553]>give_all_skills>EE>
+20/06/2013 19:00:35>Hasha [268441553]>remove_all_skills>Bishop>
+20/06/2013 19:00:36>Hasha [268441553]>give_all_skills>Bishop>
+20/06/2013 19:00:38>Hasha [268441553]>remove_all_skills>WC>
+20/06/2013 19:00:38>Hasha [268441553]>give_all_skills>WC>
+20/06/2013 19:27:09>Hasha [268441553]>server_restart 3>Bishop>
+20/06/2013 19:28:59>Hasha [268441553]>remove_all_skills>Hasha>
+20/06/2013 19:29:00>Hasha [268441553]>give_all_skills>Hasha>
+20/06/2013 19:31:46>Hasha [268441553]>admin>Hasha>
+20/06/2013 19:32:04>Hasha [268441553]>admin>Hasha>
+20/06/2013 19:32:05>Hasha [268441553]>admin_show_characters 0>Hasha>
+20/06/2013 19:32:06>Hasha [268441553]>admin_character_info Hasha>Hasha>
+20/06/2013 19:32:07>Hasha [268441553]>admin_setclass>Hasha>
+20/06/2013 19:32:09>Hasha [268441553]>admin_setclass 97>Hasha>
+20/06/2013 19:32:11>Hasha [268441553]>remove_all_skills>Hasha>
+20/06/2013 19:32:12>Hasha [268441553]>give_all_skills>Hasha>
+20/06/2013 19:33:52>Hasha [268441553]>admin>Hasha>
+20/06/2013 19:33:53>Hasha [268441553]>admin_show_characters 0>Hasha>
+20/06/2013 19:33:54>Hasha [268441553]>admin_character_info Hasha>Hasha>
+20/06/2013 19:33:55>Hasha [268441553]>admin_setclass>Hasha>
+20/06/2013 19:33:57>Hasha [268441553]>admin_setclass 98>Hasha>
+20/06/2013 19:33:59>Hasha [268441553]>remove_all_skills>Hasha>
+20/06/2013 19:33:59>Hasha [268441553]>give_all_skills>Hasha>
+20/06/2013 19:35:26>Hasha [268441553]>admin>Hasha>
+20/06/2013 19:35:27>Hasha [268441553]>admin>Hasha>
+20/06/2013 19:35:29>Hasha [268441553]>admin_show_characters 0>Hasha>
+20/06/2013 19:35:30>Hasha [268441553]>admin_character_info Hasha>Hasha>
+20/06/2013 19:35:31>Hasha [268441553]>admin_setclass>Hasha>
+20/06/2013 19:35:33>Hasha [268441553]>admin_setclass 105>Hasha>
+20/06/2013 19:35:38>Hasha [268441553]>remove_all_skills>Hasha>
+20/06/2013 19:35:38>Hasha [268441553]>give_all_skills>Hasha>
+01/07/2013 15:51:55>Hasha [268441553]>admin>no-target>
+01/07/2013 15:51:57>Hasha [268441553]>admin_show_characters 0>no-target>
+01/07/2013 20:39:36>Hasha [268441553]>admin>Hasha>
+01/07/2013 20:39:37>Hasha [268441553]>admin_show_characters 0>Hasha>
+01/07/2013 20:39:38>Hasha [268441553]>admin_character_info Hasha>Hasha>
+01/07/2013 20:39:39>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 20:39:40>Hasha [268441553]>admin_setclass 97>Hasha>
+01/07/2013 20:40:39>Hasha [268441553]>invul>Hasha>
+01/07/2013 20:40:46>Hasha [268441553]>invul>Hasha>
+01/07/2013 20:43:02>Hasha [268441553]>reload skills>Hasha>
+01/07/2013 20:44:58>Hasha [268441553]>reload skills>Hasha>
+01/07/2013 20:47:25>Hasha [268441553]>admin>Hasha>
+01/07/2013 20:47:32>Hasha [268441553]>remove_all_skills>Hasha>
+01/07/2013 20:47:33>Hasha [268441553]>give_all_skills>Hasha>
+01/07/2013 20:47:37>Hasha [268441553]>admin>Hasha>
+01/07/2013 20:47:39>Hasha [268441553]>admin_show_characters 0>Hasha>
+01/07/2013 20:47:40>Hasha [268441553]>admin_character_info Hasha>Hasha>
+01/07/2013 20:47:41>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 20:47:44>Hasha [268441553]>admin_setclass 105>Hasha>
+01/07/2013 20:47:46>Hasha [268441553]>remove_all_skills>Hasha>
+01/07/2013 20:47:46>Hasha [268441553]>give_all_skills>Hasha>
+01/07/2013 20:49:04>Hasha [268441553]>admin>Hasha>
+01/07/2013 20:49:05>Hasha [268441553]>admin_show_characters 0>Hasha>
+01/07/2013 20:49:08>Hasha [268441553]>admin_character_info Hasha>Hasha>
+01/07/2013 20:49:10>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 20:49:12>Hasha [268441553]>admin_setclass 112>Hasha>
+01/07/2013 20:49:14>Hasha [268441553]>remove_all_skills>Hasha>
+01/07/2013 20:49:14>Hasha [268441553]>give_all_skills>Hasha>
+01/07/2013 20:49:50>Hasha [268441553]>remove_all_skills>Manny>
+01/07/2013 20:49:50>Hasha [268441553]>give_all_skills>Manny>
+01/07/2013 20:49:56>Hasha [268441553]>remove_all_skills>Spirit>
+01/07/2013 20:49:56>Hasha [268441553]>give_all_skills>Spirit>
+01/07/2013 20:50:14>Hasha [268441553]>admin>Hasha>
+01/07/2013 20:50:15>Hasha [268441553]>admin_show_characters 0>Hasha>
+01/07/2013 20:50:20>Hasha [268441553]>admin_character_info Hasha>Hasha>
+01/07/2013 20:50:21>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 20:50:48>Hasha [268441553]>admin_setclass 105>Hasha>
+01/07/2013 20:57:23>Hasha [268441553]>remove_all_skills>Hasha>
+01/07/2013 20:57:24>Hasha [268441553]>give_all_skills>Hasha>
+01/07/2013 21:02:39>Hasha [268441553]>admin>Manny>
+01/07/2013 21:02:41>Hasha [268441553]>admin_show_characters 0>Manny>
+01/07/2013 21:02:43>Hasha [268441553]>admin_character_info Hasha>Manny>
+01/07/2013 21:02:45>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 21:03:00>Hasha [268441553]>admin_setclass 97>Hasha>
+01/07/2013 22:36:20>Hasha [268441553]>admin>Hasha>
+01/07/2013 22:36:22>Hasha [268441553]>admin_show_characters 0>Hasha>
+01/07/2013 22:36:23>Hasha [268441553]>admin_character_info Hasha>Hasha>
+01/07/2013 22:36:24>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 22:36:28>Hasha [268441553]>admin_setclass 105>Hasha>
+01/07/2013 22:36:30>Hasha [268441553]>remove_all_skills>Hasha>
+01/07/2013 22:36:31>Hasha [268441553]>give_all_skills>Hasha>
+01/07/2013 22:37:23>Hasha [268441553]>gmspeed 3>Manny>
+01/07/2013 22:39:07>Hasha [268441553]>server_restart 3>Hasha>
+01/07/2013 22:49:10>Hasha [268441553]>remove_all_skills>Manny>
+01/07/2013 22:49:10>Hasha [268441553]>give_all_skills>Manny>
+01/07/2013 22:49:23>Hasha [268441553]>admin>Manny>
+01/07/2013 22:49:24>Hasha [268441553]>admin_show_characters 0>Manny>
+01/07/2013 22:49:33>Hasha [268441553]>admin_character_info Hasha>Manny>
+01/07/2013 22:49:33>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 22:49:37>Hasha [268441553]>admin_setclass 98>Hasha>
+01/07/2013 22:49:41>Hasha [268441553]>remove_all_skills>Hasha>
+01/07/2013 22:49:41>Hasha [268441553]>give_all_skills>Hasha>
+01/07/2013 22:51:51>Hasha [268441553]>admin>Manny>
+01/07/2013 22:51:54>Hasha [268441553]>admin_find_character>Manny>
+01/07/2013 22:51:55>Hasha [268441553]>admin_character_info Hasha>Manny>
+01/07/2013 22:51:56>Hasha [268441553]>admin_setclass>Hasha>
+01/07/2013 22:52:05>Hasha [268441553]>admin_setclass 112>Hasha>
+03/07/2013 17:10:00>Hasha [268441553]>spawn 50011>Hasha>
+03/07/2013 17:11:12>Hasha [268441553]>reload htm>no-target>
+03/07/2013 17:11:20>Hasha [268441553]>reload htm>Maxmilian>
+03/07/2013 17:12:30>Hasha [268441553]>reload htm>Maxmilian>
+03/07/2013 17:13:22>Hasha [268441553]>reload htm>Maxmilian>
+03/07/2013 17:14:11>Hasha [268441553]>reload htm>Maxmilian>
+03/07/2013 17:15:26>Hasha [268441553]>reload htm>Maxmilian>
+03/07/2013 17:20:46>Hasha [268441553]>reload htm>Maxmilian>
+03/07/2013 17:25:06>Hasha [268441553]>instant_move>Cliff>
+03/07/2013 17:28:17>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:29:58>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:31:16>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:32:10>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:33:11>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:33:44>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:33:55>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:38:27>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:39:44>Hasha [268441553]>reload htm>Taurin>
+03/07/2013 17:41:02>Hasha [268441553]>reload htm>Taurin>
+07/07/2013 10:09:07>Hasha [268441553]>admin>Hasha>
+07/07/2013 10:09:09>Hasha [268441553]>admin_show_characters 0>Hasha>
+07/07/2013 10:09:10>Hasha [268441553]>admin_character_info Hasha>Hasha>
+07/07/2013 10:09:12>Hasha [268441553]>admin_add_exp_sp_to_character>Hasha>
+07/07/2013 10:09:17>Hasha [268441553]>admin_add_exp_sp 0 100000000>Hasha>
+07/07/2013 10:09:20>Hasha [268441553]>admin_current_player>Hasha>
+07/07/2013 10:09:22>Hasha [268441553]>admin_admin>Hasha>
+07/07/2013 10:09:23>Hasha [268441553]>admin_create_item>Hasha>
+07/07/2013 10:09:25>Hasha [268441553]>admin_create_item 6622>Hasha>
+07/07/2013 10:09:27>Hasha [268441553]>admin_create_item 6622>Hasha>
+07/07/2013 10:09:28>Hasha [268441553]>admin_create_item 6622>Hasha>
+07/07/2013 10:29:11>Hasha [268441553]>recall_npc>Maxmilian>
+07/07/2013 10:29:20>Hasha [268441553]>recall_npc>Hollint>
+07/07/2013 10:29:33>Hasha [268441553]>recall_npc>Hollint>
+07/07/2013 10:29:57>Hasha [268441553]>recall_npc>Hollint>
+07/07/2013 10:30:21>Hasha [268441553]>recall_npc>Maxmilian>
+07/07/2013 10:30:46>Hasha [268441553]>recall_npc>Tantan>
+07/07/2013 10:31:28>Hasha [268441553]>recall_npc>Chuck>
+07/07/2013 10:32:51>Hasha [268441553]>recall_npc>Cliff>
+07/07/2013 10:33:02>Hasha [268441553]>recall_npc>Tamil>
+07/07/2013 10:33:19>Hasha [268441553]>recall_npc>Glottis>
+07/07/2013 10:33:48>Hasha [268441553]>recall_npc>Stargate>
+07/07/2013 10:34:18>Hasha [268441553]>recall_npc>Stargate>
+07/07/2013 10:34:36>Hasha [268441553]>recall_npc>Stargate>
+07/07/2013 11:43:42>Hasha [268441553]>server_shutdown 5>no-target>
+07/07/2013 12:06:09>Hasha [268441553]>server_shutdown 5>Glottis>
+07/07/2013 12:20:17>Hasha [268441553]>server_restart 5>no-target>
+09/07/2013 19:43:45>Hasha [268441553]>admin>Hasha>
+09/07/2013 19:43:49>Hasha [268441553]>admin_create_item 8935>Hasha>
+09/07/2013 20:16:28>Hasha [268441553]>server_restart 5>Hasha>
+09/07/2013 20:18:48>Hasha [268441553]>admin>Hasha>
+09/07/2013 20:18:54>Hasha [268441553]>admin_create_item 9600>Hasha>
+09/07/2013 20:21:02>Hasha [268441553]>admin>no-target>
+09/07/2013 20:21:05>Hasha [268441553]>admin_create_item 9601>no-target>
+09/07/2013 20:21:08>Hasha [268441553]>admin_create_item 9602>no-target>
+09/07/2013 20:21:11>Hasha [268441553]>admin_create_item 9603>no-target>
+09/07/2013 20:24:55>Hasha [268441553]>reload htm>Amalka>
+09/07/2013 20:25:07>Hasha [268441553]>reload htnm>Amalka>
+09/07/2013 20:25:10>Hasha [268441553]>reload htm>Amalka>
+09/07/2013 20:25:43>Hasha [268441553]>reload htm>Amalka>
+09/07/2013 20:45:08>Hasha [268441553]>admin>no-target>
+09/07/2013 20:45:13>Hasha [268441553]>admin_enchant>no-target>
+09/07/2013 20:45:17>Hasha [268441553]>admin_setew 10>no-target>
+09/07/2013 20:45:45>Hasha [268441553]>admin_admin>no-target>
+09/07/2013 20:45:48>Hasha [268441553]>admin_gmshop>no-target>
+09/07/2013 20:45:49>Hasha [268441553]>admin_help gmshop/sets.htm>no-target>
+09/07/2013 20:45:51>Hasha [268441553]>admin_buy 9116>no-target>
+09/07/2013 20:46:02>Hasha [268441553]>admin>no-target>
+09/07/2013 20:46:04>Hasha [268441553]>admin_enchant>no-target>
+09/07/2013 20:46:06>Hasha [268441553]>admin_setew 0>no-target>
+09/07/2013 20:46:34>Hasha [268441553]>admin>no-target>
+09/07/2013 20:46:39>Hasha [268441553]>admin_gmshop>no-target>
+09/07/2013 20:46:40>Hasha [268441553]>admin_help gmshop/sets.htm>no-target>
+09/07/2013 20:46:41>Hasha [268441553]>admin_buy 9115>no-target>
+09/07/2013 20:53:58>Hasha [268441553]>admin>no-target>
+09/07/2013 20:54:00>Hasha [268441553]>admin_gmshop>no-target>
+09/07/2013 20:54:01>Hasha [268441553]>admin_help gmshop/Weapons.htm>no-target>
+09/07/2013 20:54:02>Hasha [268441553]>admin_help gmshop/agradew.htm>no-target>
+09/07/2013 20:54:06>Hasha [268441553]>admin_buy 9036>no-target>
+09/07/2013 20:54:43>Hasha [268441553]>admin>Hasha>
+09/07/2013 20:54:45>Hasha [268441553]>admin_enchant>Hasha>
+09/07/2013 20:54:47>Hasha [268441553]>admin_setew 10>Hasha>
+09/07/2013 20:54:58>Hasha [268441553]>admin_setew 10>Hasha>
+09/07/2013 20:57:53>Hasha [268441553]>admin>no-target>
+09/07/2013 20:57:55>Hasha [268441553]>admin_enchant>no-target>
+09/07/2013 20:57:57>Hasha [268441553]>admin_setew 10>no-target>
+09/07/2013 20:58:09>Hasha [268441553]>admin_setew 10>no-target>
+09/07/2013 21:00:40>Hasha [268441553]>admin>Taurin>
+09/07/2013 21:00:42>Hasha [268441553]>admin_enchant>Taurin>
+09/07/2013 21:00:44>Hasha [268441553]>admin_seten 10>Taurin>
+09/07/2013 21:00:44>Hasha [268441553]>admin_setle 10>Taurin>
+09/07/2013 21:00:45>Hasha [268441553]>admin_setlf 10>Taurin>
+09/07/2013 21:00:46>Hasha [268441553]>admin_setre 10>Taurin>
+09/07/2013 21:00:47>Hasha [268441553]>admin_setrf 10>Taurin>
+09/07/2013 21:00:53>Hasha [268441553]>admin>Taurin>
+09/07/2013 21:00:54>Hasha [268441553]>admin_enchant>Taurin>
+09/07/2013 21:00:58>Hasha [268441553]>admin_seten 10>Hasha>
+09/07/2013 21:00:58>Hasha [268441553]>admin_setle 10>Hasha>
+09/07/2013 21:00:59>Hasha [268441553]>admin_setre 10>Hasha>
+09/07/2013 21:01:00>Hasha [268441553]>admin_setrf 10>Hasha>
+09/07/2013 21:01:00>Hasha [268441553]>admin_setlf 10>Hasha>
+09/07/2013 21:02:19>Hasha [268441553]>reload quest 904>Taurin>
+09/07/2013 21:30:26>Hasha [268441553]>reload htm>Taurin>
+09/07/2013 21:30:30>Hasha [268441553]>reload quest 903>Taurin>
+09/07/2013 21:32:20>Hasha [268441553]>reload quest 903>Taurin>
+09/07/2013 21:35:41>Hasha [268441553]>reload quest 903>Taurin>
+09/07/2013 21:36:20>Hasha [268441553]>reload quest 903>Taurin>
+09/07/2013 21:37:55>Hasha [268441553]>reload quest 903>no-target>
+09/07/2013 21:43:28>Hasha [268441553]>reload quest 903>Taurin>
+09/07/2013 21:44:18>Hasha [268441553]>reload quest 903>Taurin>
+09/07/2013 21:44:58>Hasha [268441553]>admin>Hasha>
+09/07/2013 21:45:04>Hasha [268441553]>admin_enchant>Hasha>
+09/07/2013 21:45:35>Hasha [268441553]>admin_setew 10>Hasha>
+09/07/2013 21:45:39>Hasha [268441553]>admin_setew 11>Hasha>
+09/07/2013 21:45:47>Hasha [268441553]>reload quest 903>Taurin>
+10/07/2013 7:15:39>Hasha [268441553]>reload quest 903>Taurin>
+10/07/2013 7:15:43>Hasha [268441553]>reload quest 904>Taurin>
+10/07/2013 7:16:21>Hasha [268441553]>reload htm>Taurin>
+10/07/2013 7:17:45>Hasha [268441553]>reload quest 904>Taurin>
+10/07/2013 7:19:15>Hasha [268441553]>reload quest 903>no-target>
+10/07/2013 7:19:19>Hasha [268441553]>reload quest 904>no-target>
+10/07/2013 7:20:18>Hasha [268441553]>admin>Taurin>
+10/07/2013 7:20:20>Hasha [268441553]>admin_gmshop>Taurin>
+10/07/2013 7:20:22>Hasha [268441553]>admin_help gmshop/Weapons.htm>Taurin>
+10/07/2013 7:20:23>Hasha [268441553]>admin_help gmshop/agradew.htm>Taurin>
+10/07/2013 7:20:24>Hasha [268441553]>admin_buy 9040>Taurin>
+10/07/2013 7:20:35>Hasha [268441553]>admin>Taurin>
+10/07/2013 7:20:37>Hasha [268441553]>admin_enchant>Hasha>
+10/07/2013 7:20:39>Hasha [268441553]>admin_setew 10>Hasha>
+10/07/2013 7:20:44>Hasha [268441553]>admin_setew 11>Hasha>
+10/07/2013 7:23:38>Hasha [268441553]>admin>Taurin>
+10/07/2013 7:23:41>Hasha [268441553]>admin_gmshop>Taurin>
+10/07/2013 7:23:47>Hasha [268441553]>admin_help gmshop/sets.htm>Taurin>
+10/07/2013 7:23:48>Hasha [268441553]>admin_buy 9115>Taurin>
+10/07/2013 7:23:52>Hasha [268441553]>admin>Taurin>
+10/07/2013 7:23:53>Hasha [268441553]>admin_gmchat_menu>Taurin>
+10/07/2013 7:23:56>Hasha [268441553]>admin_gmshop>Taurin>
+10/07/2013 7:23:57>Hasha [268441553]>admin_help gmshop/sets.htm>Taurin>
+10/07/2013 7:23:58>Hasha [268441553]>admin_buy 9116>Taurin>
+10/07/2013 7:24:11>Hasha [268441553]>admin>Taurin>
+10/07/2013 7:24:12>Hasha [268441553]>admin_gmshop>Taurin>
+10/07/2013 7:24:13>Hasha [268441553]>admin_help gmshop/sets.htm>Taurin>
+10/07/2013 7:24:15>Hasha [268441553]>admin_buy 9113>Taurin>
+10/07/2013 7:24:46>Hasha [268441553]>admin>Taurin>
+10/07/2013 7:24:48>Hasha [268441553]>admin_enchant>Taurin>
+10/07/2013 7:24:50>Hasha [268441553]>admin_seteh 6>Taurin>
+10/07/2013 7:24:50>Hasha [268441553]>admin_setec 6>Taurin>
+10/07/2013 7:24:51>Hasha [268441553]>admin_setel 6>Taurin>
+10/07/2013 7:24:52>Hasha [268441553]>admin_seteg 6>Taurin>
+10/07/2013 7:24:53>Hasha [268441553]>admin_seteb 6>Taurin>
+10/07/2013 7:24:55>Hasha [268441553]>admin_seteh 6>Hasha>
+10/07/2013 7:24:56>Hasha [268441553]>admin_setec 6>Hasha>
+10/07/2013 7:24:56>Hasha [268441553]>admin_setel 6>Hasha>
+10/07/2013 7:24:58>Hasha [268441553]>admin_seteg 6>Hasha>
+10/07/2013 7:24:59>Hasha [268441553]>admin_seteb 6>Hasha>
+10/07/2013 7:25:09>Hasha [268441553]>admin>Hasha>
+10/07/2013 7:25:12>Hasha [268441553]>admin_gmshop>Hasha>
+10/07/2013 7:25:13>Hasha [268441553]>admin_help gmshop/sets.htm>Hasha>
+10/07/2013 7:25:18>Hasha [268441553]>admin_buy 9114>Hasha>
+10/07/2013 7:25:30>Hasha [268441553]>admin>Hasha>
+10/07/2013 7:25:31>Hasha [268441553]>admin_enchant>Hasha>
+10/07/2013 7:25:33>Hasha [268441553]>admin_seteh 6>Hasha>
+10/07/2013 7:25:34>Hasha [268441553]>admin_setec 6>Hasha>
+10/07/2013 7:25:35>Hasha [268441553]>admin_seteg 6>Hasha>
+10/07/2013 7:25:36>Hasha [268441553]>admin_seteb 6>Hasha>
+13/07/2013 10:00:26>Hasha [268441553]>admin>Stargate>
+13/07/2013 10:00:27>Hasha [268441553]>admin_show_characters 0>Stargate>
+13/07/2013 10:00:34>Hasha [268441553]>server_shutdown 5>Stargate>
+13/07/2013 10:05:03>Hasha [268441553]>server_restart 5>no-target>
+13/07/2013 10:06:51>Hasha [268441553]>admin>no-target>
+13/07/2013 10:06:53>Hasha [268441553]>admin_gmshop>no-target>
+13/07/2013 10:06:58>Hasha [268441553]>admin_help gmshop/Armors.htm>no-target>
+13/07/2013 10:07:01>Hasha [268441553]>admin_help gmshop/nogradea.htm>no-target>
+13/07/2013 10:07:02>Hasha [268441553]>admin_buy 9099>no-target>
+13/07/2013 10:10:43>Hasha [268441553]>gmshop>Taurin>
+13/07/2013 10:10:45>Hasha [268441553]>admin_help gmshop/Armors.htm>Taurin>
+13/07/2013 10:10:46>Hasha [268441553]>admin_help gmshop/nogradea.htm>Taurin>
+13/07/2013 10:10:47>Hasha [268441553]>admin_buy 9099>Taurin>
+13/07/2013 10:11:21>Hasha [268441553]>gmshop>Taurin>
+13/07/2013 10:11:22>Hasha [268441553]>admin_help gmshop/Armors.htm>Taurin>
+13/07/2013 10:11:23>Hasha [268441553]>admin_help gmshop/dgradea.htm>Taurin>
+13/07/2013 10:11:24>Hasha [268441553]>admin_buy 9090>Taurin>
+13/07/2013 10:26:06>Hasha [268441553]>gmspeed 2>Taurin>
+13/07/2013 10:28:32>Hasha [268441553]>reload htm>Chuck>
+13/07/2013 10:28:38>Hasha [268441553]>reload htm>Chuck>
+13/07/2013 10:30:13>Hasha [268441553]>reload htm>Chuck>
+13/07/2013 10:31:02>Hasha [268441553]>reload htm>Chuck>
+13/07/2013 10:32:18>Hasha [268441553]>reload htm>Chuck>
+13/07/2013 10:34:40>Hasha [268441553]>reload htm>Tantan>
+13/07/2013 10:35:08>Hasha [268441553]>reload>Tantan>
+13/07/2013 10:35:13>Hasha [268441553]>reload htm>Tantan>
+13/07/2013 10:37:14>Hasha [268441553]>reload htm>Tantan>
+13/07/2013 10:37:43>Hasha [268441553]>reload htm>Maxmilian>
+13/07/2013 10:39:32>Hasha [268441553]>setlevel 80>Hasha>
+13/07/2013 10:39:49>Hasha [268441553]>gmspeed 2>Maxmilian>
+13/07/2013 10:42:01>Hasha [268441553]>reload htm>Taurin>
+13/07/2013 10:42:20>Hasha [268441553]>reload htm>Taurin>
+13/07/2013 10:47:50>Hasha [268441553]>reload htm>Glottis>
+13/07/2013 10:48:07>Hasha [268441553]>reload htm>Glottis>
+13/07/2013 10:50:57>Hasha [268441553]>reload htm>no-target>
+13/07/2013 10:51:57>Hasha [268441553]>reload htm>Taurin>
+13/07/2013 10:57:01>Hasha [268441553]>reload quest 904>Taurin>
+13/07/2013 10:57:51>Hasha [268441553]>reload quest 904>Taurin>
+13/07/2013 10:58:58>Hasha [268441553]>reload quest 904>Taurin>
+13/07/2013 10:59:16>Hasha [268441553]>reload quest 904>Taurin>
+13/07/2013 11:01:10>Hasha [268441553]>reload htm>Taurin>
+13/07/2013 11:01:13>Hasha [268441553]>reload quest 904>Taurin>
+13/07/2013 11:01:23>Hasha [268441553]>server_restart 5>Taurin>
+13/07/2013 11:04:52>Hasha [268441553]>reload quest 904>Taurin>
+13/07/2013 11:09:53>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:10:05>Hasha [268441553]>server_restart 5>Cliff>
+13/07/2013 11:15:14>Hasha [268441553]>reload htm>Tamil>
+13/07/2013 11:18:01>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:18:33>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:19:19>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:19:56>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:23:45>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:24:55>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:25:41>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:26:52>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:28:17>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:29:36>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:29:48>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:30:03>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:30:18>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:30:24>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:31:49>Hasha [268441553]>reload htm>Cliff>
+13/07/2013 11:34:37>Hasha [268441553]>reload htm>Maxmilian>
+13/07/2013 11:34:53>Hasha [268441553]>reload htm>Maxmilian>
+13/07/2013 11:38:28>Hasha [268441553]>reload htm>Maxmilian>
+13/07/2013 11:46:10>Hasha [268441553]>setlevel 80>Hasha>
+13/07/2013 11:48:17>Hasha [268441553]>gmspeed 2>Tantan>
+13/07/2013 11:48:22>Hasha [268441553]>setlevel 81>Hasha>
+13/07/2013 11:55:14>Hasha [268441553]>bk>Grand Olympiad Manager>
+13/07/2013 11:55:25>Hasha [268441553]>admin>Grand Olympiad Manager>
+13/07/2013 11:55:26>Hasha [268441553]>admin_move_to>Grand Olympiad Manager>
+13/07/2013 11:56:03>Hasha [268441553]>admin_move_to -124265 -253533 -15542>Grand Olympiad Manager>
+13/07/2013 11:56:30>Hasha [268441553]>hide>no-target>
+13/07/2013 11:56:38>Hasha [268441553]>bk KUCHYN>no-target>
+13/07/2013 11:58:20>Hasha [268441553]>spawn 50001>Hasha>
+13/07/2013 11:58:27>Hasha [268441553]>delete>Amalka>
+13/07/2013 11:58:32>Hasha [268441553]>spawn 50002>no-target>
+13/07/2013 11:58:44>Hasha [268441553]>delete>Taurin>
+13/07/2013 11:59:12>Hasha [268441553]>admin>no-target>
+13/07/2013 11:59:13>Hasha [268441553]>admin_show_characters 0>no-target>
+13/07/2013 11:59:16>Hasha [268441553]>admin_admin>no-target>
+13/07/2013 11:59:16>Hasha [268441553]>admin_gmshop>no-target>
+13/07/2013 11:59:18>Hasha [268441553]>admin_help gmshop/Weapons.htm>no-target>
+13/07/2013 11:59:19>Hasha [268441553]>admin_help gmshop/nogradew.htm>no-target>
+13/07/2013 11:59:22>Hasha [268441553]>admin_buy 9007>no-target>
+13/07/2013 12:02:38>Hasha [268441553]>admin>Hasha>
+13/07/2013 12:02:40>Hasha [268441553]>admin_admin3>Hasha>
+13/07/2013 12:02:42>Hasha [268441553]>admin_unpara_menu>Hasha>
+13/07/2013 12:02:46>Hasha [268441553]>admin_unpara_menu>Hasha>
+13/07/2013 12:02:56>Hasha [268441553]>kill>Hasha>
+13/07/2013 12:03:02>Hasha [268441553]>invul>Hasha>
+13/07/2013 12:03:04>Hasha [268441553]>kill>Hasha>
+13/07/2013 12:03:26>Hasha [268441553]>gmspeed 3>Hasha>
+13/07/2013 12:05:25>Hasha [268441553]>admin_list_spawns 30437>no-target>
+13/07/2013 12:05:26>Hasha [268441553]>admin_move_to -120378 -245522 -15542>no-target>
+13/07/2013 12:06:00>Hasha [268441553]>bk BL>Rolento>
+13/07/2013 12:10:25>Hasha [268441553]>admin_show_scripts 25501>Boss Akata>
+13/07/2013 12:11:04>Hasha [268441553]>reload npc>no-target>
+13/07/2013 12:11:12>Hasha [268441553]>spawn 30437>Rolento>
+13/07/2013 12:11:23>Hasha [268441553]>admin_list_spawns 30437>Rolento>
+13/07/2013 12:11:23>Hasha [268441553]>admin_move_to -120378 -245522 -15542>Rolento>
+13/07/2013 12:11:29>Hasha [268441553]>recall>Rolento>
+13/07/2013 12:11:33>Hasha [268441553]>recall_npc>Rolento>
+13/07/2013 12:12:23>Hasha [268441553]>delete>Rolento>
+13/07/2013 12:17:27>Hasha [268441553]>spawn 5003>no-target>
+13/07/2013 12:17:30>Hasha [268441553]>spawn 50003>no-target>
+13/07/2013 12:17:34>Hasha [268441553]>delete>Glottis>
+13/07/2013 12:17:38>Hasha [268441553]>spawn 50004>no-target>
+13/07/2013 12:17:42>Hasha [268441553]>spawn 50005>no-target>
+13/07/2013 12:17:46>Hasha [268441553]>spawn 50004>no-target>
+13/07/2013 12:17:51>Hasha [268441553]>spawn 50006>no-target>
+13/07/2013 12:17:56>Hasha [268441553]>spawn 50007>no-target>
+13/07/2013 12:18:03>Hasha [268441553]>spawn 50008>no-target>
+13/07/2013 12:28:10>Hasha [268441553]>spawn 50008>Hasha>
+13/07/2013 12:28:15>Hasha [268441553]>delete>Pamela>
+13/07/2013 12:30:10>Hasha [268441553]>delete>Tamil>
+13/07/2013 12:30:12>Hasha [268441553]>delete>Pamela>
+13/07/2013 12:30:15>Hasha [268441553]>delete>Hollint>
+13/07/2013 12:30:18>Hasha [268441553]>delete>Hollint>
+13/07/2013 12:31:17>Hasha [268441553]>spawn 30129>Hasha>
+13/07/2013 12:31:24>Hasha [268441553]>spawn 30113>Hasha>
+13/07/2013 12:31:42>Hasha [268441553]>spawn 30017>Hasha>
+13/07/2013 12:32:00>Hasha [268441553]>recall_npc>Gallint>
+13/07/2013 12:32:11>Hasha [268441553]>spawn 30176>no-target>
+13/07/2013 12:32:22>Hasha [268441553]>spawn 30832>no-target>
+13/07/2013 12:32:52>Hasha [268441553]>spawn 30155>Hardin>
+13/07/2013 12:32:58>Hasha [268441553]>recall_npc>Hardin>
+13/07/2013 12:33:13>Hasha [268441553]>recall_npc>Ellenia>
+13/07/2013 12:33:27>Hasha [268441553]>spawn 30661>no-target>
+13/07/2013 12:33:59>Hasha [268441553]>spawn 30524>no-target>
+13/07/2013 12:34:06>Hasha [268441553]>spawn 30915>no-target>
+13/07/2013 12:34:31>Hasha [268441553]>recall_npc>Mysterious Dark Elf>
+13/07/2013 12:34:40>Hasha [268441553]>recall_npc>Juris>
+13/07/2013 12:34:53>Hasha [268441553]>recall_npc>Pippi>
+13/07/2013 12:35:00>Hasha [268441553]>recall_npc>Takina>
+13/07/2013 12:35:16>Hasha [268441553]>spawn 30135>Hasha>
+13/07/2013 12:35:34>Hasha [268441553]>spawn 30134>Hasha>
+13/07/2013 12:35:57>Hasha [268441553]>recall_npc>Jasmine>
+13/07/2013 12:36:14>Hasha [268441553]>spawn 30146>no-target>
+13/07/2013 12:36:24>Hasha [268441553]>recall_npc>Mirabel>
+13/07/2013 12:36:35>Hasha [268441553]>spawn 31046>no-target>
+13/07/2013 12:44:52>Hasha [268441553]>recall_npc>Mitraell>
+13/07/2013 12:48:09>Hasha [268441553]>reload npc>Hardin>
+13/07/2013 12:48:19>Hasha [268441553]>spawn 50014>Hardin>
+13/07/2013 12:48:28>Hasha [268441553]>recall_npc>Hardin>
+13/07/2013 12:48:36>Hasha [268441553]>recall_npc>Hardin>
+13/07/2013 12:50:30>Hasha [268441553]>recall_npc>Hardin>
+13/07/2013 12:50:54>Hasha [268441553]>gmspeed 3>no-target>
+13/07/2013 13:07:04>Hasha [268441553]>spawn 50008>Hasha>
+13/07/2013 13:07:58>Hasha [268441553]>recall_npc>Pamela>
+13/07/2013 13:08:54>Hasha [268441553]>admin_list_spawns 50055>Chuck>
+13/07/2013 13:10:08>Hasha [268441553]>delete>Chuck>
+13/07/2013 13:10:11>Hasha [268441553]>delete>Pamela>
+13/07/2013 13:10:15>Hasha [268441553]>reload npc>no-target>
+13/07/2013 13:10:25>Hasha [268441553]>spawn 50008>no-target>
+13/07/2013 13:10:35>Hasha [268441553]>reload htm>Ellenia>
+13/07/2013 13:12:39>Hasha [268441553]>recall_npc>Hardin>
+13/07/2013 13:12:46>Hasha [268441553]>recall_npc>Hardin>
+13/07/2013 13:13:03>Hasha [268441553]>spawn 50010>no-target>
+13/07/2013 13:13:35>Hasha [268441553]>recall_npc>Grand Olympiad Manager>
+13/07/2013 13:14:43>Hasha [268441553]>spawn 30963>no-target>
+13/07/2013 13:14:48>Hasha [268441553]>delete>Statue of Fire>
+13/07/2013 13:15:13>Hasha [268441553]>spawn 31769>no-target>
+13/07/2013 13:15:18>Hasha [268441553]>delete>Monument of Heroes>
+13/07/2013 13:15:21>Hasha [268441553]>spawn 31770>no-target>
+13/07/2013 13:15:23>Hasha [268441553]>delete>Monument of Heroes>
+13/07/2013 13:15:28>Hasha [268441553]>spawn 31771>no-target>
+13/07/2013 13:15:32>Hasha [268441553]>delete>Monument of Heroes>
+13/07/2013 13:15:35>Hasha [268441553]>spawn 31772>no-target>
+13/07/2013 13:15:38>Hasha [268441553]>delete>Monument of Heroes>
+13/07/2013 13:15:42>Hasha [268441553]>spawn 31773>no-target>
+13/07/2013 13:15:45>Hasha [268441553]>delete>Sonin>
+13/07/2013 13:15:56>Hasha [268441553]>spawn 31690>no-target>
+13/07/2013 13:16:32>Hasha [268441553]>recall_npc>Ace Ventura>
+13/07/2013 13:17:26>Hasha [268441553]>spawn 200>Hasha>
+13/07/2013 13:17:29>Hasha [268441553]>spawn 50012>Hasha>
+13/07/2013 13:17:35>Hasha [268441553]>delete>Pinochia>
+13/07/2013 13:17:42>Hasha [268441553]>spawn 50012>no-target>
+13/07/2013 13:17:46>Hasha [268441553]>admin_list_spawns 50012>Pinochia>
+13/07/2013 13:17:57>Hasha [268441553]>delete>Pinochia>
+13/07/2013 13:19:34>Hasha [268441553]>admin_list_spawns 50100>Tantan>
+13/07/2013 13:20:41>Hasha [268441553]>delete>Tantan>
+13/07/2013 13:20:48>Hasha [268441553]>reload npc>no-target>
+13/07/2013 13:20:51>Hasha [268441553]>spawn 50012>no-target>
+13/07/2013 13:22:04>Hasha [268441553]>server_restart 5>Tantan>
+13/07/2013 13:29:23>Hasha [268441553]>gmspeed 3>Stargate>
+13/07/2013 13:31:09>Hasha [268441553]>recall_npc>Takina>
+13/07/2013 13:31:18>Hasha [268441553]>recall_npc>Pippi>
+13/07/2013 13:39:18>Hasha [268441553]>delete>Gallint>
+13/07/2013 13:39:31>Hasha [268441553]>delete>Ellenia>
+13/07/2013 13:39:42>Hasha [268441553]>delete>Hardin>
+13/07/2013 13:40:44>Hasha [268441553]>reload htm>Hardin>
+13/07/2013 13:43:22>Hasha [268441553]>recall_npc>Stargate>
+13/07/2013 13:44:57>Hasha [268441553]>zone_check>Pavel Ruins>
+13/07/2013 13:45:01>Hasha [268441553]>admin_zone_visual all>Pavel Ruins>
+13/07/2013 13:45:10>Hasha [268441553]>admin_zone_visual_clear>Pavel Ruins>
+13/07/2013 13:45:13>Hasha [268441553]>admin_zone_visual all>Pavel Ruins>
+13/07/2013 13:45:26>Hasha [268441553]>admin_zone_visual_clear>Pavel Ruins>
+13/07/2013 13:45:29>Hasha [268441553]>admin_zone_check>Pavel Ruins>
+13/07/2013 13:45:34>Hasha [268441553]>admin_zone_check>no-target>
+13/07/2013 13:45:59>Hasha [268441553]>gmspeed 4>no-target>
+13/07/2013 13:46:07>Hasha [268441553]>admin_show_droplist 41500>Explorer>
+13/07/2013 13:46:12>Hasha [268441553]>admin_show_droplist 41507>Wooden Highway Golem>
+13/07/2013 13:46:15>Hasha [268441553]>admin_show_droplist 41500>Explorer>
+13/07/2013 13:48:40>Hasha [268441553]>recall_npc>Valleria>
+13/07/2013 13:48:46>Hasha [268441553]>recall_npc>no-target>
+13/07/2013 13:48:51>Hasha [268441553]>recall_npc>Iria>
+13/07/2013 13:48:56>Hasha [268441553]>recall_npc>Marsden>
+13/07/2013 14:10:57>Hasha [268441553]>gmspeed 1>Hasha>
+13/07/2013 14:15:06>Hasha [268441553]>gm>Rolento>
+13/07/2013 14:15:52>Hasha [268441553]>admin>no-target>
+13/07/2013 14:15:54>Hasha [268441553]>admin_gmshop>no-target>
+13/07/2013 14:15:55>Hasha [268441553]>admin_help gmshop/sets.htm>no-target>
+13/07/2013 14:15:58>Hasha [268441553]>admin_buy 9117>no-target>
+13/07/2013 14:17:04>Hasha [268441553]>admin>Rolento>
+13/07/2013 14:17:05>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 14:17:07>Hasha [268441553]>admin_help gmshop/Armors.htm>Rolento>
+13/07/2013 14:17:07>Hasha [268441553]>admin_help gmshop/nogradea.htm>Rolento>
+13/07/2013 14:17:08>Hasha [268441553]>admin_buy 9099>Rolento>
+13/07/2013 15:58:20>Hasha [268441553]>admin>Rolento>
+13/07/2013 15:58:21>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 15:58:41>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 15:58:44>Hasha [268441553]>admin_buy 9117>Rolento>
+13/07/2013 15:58:55>Hasha [268441553]>admin>Rolento>
+13/07/2013 15:59:00>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 15:59:01>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 15:59:02>Hasha [268441553]>admin_buy 9116>Rolento>
+13/07/2013 15:59:08>Hasha [268441553]>admin>Rolento>
+13/07/2013 15:59:09>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 15:59:10>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 15:59:11>Hasha [268441553]>admin_buy 9115>Rolento>
+13/07/2013 15:59:33>Hasha [268441553]>admin>Rolento>
+13/07/2013 15:59:34>Hasha [268441553]>admin_enchant>Rolento>
+13/07/2013 15:59:36>Hasha [268441553]>admin_admin>Rolento>
+13/07/2013 15:59:36>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 15:59:37>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 15:59:49>Hasha [268441553]>admin_buy 9116>Rolento>
+13/07/2013 16:06:51>Hasha [268441553]>bktowalker>Rolento>
+13/07/2013 16:11:06>Hasha [268441553]>admin>Rolento>
+13/07/2013 16:11:08>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 16:11:09>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 16:11:10>Hasha [268441553]>admin_buy 9112>Rolento>
+13/07/2013 16:19:44>Hasha [268441553]>bk>Rolento>
+13/07/2013 16:20:04>Hasha [268441553]>bk NPC1>Rolento>
+13/07/2013 16:20:11>Hasha [268441553]>bk NPC2>Rolento>
+13/07/2013 16:20:24>Hasha [268441553]>bktowalker NPC 55555>Rolento>
+13/07/2013 16:28:38>Hasha [268441553]>admin>Rolento>
+13/07/2013 16:28:39>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 16:28:40>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 17:02:14>Hasha [268441553]>gmspeed 1>Rolento>
+13/07/2013 17:39:47>Hasha [268441553]>admin>Rolento>
+13/07/2013 17:39:49>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 17:39:51>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 17:39:52>Hasha [268441553]>admin_buy 9117>Rolento>
+13/07/2013 17:40:01>Hasha [268441553]>admin>Rolento>
+13/07/2013 17:40:02>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 17:40:03>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 17:40:04>Hasha [268441553]>admin_buy 9115>Rolento>
+13/07/2013 17:40:19>Hasha [268441553]>admin>Rolento>
+13/07/2013 17:40:20>Hasha [268441553]>admin_enchant>Rolento>
+13/07/2013 17:40:22>Hasha [268441553]>admin>Rolento>
+13/07/2013 17:40:24>Hasha [268441553]>admin_gmshop>Rolento>
+13/07/2013 17:40:31>Hasha [268441553]>admin_help gmshop/sets.htm>Rolento>
+13/07/2013 17:40:35>Hasha [268441553]>admin_buy 9112>Rolento>
+13/07/2013 17:41:09>Hasha [268441553]>admin>Hasha>
+13/07/2013 17:41:11>Hasha [268441553]>admin_show_characters 0>Hasha>
+13/07/2013 17:41:13>Hasha [268441553]>admin_character_info Hasha>Hasha>
+13/07/2013 17:41:13>Hasha [268441553]>admin_setclass>Hasha>
+13/07/2013 17:41:17>Hasha [268441553]>admin_setclass 90>Hasha>
+13/07/2013 17:41:54>Hasha [268441553]>admin>Hasha>
+13/07/2013 17:41:55>Hasha [268441553]>admin_show_characters 0>Hasha>
+13/07/2013 17:41:57>Hasha [268441553]>admin_character_info Hasha>Hasha>
+13/07/2013 17:41:59>Hasha [268441553]>admin_show_skills>Hasha>
+13/07/2013 17:42:01>Hasha [268441553]>admin_remove_all_skills>Hasha>
+13/07/2013 17:42:06>Hasha [268441553]>give_all_skills>Hasha>
+13/07/2013 17:42:14>Hasha [268441553]>admin>Hasha>
+13/07/2013 17:42:18>Hasha [268441553]>admin_gmshop>Hasha>
+13/07/2013 17:42:19>Hasha [268441553]>admin_help gmshop/sets.htm>Hasha>
+13/07/2013 17:42:24>Hasha [268441553]>admin_buy 9114>Hasha>
+13/07/2013 17:43:00>Hasha [268441553]>admin>Rolento>
+13/07/2013 17:43:01>Hasha [268441553]>admin_show_characters 0>Rolento>
+13/07/2013 17:43:03>Hasha [268441553]>admin_character_info Hasha>Rolento>
+13/07/2013 17:43:04>Hasha [268441553]>admin>Hasha>
+13/07/2013 17:43:05>Hasha [268441553]>admin_gmshop>Hasha>
+13/07/2013 17:43:07>Hasha [268441553]>admin_help gmshop/Weapons.htm>Hasha>
+13/07/2013 17:43:08>Hasha [268441553]>admin_help gmshop/agradew.htm>Hasha>
+13/07/2013 17:43:11>Hasha [268441553]>admin_buy 9036>Hasha>
+13/07/2013 19:00:27>Hasha [268441553]>gmspeed 2>Tamil>
+13/07/2013 19:02:12>Hasha [268441553]>admin>Stargate>
+13/07/2013 19:02:13>Hasha [268441553]>admin_show_characters 0>Stargate>
+13/07/2013 19:02:15>Hasha [268441553]>admin_character_info Melian>Stargate>
+13/07/2013 19:02:16>Hasha [268441553]>admin_show_characters 0>Melian>
+13/07/2013 19:02:18>Hasha [268441553]>admin_character_info Hasha>Melian>
+13/07/2013 19:02:18>Hasha [268441553]>admin_setclass>Hasha>
+13/07/2013 19:02:22>Hasha [268441553]>admin_setclass 95>Hasha>
+13/07/2013 19:02:44>Hasha [268441553]>gmspeed 4>no-target>
+13/07/2013 19:08:55>Hasha [268441553]>reload skills>Stargate>
+13/07/2013 19:09:47>Hasha [268441553]>gmspeed 4>Stargate>
+13/07/2013 19:10:05>Hasha [268441553]>reload skills>Stargate>
+13/07/2013 19:10:28>Hasha [268441553]>gmspeed 4>Stargate>
+13/07/2013 19:10:31>Hasha [268441553]>gmspeed 0>Stargate>
+13/07/2013 19:11:13>Hasha [268441553]>reload skills>Stargate>
+13/07/2013 19:15:38>Hasha [268441553]>admin>Hasha>
+13/07/2013 19:15:40>Hasha [268441553]>admin_gmshop>Hasha>
+13/07/2013 19:15:43>Hasha [268441553]>admin_admin>Hasha>
+13/07/2013 19:15:44>Hasha [268441553]>admin_find_character>Hasha>
+13/07/2013 19:15:45>Hasha [268441553]>admin_character_info Hasha>Hasha>
+13/07/2013 19:15:46>Hasha [268441553]>admin_setclass>Hasha>
+13/07/2013 19:15:47>Hasha [268441553]>admin_setclass 90>Hasha>
+13/07/2013 19:16:00>Hasha [268441553]>remove_all_skills>Hasha>
+13/07/2013 19:16:04>Hasha [268441553]>give_all_skills>Hasha>
+13/07/2013 19:16:46>Hasha [268441553]>admin>Hasha>
+13/07/2013 19:17:37>Hasha [268441553]>admin>Melian>
+13/07/2013 19:17:42>Hasha [268441553]>admin_enchant>Melian>
+13/07/2013 19:17:45>Hasha [268441553]>admin_seteh 6>Melian>
+13/07/2013 19:17:46>Hasha [268441553]>admin_setec 6>Melian>
+13/07/2013 19:17:47>Hasha [268441553]>admin_seteg 6>Melian>
+13/07/2013 19:17:47>Hasha [268441553]>admin_setew 6>Melian>
+13/07/2013 19:17:49>Hasha [268441553]>admin_seteb 6>Melian>
+13/07/2013 19:17:50>Hasha [268441553]>admin_seten 6>Melian>
+13/07/2013 19:17:51>Hasha [268441553]>admin_setre 6>Melian>
+13/07/2013 19:17:51>Hasha [268441553]>admin_setle 6>Melian>
+13/07/2013 19:17:52>Hasha [268441553]>admin_setrf 6>Melian>
+13/07/2013 19:17:53>Hasha [268441553]>admin_setlf 6>Melian>
+13/07/2013 19:18:00>Hasha [268441553]>admin_seteh 6>Hasha>
+13/07/2013 19:18:01>Hasha [268441553]>admin_setec 6>Hasha>
+13/07/2013 19:18:01>Hasha [268441553]>admin_setew 6>Hasha>
+13/07/2013 19:18:02>Hasha [268441553]>admin_seteg 6>Hasha>
+13/07/2013 19:18:03>Hasha [268441553]>admin_seteb 6>Hasha>
+13/07/2013 19:18:04>Hasha [268441553]>admin_setes 6>Hasha>
+13/07/2013 19:18:05>Hasha [268441553]>admin_seten 6>Hasha>
+13/07/2013 19:18:06>Hasha [268441553]>admin_setle 6>Hasha>
+13/07/2013 19:18:07>Hasha [268441553]>admin_setre 6>Hasha>
+13/07/2013 19:18:07>Hasha [268441553]>admin_setrf 6>Hasha>
+13/07/2013 19:18:08>Hasha [268441553]>admin_setlf 6>Hasha>
+13/07/2013 19:19:33>Hasha [268441553]>gmshop>Nubina>
+13/07/2013 19:19:35>Hasha [268441553]>admin_help gmshop/sets.htm>Nubina>
+13/07/2013 19:19:37>Hasha [268441553]>admin_buy 9114>Nubina>
+13/07/2013 19:20:22>Hasha [268441553]>admin>Nubina>
+13/07/2013 19:20:24>Hasha [268441553]>admin_show_characters 0>Nubina>
+13/07/2013 19:20:27>Hasha [268441553]>admin_admin>Nubina>
+13/07/2013 19:20:28>Hasha [268441553]>admin_gmshop>Nubina>
+13/07/2013 19:20:29>Hasha [268441553]>admin_help gmshop/Jewels.htm>Nubina>
+13/07/2013 19:20:31>Hasha [268441553]>admin_buy 9126>Nubina>
+13/07/2013 19:22:36>Hasha [268441553]>admin>Nubina>
+13/07/2013 19:22:38>Hasha [268441553]>admin_create_item>Nubina>
+13/07/2013 19:22:44>Hasha [268441553]>admin_create_item 7906 100>Nubina>
+13/07/2013 19:22:47>Hasha [268441553]>admin_create_item 7907 100>Nubina>
+13/07/2013 19:22:50>Hasha [268441553]>admin_create_item 7908 100>Nubina>
+13/07/2013 19:22:52>Hasha [268441553]>admin_create_item 7909 100>Nubina>
+13/07/2013 19:22:56>Hasha [268441553]>admin_create_item 7910 100>Nubina>
+13/07/2013 19:22:59>Hasha [268441553]>admin_create_item 7911 100>Nubina>
+13/07/2013 19:23:51>Hasha [268441553]>admin_admin>Nubina>
+13/07/2013 19:23:51>Hasha [268441553]>admin_admin2>Nubina>
+13/07/2013 19:24:29>Hasha [268441553]>admin_admin2>Nubina>
+13/07/2013 19:24:30>Hasha [268441553]>admin_admin>Nubina>
+13/07/2013 19:24:31>Hasha [268441553]>admin_gmshop>Nubina>
+13/07/2013 19:24:32>Hasha [268441553]>admin_help gmshop/Weapons.htm>Nubina>
+13/07/2013 19:24:33>Hasha [268441553]>admin_help gmshop/agradew.htm>Nubina>
+13/07/2013 19:24:34>Hasha [268441553]>admin_buy 9040>Nubina>
+13/07/2013 19:25:00>Hasha [268441553]>admin>Nubina>
+13/07/2013 19:25:01>Hasha [268441553]>admin_gmshop>Nubina>
+13/07/2013 19:25:02>Hasha [268441553]>admin_admin>Nubina>
+13/07/2013 19:25:03>Hasha [268441553]>admin_enchant>Nubina>
+13/07/2013 19:25:05>Hasha [268441553]>admin_seteh 6>Nubina>
+13/07/2013 19:25:05>Hasha [268441553]>admin_setec 6>Nubina>
+13/07/2013 19:25:06>Hasha [268441553]>admin_seteg 6>Nubina>
+13/07/2013 19:25:07>Hasha [268441553]>admin_setew 6>Nubina>
+13/07/2013 19:25:08>Hasha [268441553]>admin_seteb 6>Nubina>
+13/07/2013 19:25:09>Hasha [268441553]>admin_setes 6>Nubina>
+13/07/2013 19:25:09>Hasha [268441553]>admin_seten 6>Nubina>
+13/07/2013 19:25:10>Hasha [268441553]>admin_setre 6>Nubina>
+13/07/2013 19:25:11>Hasha [268441553]>admin_setle 6>Nubina>
+13/07/2013 19:25:11>Hasha [268441553]>admin_setrf 6>Nubina>
+13/07/2013 19:25:12>Hasha [268441553]>admin_setlf 6>Nubina>
+13/07/2013 19:25:31>Hasha [268441553]>setlevel 81>Nubina>
+13/07/2013 19:30:52>Hasha [268441553]>admin>Nubina>
+13/07/2013 19:30:55>Hasha [268441553]>admin_gmshop>Nubina>
+13/07/2013 19:30:57>Hasha [268441553]>admin_admin>Nubina>
+13/07/2013 19:30:58>Hasha [268441553]>admin_enchant>Nubina>
+13/07/2013 19:31:00>Hasha [268441553]>admin_seteh 6>Nubina>
+13/07/2013 19:31:01>Hasha [268441553]>admin_setec 6>Nubina>
+13/07/2013 19:31:01>Hasha [268441553]>admin_seteg 6>Nubina>
+13/07/2013 19:31:02>Hasha [268441553]>admin_setew 6>Nubina>
+13/07/2013 19:31:03>Hasha [268441553]>admin_setes 6>Nubina>
+13/07/2013 19:31:04>Hasha [268441553]>admin_seteb 6>Nubina>
+13/07/2013 19:31:05>Hasha [268441553]>admin_seten 6>Nubina>
+13/07/2013 19:31:05>Hasha [268441553]>admin_setle 6>Nubina>
+13/07/2013 19:31:06>Hasha [268441553]>admin_setre 6>Nubina>
+13/07/2013 19:31:07>Hasha [268441553]>admin_setrf 6>Nubina>
+13/07/2013 19:31:08>Hasha [268441553]>admin_setlf 6>Nubina>
+13/07/2013 19:31:11>Hasha [268441553]>admin_setew 6>Nubina>
+13/07/2013 19:32:43>Hasha [268441553]>admin>video2>
+13/07/2013 19:32:50>Hasha [268441553]>admin_gmshop>video2>
+13/07/2013 19:32:52>Hasha [268441553]>admin_admin>video2>
+13/07/2013 19:32:52>Hasha [268441553]>admin_move_to>video2>
+13/07/2013 19:32:53>Hasha [268441553]>admin_admin>video2>
+13/07/2013 19:32:54>Hasha [268441553]>admin_enchant>video2>
+13/07/2013 19:32:56>Hasha [268441553]>admin_seteh 6>video2>
+13/07/2013 19:32:56>Hasha [268441553]>admin_setec 6>video2>
+13/07/2013 19:32:57>Hasha [268441553]>admin_setew 6>video2>
+13/07/2013 19:32:57>Hasha [268441553]>admin_seteg 6>video2>
+13/07/2013 19:32:58>Hasha [268441553]>admin_setel 6>video2>
+13/07/2013 19:32:59>Hasha [268441553]>admin_seteb 6>video2>
+13/07/2013 19:33:14>Hasha [268441553]>admin_setew 6>Melian>
+13/07/2013 19:33:25>Hasha [268441553]>admin_seteh 6>Vikino2>
+13/07/2013 19:33:25>Hasha [268441553]>admin_setec 6>Vikino2>
+13/07/2013 19:33:26>Hasha [268441553]>admin_setew 6>Vikino2>
+13/07/2013 19:33:27>Hasha [268441553]>admin_seteg 6>Vikino2>
+13/07/2013 19:33:27>Hasha [268441553]>admin_seteb 6>Vikino2>
+13/07/2013 19:33:29>Hasha [268441553]>admin_setes 6>Vikino2>
+13/07/2013 19:33:50>Hasha [268441553]>admin_seteh 6>Spirit>
+13/07/2013 19:33:51>Hasha [268441553]>admin_setew 6>Spirit>
+13/07/2013 19:33:52>Hasha [268441553]>admin_seteg 6>Spirit>
+13/07/2013 19:33:52>Hasha [268441553]>admin_setec 6>Spirit>
+13/07/2013 19:33:53>Hasha [268441553]>admin_setel 6>Spirit>
+13/07/2013 19:33:54>Hasha [268441553]>admin_seteb 6>Spirit>
+13/07/2013 19:33:54>Hasha [268441553]>admin_setes 6>Spirit>
+13/07/2013 19:33:55>Hasha [268441553]>admin_setrf 6>Spirit>
+13/07/2013 19:33:56>Hasha [268441553]>admin_setre 6>Spirit>
+13/07/2013 19:33:56>Hasha [268441553]>admin_seten 6>Spirit>
+13/07/2013 19:33:57>Hasha [268441553]>admin_setle 6>Spirit>
+13/07/2013 19:33:58>Hasha [268441553]>admin_setlf 6>Spirit>
+13/07/2013 19:39:02>Hasha [268441553]>recall vikino2>Cementary>
+13/07/2013 19:39:41>Hasha [268441553]>reload npc>Cementary>
+13/07/2013 19:39:54>Hasha [268441553]>delete>Cementary>
+13/07/2013 19:40:01>Hasha [268441553]>spawn 40470>no-target>
+13/07/2013 19:41:39>Hasha [268441553]>reload npc>Cementary>
+13/07/2013 19:41:53>Hasha [268441553]>spawn 55555>Hasha>
+13/07/2013 19:43:01>Hasha [268441553]>invul>Doom Knight>
+13/07/2013 19:43:06>Hasha [268441553]>invul>Doom Knight>
+13/07/2013 19:43:55>Hasha [268441553]>admin_getbuffs>Doom Knight>
+13/07/2013 19:43:55>Hasha [268441553]>getbuffs>Doom Knight (268442596)>
+13/07/2013 19:44:13>Hasha [268441553]>heal>Doom Knight>
+13/07/2013 19:44:46>Hasha [268441553]>recall_npc>Doom Knight>
+13/07/2013 19:45:42>Hasha [268441553]>reload npc>no-target>
+13/07/2013 19:45:49>Hasha [268441553]>recall_npc>Doom Knight>
+13/07/2013 19:48:57>Hasha [268441553]>reload npc>Doom Knight>
+13/07/2013 19:49:05>Hasha [268441553]>recall_npc>Doom Knight>
+13/07/2013 19:49:18>Hasha [268441553]>delete>Doom Knight>
+13/07/2013 19:49:25>Hasha [268441553]>spawn 55555>no-target>
+13/07/2013 19:53:27>Hasha [268441553]>reload npc>Doom Knight>
+13/07/2013 19:53:34>Hasha [268441553]>recall_npc>Doom Knight>
+13/07/2013 19:53:47>Hasha [268441553]>heal>video2>
+13/07/2013 19:56:19>Hasha [268441553]>recall_npc>Doom Knight>
+13/07/2013 19:58:22>Hasha [268441553]>delete>Doom Knight>
+13/07/2013 19:58:30>Hasha [268441553]>spawn 25302>Hasha>
+13/07/2013 19:58:41>Hasha [268441553]>spawn 50004>Hasha>
+13/07/2013 19:58:54>Hasha [268441553]>spawn 50001>Hasha>
+13/07/2013 20:00:51>Hasha [268441553]>admin_getbuffs>Ketra's Commander Tayr>
+13/07/2013 20:00:51>Hasha [268441553]>getbuffs>Ketra's Commander Tayr (268442654)>
+13/07/2013 20:01:00>Hasha [268441553]>admin_current_player>Ketra's Commander Tayr>
+13/07/2013 20:01:02>Hasha [268441553]>admin_getbuffs>Ketra's Commander Tayr>
+13/07/2013 20:01:02>Hasha [268441553]>getbuffs>Ketra's Commander Tayr (268442654)>
+13/07/2013 20:01:04>Hasha [268441553]>admin_current_player>Ketra's Commander Tayr>
+13/07/2013 20:07:11>Hasha [268441553]>delete>Amalka>
+14/07/2013 16:27:32>Hasha [268441553]>kill>Hasha>
+14/07/2013 17:23:10>Hasha [268441553]>gmspeed 2>Nubina>
+14/07/2013 17:28:33>Hasha [268441553]>gmspeed 2>no-target>
+14/07/2013 17:28:42>Hasha [268441553]>spawn 55555>Nubina>
+14/07/2013 17:29:10>Hasha [268441553]>delete>Doom Knight>
+14/07/2013 18:17:48>Hasha [268441553]>admin>Spirit>
+14/07/2013 18:17:49>Hasha [268441553]>admin_create_item>Spirit>
+14/07/2013 18:18:09>Hasha [268441553]>admin_create_item 8599 10>Nubina>
+14/07/2013 18:18:41>Hasha [268441553]>spawn 55555>no-target>
+14/07/2013 18:20:23>Hasha [268441553]>reload config>no-target>
+14/07/2013 18:22:43>Hasha [268441553]>delete>Doom Knight>
+14/07/2013 18:25:54>Hasha [268441553]>reload config>Rolento>
+14/07/2013 18:26:15>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:19>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:22>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:26>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:28>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:31>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:34>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:38>Hasha [268441553]>res>Nubina>
+14/07/2013 18:26:40>Hasha [268441553]>res>Nubina>
+14/07/2013 18:27:17>Hasha [268441553]>res>Spirit>
+14/07/2013 18:27:41>Hasha [268441553]>admin>Nubina>
+14/07/2013 18:27:43>Hasha [268441553]>admin_enchant>Nubina>
+14/07/2013 18:27:48>Hasha [268441553]>admin_setew 10000>Nubina>
+14/07/2013 18:28:13>Hasha [268441553]>setkarma 0>Hasha>
+14/07/2013 18:28:22>Hasha [268441553]>recall nubina>Hasha>
+14/07/2013 18:29:12>Hasha [268441553]>gmspeed 4>Nubina>
+14/07/2013 18:29:38>Hasha [268441553]>res>Nubina>
+14/07/2013 18:30:26>Hasha [268441553]>res>Nubina>
+14/07/2013 18:31:25>Hasha [268441553]>kill>Nubina>
+14/07/2013 18:31:36>Hasha [268441553]>res>Nubina>
+15/07/2013 19:57:43>Hasha [268441553]>goto manny>no-target>
+15/07/2013 19:57:54>Hasha [268441553]>gmspeed 1>no-target>
+15/07/2013 20:08:17>Hasha [268441553]>reload htm>Hollint>
+15/07/2013 20:20:58>Hasha [268441553]>admin>Hollint>
+15/07/2013 20:21:00>Hasha [268441553]>admin_admin2>Hollint>
+15/07/2013 20:21:09>Hasha [268441553]>admin_pledge rep -5000>Hasha>
+15/07/2013 20:23:58>Hasha [268441553]>admin>Hasha>
+15/07/2013 20:24:15>Hasha [268441553]>admin_admin2>Hasha>
+15/07/2013 20:24:16>Hasha [268441553]>admin_pledge rep>Hasha>
+15/07/2013 20:24:19>Hasha [268441553]>admin_pledge create 100000>Hasha>
+15/07/2013 20:26:20>Hasha [268441553]>admin>Hollint>
+15/07/2013 20:26:21>Hasha [268441553]>admin_admin2>Hollint>
+15/07/2013 20:26:27>Hasha [268441553]>admin_pledge rep 200000>Hasha>
+15/07/2013 20:26:41>Hasha [268441553]>admin>Hasha>
+15/07/2013 20:26:43>Hasha [268441553]>admin_admin2>Hasha>
+15/07/2013 20:26:45>Hasha [268441553]>admin_pledge setlevel 2>Hasha>
+15/07/2013 20:28:04>Hasha [268441553]>admin>Hasha>
+15/07/2013 20:28:05>Hasha [268441553]>admin_show_characters 0>Hasha>
+15/07/2013 20:28:07>Hasha [268441553]>admin_character_info Hasha>Hasha>
+15/07/2013 20:28:08>Hasha [268441553]>admin_show_skills>Hasha>
+15/07/2013 20:28:09>Hasha [268441553]>admin_removereuse>Hasha>
+15/07/2013 20:50:36>Hasha [268441553]>reload multisell>Hollint>
+15/07/2013 20:52:32>Hasha [268441553]>reload htm>Hollint>
+15/07/2013 20:53:08>Hasha [268441553]>reload multisell>Hollint>
+15/07/2013 20:58:46>Hasha [268441553]>reload htm>Hollint>
+15/07/2013 20:59:41>Hasha [268441553]>reload htm>Hollint>
+15/07/2013 21:00:51>Hasha [268441553]>reload multisell>Hollint>
+15/07/2013 21:01:30>Hasha [268441553]>reload multisell>Hollint>
+15/07/2013 21:25:03>Hasha [268441553]>admin>Hollint>
+15/07/2013 22:01:25>Hasha [268441553]>server_shutdown 1>no-target>
+15/07/2013 22:15:55>Hasha [268441553]>admin>Hasha>
+15/07/2013 22:15:57>Hasha [268441553]>admin_show_characters 0>Hasha>
+15/07/2013 22:15:57>Hasha [268441553]>admin_character_info Hasha>Hasha>
+15/07/2013 22:15:58>Hasha [268441553]>admin_setclass>Hasha>
+15/07/2013 22:16:00>Hasha [268441553]>admin_setclass 118>Hasha>
+15/07/2013 22:16:57>Hasha [268441553]>admin>Hasha>
+15/07/2013 22:16:58>Hasha [268441553]>admin_show_characters 0>Hasha>
+15/07/2013 22:16:59>Hasha [268441553]>admin_character_info Hasha>Hasha>
+15/07/2013 22:17:01>Hasha [268441553]>admin_setclass>Hasha>
+15/07/2013 22:17:03>Hasha [268441553]>admin_setclass 90>Hasha>
+16/07/2013 18:35:22>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:36:03>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:37:01>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:37:06>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:39:40>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:42:39>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:43:03>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:43:07>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:43:16>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 18:43:31>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 19:00:05>Hasha [268441553]>reload multisell>Tantan>
+16/07/2013 19:10:35>Hasha [268441553]>recall aaa>Tantan>
+16/07/2013 19:10:39>Hasha [268441553]>recall nubina>Tantan>
+16/07/2013 19:12:00>Hasha [268441553]>admin>Nubina>
+16/07/2013 19:12:02>Hasha [268441553]>admin_create_item>Nubina>
+16/07/2013 19:12:06>Hasha [268441553]>admin_create_item 8869 111>Nubina>
+16/07/2013 19:15:08>Hasha [268441553]>spawn 50002>Hasha>
+16/07/2013 20:34:20>Hasha [268441553]>server_restart 1>Hasha>
+16/07/2013 20:39:17>Hasha [268441553]>delete>Rolento>
+16/07/2013 20:45:02>Hasha [268441553]>reload htm>Ace Ventura>
+16/07/2013 20:46:25>Hasha [268441553]>reload htm>Ace Ventura>
+16/07/2013 20:46:26>Hasha [268441553]>reload h>Ace Ventura>
+16/07/2013 20:53:42>Hasha [268441553]>reload htm>Ace Ventura>
+16/07/2013 20:53:43>Hasha [268441553]>reload htm>Ace Ventura>
+16/07/2013 20:55:50>Hasha [268441553]>reload htm>Glottis>
+16/07/2013 20:55:56>Hasha [268441553]>reload multisell>Glottis>
+16/07/2013 20:57:16>Hasha [268441553]>server_restart 1>Hasha>
+16/07/2013 21:19:27>Hasha [268441553]>admin>no-target>
+16/07/2013 21:19:31>Hasha [268441553]>admin_enchant>no-target>
+16/07/2013 21:19:35>Hasha [268441553]>admin_setrf 0>no-target>
+16/07/2013 21:33:50>Hasha [268441553]>admin>no-target>
+16/07/2013 21:33:52>Hasha [268441553]>admin_enchant>no-target>
+16/07/2013 21:33:54>Hasha [268441553]>admin_setlf 6>no-target>
+16/07/2013 21:34:32>Hasha [268441553]>server_restart>no-target>
+16/07/2013 21:34:35>Hasha [268441553]>admin_server_restart 1>no-target>
+17/07/2013 16:31:38>Hasha [268441553]>server_restart 5>no-target>
+17/07/2013 16:31:40>Hasha [268441553]>admin>no-target>
+17/07/2013 16:31:42>Hasha [268441553]>admin_show_characters 0>no-target>
+17/07/2013 16:54:41>Hasha [268441553]>admin>no-target>
+17/07/2013 16:54:42>Hasha [268441553]>admin_show_characters 0>no-target>
+17/07/2013 16:54:43>Hasha [268441553]>admin_character_info Hasha>no-target>
+17/07/2013 16:54:45>Hasha [268441553]>admin_setclass>Hasha>
+17/07/2013 16:54:47>Hasha [268441553]>admin_setclass 118>Hasha>
+17/07/2013 17:14:54>Hasha [268441553]>reload htm>no-target>
+17/07/2013 17:14:58>Hasha [268441553]>gmspeed 2>no-target>
+17/07/2013 17:16:31>Hasha [268441553]>reload htm>Hollint>
+17/07/2013 17:34:44>Hasha [268441553]>reload htm>Hollint>
+17/07/2013 17:40:28>Hasha [268441553]>gmspeed 2>Tamil>
+17/07/2013 17:51:30>Hasha [268441553]>reload multisell>Rolento>
+17/07/2013 17:54:33>Hasha [268441553]>reload multisell>Rolento>
+17/07/2013 17:55:10>Hasha [268441553]>reload multisell>Rolento>
+17/07/2013 17:58:30>Hasha [268441553]>reload multisell>Rolento>
+17/07/2013 19:08:41>Hasha [268441553]>admin>no-target>
+17/07/2013 19:08:43>Hasha [268441553]>admin_show_characters 0>no-target>
+17/07/2013 19:08:44>Hasha [268441553]>admin_character_info Hasha>no-target>
+17/07/2013 19:08:45>Hasha [268441553]>admin_setclass>Hasha>
+17/07/2013 19:08:50>Hasha [268441553]>admin_setclass 116>Hasha>
+17/07/2013 19:09:08>Hasha [268441553]>remove_all_skills>Hasha>
+17/07/2013 19:09:14>Hasha [268441553]>give_all_skills>Hasha>
+17/07/2013 19:11:02>Hasha [268441553]>setlevel 81>Hasha>
+17/07/2013 19:33:19>Hasha [268441553]>admin>Hasha>
+17/07/2013 19:33:21>Hasha [268441553]>admin_show_characters 0>Hasha>
+17/07/2013 19:33:22>Hasha [268441553]>admin_character_info Hasha>Hasha>
+17/07/2013 19:33:23>Hasha [268441553]>admin_show_skills>Hasha>
+17/07/2013 19:33:24>Hasha [268441553]>admin_skill_list>Hasha>
+17/07/2013 19:33:37>Hasha [268441553]>admin_add_skill 9200 1>Hasha>
+17/07/2013 19:33:44>Hasha [268441553]>admin>Hasha>
+17/07/2013 19:33:46>Hasha [268441553]>admin_show_characters 0>Hasha>
+17/07/2013 19:33:47>Hasha [268441553]>admin_character_info Hasha>Hasha>
+17/07/2013 19:33:48>Hasha [268441553]>admin_show_skills>Hasha>
+17/07/2013 19:33:49>Hasha [268441553]>admin_skill_list>Hasha>
+17/07/2013 19:33:54>Hasha [268441553]>admin_add_skill 9290 1>Hasha>
+17/07/2013 19:34:05>Hasha [268441553]>recall manny>Hasha>
+17/07/2013 19:35:12>Hasha [268441553]>reload skills>Manny>
+17/07/2013 19:36:05>Hasha [268441553]>admin>Manny>
+17/07/2013 19:36:07>Hasha [268441553]>admin_show_characters 0>Manny>
+17/07/2013 19:36:07>Hasha [268441553]>admin_character_info Manny>Manny>
+17/07/2013 19:36:09>Hasha [268441553]>admin_show_skills>Manny>
+17/07/2013 19:36:09>Hasha [268441553]>admin_skill_list>Manny>
+17/07/2013 19:36:13>Hasha [268441553]>admin_add_skill 9290 1>Manny>
+17/07/2013 19:37:45>Hasha [268441553]>reload skill>Manny>
+17/07/2013 19:52:21>Hasha [268441553]>admin>Manny>
+17/07/2013 19:52:23>Hasha [268441553]>admin_show_characters 0>Manny>
+17/07/2013 19:52:24>Hasha [268441553]>admin_character_info Manny>Manny>
+17/07/2013 19:52:25>Hasha [268441553]>admin_setclass>Manny>
+17/07/2013 19:52:29>Hasha [268441553]>admin_setclass 107>Manny>
+17/07/2013 19:52:36>Hasha [268441553]>remove_all_skills>Manny>
+17/07/2013 19:52:39>Hasha [268441553]>give_all_skills>Manny>
+17/07/2013 20:04:32>Hasha [268441553]>server_restart 5>Manny>
+17/07/2013 20:10:59>Hasha [268441553]>spawn 50012>no-target>
+17/07/2013 20:11:21>Hasha [268441553]>setlevel 70>Nubina>
+17/07/2013 20:11:39>Hasha [268441553]>gmspeed 2>Nubina>
+17/07/2013 20:11:51>Hasha [268441553]>recall nubina>no-target>
+17/07/2013 20:12:20>Hasha [268441553]>heal>Hasha>
+17/07/2013 20:13:41>Hasha [268441553]>delete>Tantan>
+17/07/2013 20:13:45>Hasha [268441553]>recall nubina>no-target>
+17/07/2013 20:16:34>Hasha [268441553]>reload skills>no-target>
+17/07/2013 20:17:44>Hasha [268441553]>gmspeed 4>Nubina>
+17/07/2013 20:18:24>Hasha [268441553]>reload skills>Nubina>
+17/07/2013 20:19:18>Hasha [268441553]>gmspeed 4>Nubina>
+17/07/2013 20:19:57>Hasha [268441553]>reload config>Nubina>
+17/07/2013 20:23:29>Hasha [268441553]>server_restart 5>Nubina>
+17/07/2013 20:27:13>Hasha [268441553]>gmspeed 4>Nubina>
+17/07/2013 20:29:20>Hasha [268441553]>gmspeed 2>Nubina>
+18/07/2013 20:56:34>Hasha [268441553]>admin>no-target>
+18/07/2013 20:56:35>Hasha [268441553]>admin_show_characters 0>no-target>
+18/07/2013 20:56:40>Hasha [268441553]>server_restart 5>no-target>
+18/07/2013 21:21:24>Hasha [268441553]>admin>Hasha>
+18/07/2013 21:21:26>Hasha [268441553]>admin_find_character>Hasha>
+18/07/2013 21:21:27>Hasha [268441553]>admin_character_info Hasha>Hasha>
+18/07/2013 21:21:28>Hasha [268441553]>admin_setclass>Hasha>
+18/07/2013 21:21:33>Hasha [268441553]>admin_setclass 115>Hasha>
+21/07/2013 20:35:32>Hasha [268441553]>admin>no-target>
+21/07/2013 20:35:33>Hasha [268441553]>admin_show_characters 0>no-target>
+21/07/2013 20:35:36>Hasha [268441553]>admin_character_info Manny>no-target>
+21/07/2013 20:35:37>Hasha [268441553]>admin_goto Manny>no-target>
+21/07/2013 20:36:08>Hasha [268441553]>admin_show_droplist 41601>Ritual Sacrifice>
+21/07/2013 20:36:19>Hasha [268441553]>admin>Ritual Sacrifice>
+21/07/2013 20:36:21>Hasha [268441553]>admin_show_characters 0>Ritual Sacrifice>
+21/07/2013 20:36:34>Hasha [268441553]>admin_character_info Hasha>Ritual Sacrifice>
+21/07/2013 20:36:35>Hasha [268441553]>admin_setclass>Hasha>
+21/07/2013 20:36:40>Hasha [268441553]>admin_setclass 117>Hasha>
+21/07/2013 20:36:53>Hasha [268441553]>invul>Ritual Sacrifice>
+21/07/2013 20:37:17>Hasha [268441553]>kill>Ritual Sacrifice>
+21/07/2013 20:37:37>Hasha [268441553]>kill>Ritual Sacrifice>
+21/07/2013 20:37:51>Hasha [268441553]>kill>Ritual Sacrifice>
+21/07/2013 20:41:01>Hasha [268441553]>goto spirit>no-target>
+21/07/2013 20:41:09>Hasha [268441553]>hide>no-target>
+21/07/2013 20:41:39>Hasha [268441553]>gmspeed 4>Osborn>
+21/07/2013 20:41:46>Hasha [268441553]>recall_npc>Osborn>
+21/07/2013 20:42:01>Hasha [268441553]>recall_npc>Kasman>
+21/07/2013 20:42:07>Hasha [268441553]>gmspeed 2>no-target>
+22/07/2013 19:16:38>Hasha [268441553]>gmspeed 2>no-target>
+22/07/2013 19:16:45>Hasha [268441553]>delete>Osborn>
+22/07/2013 19:19:20>Hasha [268441553]>admin>Hasha>
+22/07/2013 19:19:22>Hasha [268441553]>admin_create_item>Hasha>
+22/07/2013 19:19:27>Hasha [268441553]>admin_create_coin Adena 1234567899>Hasha>
+22/07/2013 19:19:50>Hasha [268441553]>res>null>
+22/07/2013 19:24:35>Hasha [268441553]>spawn 55555>Hasha>
+22/07/2013 19:24:48>Hasha [268441553]>invul>Doom Knight>
+22/07/2013 19:24:56>Hasha [268441553]>admin>Doom Knight>
+22/07/2013 19:24:58>Hasha [268441553]>admin_gmshop>Doom Knight>
+22/07/2013 19:25:00>Hasha [268441553]>admin_help gmshop/Weapons.htm>Doom Knight>
+22/07/2013 19:25:01>Hasha [268441553]>admin_help gmshop/sgradew.htm>Doom Knight>
+22/07/2013 19:25:02>Hasha [268441553]>admin_buy 9048>Doom Knight>
+22/07/2013 19:25:12>Hasha [268441553]>admin>Hasha>
+22/07/2013 19:25:15>Hasha [268441553]>admin_create_item>Hasha>
+22/07/2013 19:25:17>Hasha [268441553]>admin_admin>Hasha>
+22/07/2013 19:25:18>Hasha [268441553]>admin_enchant>Hasha>
+22/07/2013 19:25:20>Hasha [268441553]>admin_setew 1000>Hasha>
+22/07/2013 19:25:44>Hasha [268441553]>hide>Doom Knight>
+22/07/2013 19:25:47>Hasha [268441553]>delete>Doom Knight>
+22/07/2013 19:26:59>Hasha [268441553]>hide>no-target>
+22/07/2013 19:28:05>Hasha [268441553]>instant_move>Dark Corpse>
+22/07/2013 19:29:06>Hasha [268441553]>zone_check>Eternity Ghost>
+22/07/2013 19:29:29>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 19:44:32>Hasha [268441553]>gmspeed 4>Necromancer of Destruction>
+22/07/2013 19:56:17>Hasha [268441553]>reload zones>no-target>
+22/07/2013 19:56:36>Hasha [268441553]>zone_check>no-target>
+22/07/2013 19:56:39>Hasha [268441553]>instant_move>no-target>
+22/07/2013 19:56:41>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 19:56:43>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 19:56:51>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 19:56:59>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 19:57:43>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 19:57:54>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 19:58:07>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 19:58:16>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 19:58:51>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 19:58:55>Hasha [268441553]>reload zone>no-target>
+22/07/2013 19:59:14>Hasha [268441553]>instant_move>no-target>
+22/07/2013 19:59:18>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 19:59:19>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 19:59:30>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 19:59:43>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 19:59:48>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 19:59:56>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:00:01>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:00:14>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:00:22>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:00:24>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:02:55>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:03:16>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:05:16>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:06:30>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:06:42>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:06:48>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:07:28>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:08:23>Hasha [268441553]>reload zone>no-target>
+22/07/2013 20:08:33>Hasha [268441553]>zone_check>no-target>
+22/07/2013 20:08:36>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:08:45>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:08:46>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:08:51>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:08:57>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:09:00>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:09:02>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:09:06>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:09:15>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:09:17>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:09:22>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:09:32>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:09:38>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:09:44>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:09:49>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:09:51>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:10:20>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:10:30>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:10:32>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:10:34>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:10:39>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:10:43>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:10:46>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:11:02>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:11:04>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:11:08>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:11:11>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:11:41>Hasha [268441553]>reload zone>no-target>
+22/07/2013 20:12:02>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:12:23>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:12:29>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:12:39>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:12:42>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:12:43>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:12:50>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:12:52>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:12:56>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:13:01>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:13:06>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:13:08>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:13:10>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:13:26>Hasha [268441553]>reload zone>no-target>
+22/07/2013 20:13:48>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:14:35>Hasha [268441553]>admin_admin4>no-target>
+22/07/2013 20:14:38>Hasha [268441553]>admin_admin>no-target>
+22/07/2013 20:14:39>Hasha [268441553]>admin_move_to>no-target>
+22/07/2013 20:14:57>Hasha [268441553]>admin_move_to 165700 23500 5000>no-target>
+22/07/2013 20:15:43>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:15:51>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:15:59>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:16:41>Hasha [268441553]>reload zone>no-target>
+22/07/2013 20:16:56>Hasha [268441553]>zone_check>no-target>
+22/07/2013 20:16:58>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:17:04>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:17:06>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:17:16>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:17:21>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:17:47>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:18:05>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:18:11>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:18:16>Hasha [268441553]>gmspeed 1>no-target>
+22/07/2013 20:18:26>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:18:29>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:18:37>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:19:27>Hasha [268441553]>reload zone>no-target>
+22/07/2013 20:19:52>Hasha [268441553]>zone_check>no-target>
+22/07/2013 20:19:53>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:19:57>Hasha [268441553]>admin_zone_visual_clear>no-target>
+22/07/2013 20:20:06>Hasha [268441553]>instant_move>no-target>
+22/07/2013 20:20:17>Hasha [268441553]>admin_zone_check>no-target>
+22/07/2013 20:20:18>Hasha [268441553]>admin_zone_visual all>no-target>
+22/07/2013 20:20:27>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 18:53:12>Hasha [268441553]>gmspeed 2>no-target>
+23/07/2013 18:53:30>Hasha [268441553]>zone_check>no-target>
+23/07/2013 18:53:44>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 18:53:49>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 18:53:59>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 18:54:02>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 18:55:04>Hasha [268441553]>gmspeed 4>no-target>
+23/07/2013 18:55:27>Hasha [268441553]>admin_zone_check>Guilotine>
+23/07/2013 18:55:35>Hasha [268441553]>admin_zone_visual all>Guilotine>
+23/07/2013 18:56:15>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 18:56:21>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 18:56:23>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 18:56:25>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 18:56:31>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 18:56:43>Hasha [268441553]>instant_move>no-target>
+23/07/2013 18:56:54>Hasha [268441553]>instant_move>no-target>
+23/07/2013 18:57:00>Hasha [268441553]>instant_move>no-target>
+23/07/2013 18:57:16>Hasha [268441553]>instant_move>no-target>
+23/07/2013 18:57:21>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 18:57:23>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 18:57:35>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 18:57:45>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 18:58:15>Hasha [268441553]>gmspeed 0>no-target>
+23/07/2013 18:59:18>Hasha [268441553]>gmspeed 2>no-target>
+23/07/2013 19:01:07>Hasha [268441553]>zone_check>no-target>
+23/07/2013 19:01:08>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:02:01>Hasha [268441553]>zone_check>no-target>
+23/07/2013 19:02:09>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:02:12>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:02:19>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:02:23>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:03:34>Hasha [268441553]>reload zone>no-target>
+23/07/2013 19:03:52>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:04:07>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:04:08>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:04:21>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:04:22>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:04:23>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:04:55>Hasha [268441553]>gmspeed 4>no-target>
+23/07/2013 19:06:40>Hasha [268441553]>instant_move>no-target>
+23/07/2013 19:07:14>Hasha [268441553]>instant_move>no-target>
+23/07/2013 19:10:38>Hasha [268441553]>reload zone>no-target>
+23/07/2013 19:10:51>Hasha [268441553]>zone_check>no-target>
+23/07/2013 19:10:53>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:10:54>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:10:59>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:11:02>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:11:10>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:11:13>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:11:25>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:11:26>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:11:27>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:12:30>Hasha [268441553]>zone_check>no-target>
+23/07/2013 19:16:20>Hasha [268441553]>reload zone>no-target>
+23/07/2013 19:16:35>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:16:40>Hasha [268441553]>gmspeed 2>no-target>
+23/07/2013 19:16:59>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:17:59>Hasha [268441553]>reload zone>no-target>
+23/07/2013 19:18:18>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:18:20>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:18:25>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:18:43>Hasha [268441553]>gmspeed 3>no-target>
+23/07/2013 19:18:53>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:19:02>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:19:15>Hasha [268441553]>instant_move>no-target>
+23/07/2013 19:19:21>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:19:22>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:19:25>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:19:42>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:20:13>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:20:15>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:20:32>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:20:33>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:20:44>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:20:46>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:20:51>Hasha [268441553]>admin_zone_check>no-target>
+23/07/2013 19:20:52>Hasha [268441553]>admin_zone_visual all>no-target>
+23/07/2013 19:21:06>Hasha [268441553]>zone_check>no-target>
+23/07/2013 19:21:07>Hasha [268441553]>admin_zone_visual_clear>no-target>
+23/07/2013 19:22:54>Hasha [268441553]>kill>Hasha>
+23/07/2013 19:22:59>Hasha [268441553]>invul>Hasha>
+23/07/2013 19:23:01>Hasha [268441553]>kill>Hasha>
+23/07/2013 19:23:37>Hasha [268441553]>gmspeed 2>no-target>
+23/07/2013 19:25:10>Hasha [268441553]>gmspeed 4>no-target>
+27/07/2013 12:51:40>Hasha [268441553]>gmspeed 2>no-target>
+27/07/2013 14:22:16>Hasha [268441553]>gmspeed 4>Hollint>
+27/07/2013 14:54:39>Hasha [268441553]>spawn 55555>Hasha>
+27/07/2013 14:54:55>Hasha [268441553]>delete>Doom Knight>
+27/07/2013 15:32:45>Hasha [268441553]>goto spirit>no-target>
+27/07/2013 15:33:52>Hasha [268441553]>hide>Guilotine>
+01/08/2013 18:01:56>Hasha [268441553]>gmspeed 4>no-target>
+01/08/2013 18:02:10>Hasha [268441553]>server_restart 3>Guilotine>
+01/08/2013 18:08:15>Hasha [268441553]>hide>Zaken's Elite Pikeman>
+01/08/2013 18:08:23>Hasha [268441553]>gmspeed 2>no-target>
+01/08/2013 18:09:05>Hasha [268441553]>gmspeed 2>no-target>
+01/08/2013 18:11:27>Hasha [268441553]>invul>Headless Knight>
+01/08/2013 20:31:22>Hasha [268441553]>goto manny>no-target>
+01/08/2013 20:31:56>Hasha [268441553]>gmspeed 3>Hollint>
+01/08/2013 20:32:51>Hasha [268441553]>kill>Frozen Labyrinth>
+01/08/2013 20:34:31>Hasha [268441553]>server_restart 5>Frozen Labyrinth>
+01/08/2013 20:41:09>Hasha [268441553]>admin>no-target>
+01/08/2013 20:41:11>Hasha [268441553]>admin_gmshop>no-target>
+01/08/2013 20:41:15>Hasha [268441553]>admin_buy 300511>no-target>
+01/08/2013 20:41:51>Hasha [268441553]>gmspeed 4>Caron's Dungeon>
+01/08/2013 20:51:38>Hasha [268441553]>server_restart 5>Tardis>
+15/08/2013 7:00:47>Hasha [268441553]>gmspeed 4>Hasha>
+15/08/2013 7:03:17>Hasha [268441553]>admin_show_droplist 40504>Hot Springs Yeti>
+15/08/2013 7:04:15>Hasha [268441553]>server_restart 1>Frozen Labyrinth>
+15/08/2013 13:25:52>Hasha [268441553]>kill>Cementary>
+15/08/2013 13:26:01>Hasha [268441553]>server_restart 10>Cementary>
+15/08/2013 15:29:08>Hasha [268441553]>admin>no-target>
+15/08/2013 15:29:08>Hasha [268441553]>admin_move_to>no-target>
+15/08/2013 15:29:10>Hasha [268441553]>admin_help tele/towns_castles.htm>no-target>
+15/08/2013 15:29:11>Hasha [268441553]>admin_tele>no-target>
+15/08/2013 15:29:12>Hasha [268441553]>admin_help tele/towns_castles.htm>no-target>
+15/08/2013 15:29:14>Hasha [268441553]>admin_move_to 22150 158042 -2873>no-target>
+15/08/2013 15:29:48>Hasha [268441553]>instant_move>no-target>
+15/08/2013 15:31:45>Hasha [268441553]>instant_move>no-target>
+15/08/2013 15:42:03>Hasha [268441553]>instant_move>no-target>
+15/08/2013 15:42:03>Hasha [268441553]>instant_move>no-target>

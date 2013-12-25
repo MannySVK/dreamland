@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2007 by tReXpert -->
+
+<list maintainEnchantment="true">
+
+  <!-- Elven Long Sword -->
+  <item id="1">
+    <ingredient id="8870" count="1"/>
+    <production id="2499" count="1"/>
+    <production id="1463" count="6000"/>
+    <production id="3948" count="3000"/>
+  </item>
+
+  <!-- Claymore -->
+  <item id="2">
+    <ingredient id="8870" count="1"/>
+    <production id="70" count="1"/>
+    <production id="1463" count="6000"/>
+    <production id="3948" count="3000"/>
+  </item>
+
+  <!-- Bonebreaker -->
+  <item id="3">
+    <ingredient id="8870" count="1"/>
+    <production id="159" count="1"/>
+    <production id="1463" count="6000"/>
+    <production id="3948" count="3000"/>
+  </item>
+
+  <!-- Titan Hammer -->
+  <item id="4">
+    <ingredient id="8870" count="1"/>
+    <production id="7896" count="1"/>
+    <production id="3948" count="3000"/>
+    <production id="1463" count="6000"/>
+  </item>
+
+  <!-- Staff of Life -->
+  <item id="5">
+    <ingredient id="8870" count="1"/>
+    <production id="189" count="1"/>
+    <production id="3948" count="6000"/>
+    <production id="1463" count="3000"/>
+  </item>
+
+  <!-- Ghost Staff -->
+  <item id="6">
+    <ingredient id="8870" count="1"/>
+    <production id="188" count="1"/>
+    <production id="3948" count="6000"/>
+    <production id="1463" count="3000"/>
+  </item>
+
+  <!-- Mithril Dagger -->
+  <item id="7">
+    <ingredient id="8870" count="1"/>
+    <production id="225" count="1"/>
+    <production id="3948" count="6000"/>
+    <production id="1463" count="6000"/>
+  </item>
+
+  <!-- Light Crossbow -->
+  <item id="8">
+    <ingredient id="8870" count="1"/>
+    <production id="280" count="1"/>
+    <production id="1341" count="2000"/>
+    <production id="1463" count="20000"/>
+    <production id="3948" count="3000"/>
+  </item>
+
+  <!-- Glaive -->
+  <item id="9">
+    <ingredient id="8870" count="1"/>
+    <production id="297" count="1"/>
+    <production id="3948" count="3000"/>
+    <production id="1463" count="6000"/>
+  </item>
+
+  <!-- Scallop Jamadhr -->
+  <item id="10">
+    <ingredient id="8870" count="1"/>
+    <production id="262" count="1"/>
+    <production id="3948" count="3000"/>
+    <production id="1463" count="6000"/>
+  </item>
+
+  <!-- Bastard Sword*Bastard Sword -->
+  <item id="11">
+    <ingredient id="8870" count="1"/>
+    <production id="2525" count="1"/>
+    <production id="1463" count="6000"/>
+    <production id="3948" count="3000"/>
+  </item>
+
+
+</list>

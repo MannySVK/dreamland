@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- S Weapons -->
+	<item id="1">
+		<production id="6365" count="1"/>
+		<ingredient id="6689" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="2">
+		<production id="6369" count="1"/>
+		<ingredient id="6693" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="3">
+		<production id="6579" count="1"/>
+		<ingredient id="6697" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="4">
+		<production id="6366" count="1"/>
+		<ingredient id="6690" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="5">
+		<production id="6364" count="1"/>
+		<ingredient id="6688" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="6">
+		<production id="6372" count="1"/>
+		<ingredient id="6696" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="7">
+		<production id="6367" count="1"/>
+		<ingredient id="6691" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="8">
+		<production id="6368" count="1"/>
+		<ingredient id="6692" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="9">
+		<production id="7575" count="1"/>
+		<ingredient id="7579" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="10">
+		<production id="6371" count="1"/>
+		<ingredient id="6695" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="11">
+		<production id="6370" count="1"/>
+		<ingredient id="6694" count="1"/>
+		<ingredient id="57" count="70000000"/>
+	</item>
+	<item id="12">
+		<production id="6580" count="1"/>
+		<ingredient id="5545" count="1"/>
+		<ingredient id="57" count="1200000000"/>
+	</item>
+</list>

@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+	<!-- Update Tattoo LVL 2 -->
+  
+	<item id="1">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9300" count="1"/>
+		<production id="9301" count="1"/>
+	</item>
+	<item id="2">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9303" count="1"/>
+		<production id="9304" count="1"/>
+	</item>
+
+	<item id="3">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9306" count="1"/>
+		<production id="9307" count="1"/>
+	</item>
+	<item id="4">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9309" count="1"/>
+		<production id="9310" count="1"/>
+	</item>
+
+	<item id="5">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9312" count="1"/>
+		<production id="9313" count="1"/>
+	</item>
+	<item id="6">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9315" count="1"/>
+		<production id="9316" count="1"/>
+	</item>
+
+	<item id="7">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9318" count="1"/>
+		<production id="9319" count="1"/>
+	</item>
+	<item id="8">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9321" count="1"/>
+		<production id="9322" count="1"/>
+	</item>
+
+	<item id="9">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9324" count="1"/>
+		<production id="9325" count="1"/>
+	</item>
+	<item id="10">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9327" count="1"/>
+		<production id="9328" count="1"/>
+	</item>
+
+	<item id="11">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9330" count="1"/>
+		<production id="9331" count="1"/>
+	</item>
+	<item id="12">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9333" count="1"/>
+		<production id="9334" count="1"/>
+	</item>
+
+	<item id="13">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9336" count="1"/>
+		<production id="9337" count="1"/>
+	</item>
+	<item id="14">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9339" count="1"/>
+		<production id="9340" count="1"/>
+	</item>
+
+	<item id="15">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9342" count="1"/>
+		<production id="9343" count="1"/>
+	</item>
+	<item id="16">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9345" count="1"/>
+		<production id="9346" count="1"/>
+	</item>
+
+	<item id="17">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9348" count="1"/>
+		<production id="9349" count="1"/>
+	</item>
+	<item id="18">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9351" count="1"/>
+		<production id="9352" count="1"/>
+	</item>
+
+	<item id="19">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9354" count="1"/>
+		<production id="9355" count="1"/>
+	</item>
+	<item id="20">
+		<ingredient id="57" count="500000"/>
+		<ingredient id="9357" count="1"/>
+		<production id="9358" count="1"/>
+	</item>
+
+	<!-- Tattoo lvl 3 -->
+
+	<item id="21">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9301" count="1"/>
+		<production id="9302" count="1"/>
+	</item>
+	<item id="22">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9304" count="1"/>
+		<production id="9305" count="1"/>
+	</item>
+
+	<item id="23">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9307" count="1"/>
+		<production id="9308" count="1"/>
+	</item>
+	<item id="24">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9310" count="1"/>
+		<production id="9311" count="1"/>
+	</item>
+
+	<item id="25">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9313" count="1"/>
+		<production id="9314" count="1"/>
+	</item>
+	<item id="26">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9316" count="1"/>
+		<production id="9317" count="1"/>
+	</item>
+
+	<item id="27">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9319" count="1"/>
+		<production id="9320" count="1"/>
+	</item>
+	<item id="28">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9322" count="1"/>
+		<production id="9323" count="1"/>
+	</item>
+
+	<item id="29">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9325" count="1"/>
+		<production id="9326" count="1"/>
+	</item>
+	<item id="30">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9328" count="1"/>
+		<production id="9329" count="1"/>
+	</item>
+
+	<item id="31">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9331" count="1"/>
+		<production id="9332" count="1"/>
+	</item>
+	<item id="32">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9334" count="1"/>
+		<production id="9335" count="1"/>
+	</item>
+
+	<item id="33">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9337" count="1"/>
+		<production id="9338" count="1"/>
+	</item>
+	<item id="34">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9340" count="1"/>
+		<production id="9341" count="1"/>
+	</item>
+
+	<item id="35">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9343" count="1"/>
+		<production id="9344" count="1"/>
+	</item>
+	<item id="36">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9346" count="1"/>
+		<production id="9347" count="1"/>
+	</item>
+
+	<item id="37">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9349" count="1"/>
+		<production id="9350" count="1"/>
+	</item>
+	<item id="38">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9352" count="1"/>
+		<production id="9353" count="1"/>
+	</item>
+
+	<item id="39">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9355" count="1"/>
+		<production id="9356" count="1"/>
+	</item>
+	<item id="40">
+		<ingredient id="57" count="1000000"/>
+		<ingredient id="9358" count="1"/>
+		<production id="9359" count="1"/>
+	</item>	
+</list>

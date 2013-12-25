@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="9100" levels="3" name="Talisman of Might">
+		<table name="#pAtk"> 1.06 1.07 1.08 </table>
+		<table name="#pDef"> 0.96 0.97 0.98 </table>
+		<table name="#pSpd"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="pAtkSpd" val="#pSpd"/>
+		</for>
+	</skill>
+	<skill id="9101" levels="3" name="Talisman of Might">
+		<table name="#pAtk"> 1.06 1.07 1.08 </table>
+		<table name="#pSpd"> 0.96 0.97 0.98 </table>
+		<table name="#pDef"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+			<mul order="0x30" stat="pAtkSpd" val="#pSpd"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+		</for>
+	</skill>
+	<skill id="9102" levels="3" name="Talisman of Shield">
+		<table name="#pDef"> 1.06 1.07 1.08 </table>
+		<table name="#pAtk"> 0.96 0.97 0.98 </table>
+		<table name="#pSpd"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+			<mul order="0x30" stat="pAtkSpd" val="#pSpd"/>
+		</for>
+	</skill>
+	<skill id="9103" levels="3" name="Talisman of Shield">
+		<table name="#pDef"> 1.06 1.07 1.08 </table>
+		<table name="#pSpd"> 0.96 0.97 0.98 </table>
+		<table name="#pAtk"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="pAtkSpd" val="#pSpd"/>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="9104" levels="3" name="Talisman of Haste">
+		<table name="#pSpd"> 1.06 1.07 1.08 </table>
+		<table name="#pAtk"> 0.96 0.97 0.98 </table>
+		<table name="#pDef"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="#pSpd"/>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+		</for>
+	</skill>
+	<skill id="9105" levels="3" name="Talisman of Haste">
+		<table name="#pSpd"> 1.06 1.07 1.08 </table>
+		<table name="#pDef"> 0.96 0.97 0.98 </table>
+		<table name="#pAtk"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="#pSpd"/>
+			<mul order="0x30" stat="pDef" val="#pDef"/>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="9106" levels="3" name="Talisman of Empower">
+		<table name="#mAtk"> 1.06 1.07 1.08 </table>
+		<table name="#mDef"> 0.96 0.97 0.98 </table>
+		<table name="#mSpd"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtk" val="#mAtk"/>
+			<mul order="0x30" stat="mDef" val="#mDef"/>
+			<mul order="0x30" stat="mAtkSpd" val="#mSpd"/>
+		</for>
+	</skill>
+	<skill id="9107" levels="3" name="Talisman of Empower">
+		<table name="#mAtk"> 1.06 1.07 1.08 </table>
+		<table name="#mSpd"> 0.96 0.97 0.98 </table>
+		<table name="#mDef"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtk" val="#mAtk"/>
+			<mul order="0x30" stat="mAtkSpd" val="#mSpd"/>
+			<mul order="0x30" stat="mDef" val="#mDef"/>
+		</for>
+	</skill>
+	<skill id="9108" levels="3" name="Talisman of Barrier">
+		<table name="#mDef"> 1.06 1.07 1.08 </table>
+		<table name="#mAtk"> 0.96 0.97 0.98 </table>
+		<table name="#mSpd"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mDef" val="#mDef"/>
+			<mul order="0x30" stat="mAtk" val="#mAtk"/>
+			<mul order="0x30" stat="mAtkSpd" val="#mSpd"/>
+		</for>
+	</skill>
+	<skill id="9109" levels="3" name="Talisman of Barrier">
+		<table name="#mDef"> 1.06 1.07 1.08 </table>
+		<table name="#mSpd"> 0.96 0.97 0.98 </table>
+		<table name="#mAtk"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mDef" val="#mDef"/>
+			<mul order="0x30" stat="mAtkSpd" val="#mSpd"/>
+			<mul order="0x30" stat="mAtk" val="#mAtk"/>
+		</for>
+	</skill>
+	<skill id="9110" levels="3" name="Talisman of Acumen">
+		<table name="#mSpd"> 1.06 1.07 1.08 </table>
+		<table name="#mAtk"> 0.96 0.97 0.98 </table>
+		<table name="#mDef"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="#mSpd"/>
+			<mul order="0x30" stat="mAtk" val="#mAtk"/>
+			<mul order="0x30" stat="mDef" val="#mDef"/>
+		</for>
+	</skill>
+	<skill id="9111" levels="3" name="Talisman of Acumen">
+		<table name="#mSpd"> 1.06 1.07 1.08 </table>
+		<table name="#mDef"> 0.96 0.97 0.98 </table>
+		<table name="#mAtk"> 0.98 0.985 0.99 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="#mSpd"/>
+			<mul order="0x30" stat="mDef" val="#mDef"/>
+			<mul order="0x30" stat="mAtk" val="#mAtk"/>
+		</for>
+	</skill>
+	<skill id="9112" levels="3" name="Talisman of Guidance">
+		<table name="#Acc"> 6 7 8 </table>
+		<table name="#Eva"> 4 3 2 </table>
+		<table name="#Spd"> 2 1.5 1 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="accCombat" val="#Acc"/>
+			<sub order="0x40" stat="rEvas" val="#Eva"/>
+			<sub order="0x40" stat="runSpd" val="#Spd"/>
+		</for>
+	</skill>
+	<skill id="9113" levels="3" name="Talisman of Guidance">
+		<table name="#Acc"> 6 7 8 </table>
+		<table name="#Spd"> 4 3 2 </table>
+		<table name="#Eva"> 2 1.5 1 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="accCombat" val="#Acc"/>
+			<sub order="0x40" stat="runSpd" val="#Spd"/>
+			<sub order="0x40" stat="rEvas" val="#Eva"/>
+		</for>
+	</skill>
+	<skill id="9114" levels="3" name="Talisman of Agility">
+		<table name="#Eva"> 6 7 8 </table>
+		<table name="#Acc"> 4 3 2 </table>
+		<table name="#Spd"> 2 1.5 1 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="rEvas" val="#Eva"/>
+			<sub order="0x40" stat="accCombat" val="#Acc"/>
+			<sub order="0x40" stat="runSpd" val="#Spd"/>
+		</for>
+	</skill>
+	<skill id="9115" levels="3" name="Talisman of Agility">
+		<table name="#Eva"> 6 7 8 </table>
+		<table name="#Spd"> 4 3 2 </table>
+		<table name="#Acc"> 2 1.5 1 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="rEvas" val="#Eva"/>
+			<sub order="0x40" stat="runSpd" val="#Spd"/>
+			<sub order="0x40" stat="accCombat" val="#Acc"/>
+		</for>
+	</skill>
+	<skill id="9116" levels="3" name="Talisman of Windwalk">
+		<table name="#Spd"> 6 7 8 </table>
+		<table name="#Acc"> 4 3 2 </table>
+		<table name="#Eva"> 2 1.5 1 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="runSpd" val="#Spd"/>
+			<sub order="0x40" stat="accCombat" val="#Acc"/>
+			<sub order="0x40" stat="rEvas" val="#Eva"/>
+		</for>
+	</skill>
+	<skill id="9117" levels="3" name="Talisman of Windwalk">
+		<table name="#Spd"> 6 7 8 </table>
+		<table name="#Eva"> 4 3 2 </table>
+		<table name="#Acc"> 2 1.5 1 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="runSpd" val="#Spd"/>
+			<sub order="0x40" stat="rEvas" val="#Eva"/>
+			<sub order="0x40" stat="accCombat" val="#Acc"/>
+		</for>
+	</skill>
+	<skill id="9118" levels="3" name="Talisman of Body">
+		<table name="#BtB"> 1.12 1.14 1.16 </table>
+		<table name="#BtS"> 0.92 0.94 0.96 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxHp" val="#BtB"/>
+			<mul order="0x30" stat="maxMp" val="#BtS"/>
+		</for>
+	</skill>
+	<skill id="9119" levels="3" name="Talisman of Soul">
+		<table name="#BtS"> 1.12 1.14 1.16 </table>
+		<table name="#BtB"> 0.92 0.94 0.96 </table>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxMp" val="#BtS"/>
+			<mul order="0x30" stat="maxHp" val="#BtB"/>
+		</for>
+	</skill>
+</list>

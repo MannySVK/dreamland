@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<item id="9400" type="EtcItem" name="Recipe: Adena - level 1">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9401" type="EtcItem" name="Recipe: Adena - level 2">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9402" type="EtcItem" name="Recipe: Adena - level 3">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9403" type="EtcItem" name="Recipe: Adena - level 4">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9404" type="EtcItem" name="Recipe: Adena - level 5">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9405" type="EtcItem" name="Recipe: Adena - level 6">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>
+	<item id="9450" type="EtcItem" name="Chest of Armor">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="2" />
+
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="9350-1" />
+	</item>
+	<item id="9451" type="EtcItem" name="Chest of Jewelry">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="2" />
+
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="9350-2" />
+	</item>
+	<item id="9452" type="EtcItem" name="Chest of Weapon">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="2" />
+
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="9350-3" />
+	</item>
+	<item id="9453" type="EtcItem" name="Chest of Blessings">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="2" />
+
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="9350-4" />
+	</item>	
+	<item id="9454" type="EtcItem" name="Chest of Specials">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="2" />
+
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="9350-5" />
+	</item>	
+	<item id="9455" type="EtcItem" name="Chest of Golden Ingot">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="2" />
+
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="9350-6" />
+	</item>	
+	<item id="9456" type="EtcItem" name="Chest of Clan Eggs">
+		<set name="etcitem_type" val="material" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="2" />
+
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="9350-7" />
+	</item>	
+	<!-- Recepty na crafting fragmentov/partov/elementov -->
+	<item id="9461" type="EtcItem" name="Recipe: Dagger Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9462" type="EtcItem" name="Recipe: Sword Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9463" type="EtcItem" name="Recipe: Two-Handed Sword Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9464" type="EtcItem" name="Recipe: Dual Swords Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9465" type="EtcItem" name="Recipe: Bow Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9466" type="EtcItem" name="Recipe: Fist Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9467" type="EtcItem" name="Recipe: Blunt Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9468" type="EtcItem" name="Recipe: Polearm Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9469" type="EtcItem" name="Recipe: Two-Handed Blunt Fragment">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9471" type="EtcItem" name="Recipe: Helmet Part">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>		
+	<item id="9472" type="EtcItem" name="Recipe: Gloves Part">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>		
+	<item id="9473" type="EtcItem" name="Recipe: Boots Part">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>		
+	<item id="9474" type="EtcItem" name="Recipe: Body Part">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>			
+	<item id="9475" type="EtcItem" name="Recipe: Gaiters Part">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>		
+	<item id="9476" type="EtcItem" name="Recipe: Shield Part">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>		
+	<item id="9481" type="EtcItem" name="Recipe: Ring Element">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>		
+	<item id="9482" type="EtcItem" name="Recipe: Earring Element">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+	<item id="9483" type="EtcItem" name="Recipe: Necklace Element">
+		<set name="default_action" val="recipe" />
+		<set name="etcitem_type" val="recipe" />
+		<set name="material" val="liquid" />
+		<set name="weight" val="30" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="Recipes" />
+	</item>	
+</list>

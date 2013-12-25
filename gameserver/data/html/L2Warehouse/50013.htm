@@ -1,0 +1,46 @@
+<html>
+<body>
+<title>Warehouse Keeper</title>
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+Welcome <font color="LEVEL">%name%</font>, how may I help you today?
+
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+You can deposit items into <font color="LEVEL">private warehouse</font> and protect them from thieves. You can withdraw them later.
+<center>
+	<table>
+		<tr>
+			<td width="75"> <button value="Deposit" action="bypass -h npc_%objectId%_DepositP" width=75 height=21 fore="L2UI_ch3.Btn1_normal" back="L2UI_ch3.Btn1_normalOn"> </td>
+			<td width="75"> <button value="Withdraw" action="bypass -h npc_%objectId%_WithdrawP" width=75 height=21 fore="L2UI_ch3.Btn1_normal" back="L2UI_ch3.Btn1_normalOn"> </td>
+		</tr>	
+	</table>	
+
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+<font color="LEVEL">Clan warehouse</font> is available, when you are in <font color="LEVEL">clan</font>. You can deposit item, but only clan leader can withdraw them.
+<center>
+	<table>
+		<tr>
+			<td> <button value="Deposit" action="bypass -h npc_%objectId%_DepositC" width=75 height=21 fore="L2UI_ch3.Btn1_normal" back="L2UI_ch3.Btn1_normalOn"> </td>
+			<td> <button value="Withdraw" action="bypass -h npc_%objectId%_WithdrawC" width=75 height=21 fore="L2UI_ch3.Btn1_normal" back="L2UI_ch3.Btn1_normalOn"> </td>
+		</tr>		
+	</table>
+	
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+<font color="LEVEL">Freight warehouse</font> can be used to <font color="LEVEL">transfer items</font> between your <font color="LEVEL">characters</font> on this account.
+<center>
+	<table>
+		<tr>
+			<td> <button value="Deposit" action="bypass -h npc_%objectId%_DepositF" width=75 height=21 fore="L2UI_ch3.Btn1_normal" back="L2UI_ch3.Btn1_normalOn"> </td>
+			<td> <button value="Withdraw" action="bypass -h npc_%objectId%_WithdrawF" width=75 height=21 fore="L2UI_ch3.Btn1_normal" back="L2UI_ch3.Btn1_normalOn"> </td>
+		</tr>
+	</table>	
+<center>
+<img src="L2UI_CH3.herotower_deco" width=256 height=32>
+</center>
+</body>
+</html>
